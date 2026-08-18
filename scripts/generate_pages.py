@@ -78,6 +78,7 @@ def page_head(title, desc, keywords, canonical, root, extra_ld=""):
 <html lang="ko">
 <head>
 {HEAD_COMMON}
+  <meta name="naver-site-verification" content="8bdef723dac0fc357e0c6f1105a7656b0787bd6c" />
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%9A%8C%3C/text%3E%3C/svg%3E">
   <title>{title}</title>
   <meta name="description" content="{desc}">
@@ -107,6 +108,11 @@ def fmt_time(t):
 def fmt_time_range(day):
     if not day:
         return None
+    times = day.get("times")
+    if times:
+        if len(times) <= 4:
+            return ", ".join(times)
+        return f"{times[0]} ~ {times[-1]}"
     sf, sl = day.get("start_first", ""), day.get("start_last", "")
     if not sf:
         return None

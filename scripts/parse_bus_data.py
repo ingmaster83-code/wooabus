@@ -75,6 +75,26 @@ def load_schedule():
     return sched
 
 
+def merge_day_entries(entries):
+    """같은 (노선명,기점,종점)으로 묶인 여러 노선 아이디의 동일 요일 시간표를 하나로 합친다."""
+    entries = [e for e in entries if e]
+    if not entries:
+        return None
+    if len(entries) == 1:
+        return dict(entries[0], times=None)
+
+    total_trips = sum(int(e["trips"]) for e in entries if e["trips"].isdigit())
+    times = sorted({t for e in entries for t in (e["start_first"], e["start_last"]) if t})
+    return {
+        "trips": str(total_trips) if total_trips else str(len(entries)),
+        "start_first": times[0] if times else "",
+        "start_last": times[-1] if times else "",
+        "min_interval": "",
+        "max_interval": "",
+        "times": times,
+    }
+
+
 def main():
     routes = load_routes()
     print(f"노선정보 {len(routes)}건 로드")
@@ -82,7 +102,7 @@ def main():
     print(f"시간표 {len(sched)}개 노선 로드")
 
     unmatched_city = set()
-    by_city = defaultdict(list)
+    by_group = defaultdict(list)
     joined = 0
     for rid, day_sched in sched.items():
         r = routes.get(rid)
@@ -92,17 +112,29 @@ def main():
         if city not in SIGUNGU_TO_SIDO:
             unmatched_city.add(city)
             continue
-        by_city[city].append({
-            "id": r["id"],
-            "name": r["name"],
-            "start": r["start"],
-            "end": r["end"],
-            "schedule": {day: day_sched.get(day) for day in DAY_TYPES},
-        })
+        key = (city, r["name"], r["start"], r["end"])
+        by_group[key].append({day: day_sched.get(day) for day in DAY_TYPES})
         joined += 1
 
     if unmatched_city:
         print(f"경고: 시도 매핑 없는 지자체 {sorted(unmatched_city)}")
+
+    by_city = defaultdict(list)
+    merged_groups = 0
+    for (city, name, start, end), members in by_group.items():
+        if len(members) > 1:
+            merged_groups += 1
+        merged_schedule = {
+            day: merge_day_entries([m.get(day) for m in members])
+            for day in DAY_TYPES
+        }
+        by_city[city].append({
+            "name": name,
+            "start": start,
+            "end": end,
+            "schedule": merged_schedule,
+        })
+    print(f"동일 노선(번호+기점+종점) 중복 등록 {merged_groups}건을 1개 행으로 병합")
 
     cities = {}
     for city, city_routes in by_city.items():
@@ -113,7 +145,7 @@ def main():
         }
 
     total_routes = sum(len(c["routes"]) for c in cities.values())
-    print(f"조인 완료: {joined}개 노선 -> {len(cities)}개 지자체 (총 {total_routes}개 노선)")
+    print(f"조인 완료: {joined}개 노선 -> {len(cities)}개 지자체 (병합 후 총 {total_routes}개 노선)")
 
     OUT_JSON.write_text(json.dumps({"cities": cities}, ensure_ascii=False, indent=None), encoding="utf-8")
     print(f"저장: {OUT_JSON} ({OUT_JSON.stat().st_size:,} bytes)")
