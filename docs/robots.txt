@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+User-agent: Daum
+Allow: /
+
+Sitemap: https://wooabus.wooahouse.com/sitemap.xml
