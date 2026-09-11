@@ -62,6 +62,8 @@ HEADER_TMPL = """<header>
     <a href="{root}index.html" class="logo">🚌 WooaBus</a>
     <nav>
       <a href="{root}index.html#region">지역별 시간표</a>
+      <a href="{root}고속버스/index.html">고속버스</a>
+      <a href="{root}시외버스/index.html">시외버스</a>
       <a href="{root}about.html">소개</a>
     </nav>
   </div>
@@ -279,7 +281,7 @@ def gen_city_page(sido, sigungu, routes):
     </details>
     <details>
       <summary>이 사이트에서 버스표를 예매할 수 있나요?</summary>
-      <p>아니요. 우아버스는 시내·농어촌버스 시간표 조회 전용 서비스입니다. 시내버스는 별도 예매 없이 정류장에서 승차하시면 되고, 시외/고속버스 승차권 예매는 각 터미널 또는 예매 사이트를 이용해주세요.</p>
+      <p>이 페이지(시내·농어촌버스)는 예매 없이 정류장에서 바로 승차하시면 됩니다. 고속버스·시외버스는 별도로 <a href="../../고속버스/index.html">고속버스</a>·<a href="../../시외버스/index.html">시외버스</a> 시간표 페이지에서 예매 사이트로 연결해드립니다.</p>
     </details>
   </div>
 
