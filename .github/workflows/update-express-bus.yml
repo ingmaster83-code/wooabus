@@ -1,4 +1,4 @@
-name: 고속버스·시외버스 데이터 갱신
+name: 기차·고속버스·시외버스 데이터 갱신
 
 on:
   schedule:
@@ -20,8 +20,11 @@ jobs:
       - name: 의존성 설치
         run: pip install requests
 
-      - name: 기존 노선 갱신 + 신규 노선 탐색
+      - name: 버스 — 기존 노선 갱신 + 신규 노선 탐색
         run: python scripts/fetch_express_bus.py --daily
+
+      - name: 기차 — 기존 노선 갱신 + 신규 노선 탐색
+        run: python scripts/fetch_train.py --daily
 
       - name: 페이지 재생성
         run: |
@@ -33,5 +36,5 @@ jobs:
           git config user.email "action@github.com"
           git config user.name "GitHub Action"
           git add .
-          git diff --staged --quiet || git commit -m "고속버스·시외버스 데이터 자동 갱신 $(date +'%Y-%m-%d')"
+          git diff --staged --quiet || git commit -m "기차·고속버스·시외버스 데이터 자동 갱신 $(date +'%Y-%m-%d')"
           git push

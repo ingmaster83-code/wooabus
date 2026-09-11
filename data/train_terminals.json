@@ -1,0 +1,1747 @@
+[
+ {
+  "terminalId": "NAT010000",
+  "terminalNm": "서울",
+  "cityName": "서울특별시"
+ },
+ {
+  "terminalId": "NAT010091",
+  "terminalNm": "영등포",
+  "cityName": "서울특별시"
+ },
+ {
+  "terminalId": "NAT130126",
+  "terminalNm": "청량리",
+  "cityName": "서울특별시"
+ },
+ {
+  "terminalId": "NAT010032",
+  "terminalNm": "용산",
+  "cityName": "서울특별시"
+ },
+ {
+  "terminalId": "NAT130182",
+  "terminalNm": "광운대",
+  "cityName": "서울특별시"
+ },
+ {
+  "terminalId": "NAT010058",
+  "terminalNm": "노량진",
+  "cityName": "서울특별시"
+ },
+ {
+  "terminalId": "NATH30000",
+  "terminalNm": "수서",
+  "cityName": "서울특별시"
+ },
+ {
+  "terminalId": "NAT020040",
+  "terminalNm": "상봉",
+  "cityName": "서울특별시"
+ },
+ {
+  "terminalId": "NAT010106",
+  "terminalNm": "신도림",
+  "cityName": "서울특별시"
+ },
+ {
+  "terminalId": "NAT130036",
+  "terminalNm": "서빙고",
+  "cityName": "서울특별시"
+ },
+ {
+  "terminalId": "NAT130104",
+  "terminalNm": "왕십리",
+  "cityName": "서울특별시"
+ },
+ {
+  "terminalId": "NAT130070",
+  "terminalNm": "옥수",
+  "cityName": "서울특별시"
+ },
+ {
+  "terminalId": "NAT011154",
+  "terminalNm": "전의",
+  "cityName": "세종특별자치시"
+ },
+ {
+  "terminalId": "NAT011298",
+  "terminalNm": "조치원",
+  "cityName": "세종특별자치시"
+ },
+ {
+  "terminalId": "NAT011403",
+  "terminalNm": "부강",
+  "cityName": "세종특별자치시"
+ },
+ {
+  "terminalId": "NAT011079",
+  "terminalNm": "소정리",
+  "cityName": "세종특별자치시"
+ },
+ {
+  "terminalId": "NAT014281",
+  "terminalNm": "구포",
+  "cityName": "부산광역시"
+ },
+ {
+  "terminalId": "NAT014445",
+  "terminalNm": "부산",
+  "cityName": "부산광역시"
+ },
+ {
+  "terminalId": "NAT750412",
+  "terminalNm": "좌천",
+  "cityName": "부산광역시"
+ },
+ {
+  "terminalId": "NAT750189",
+  "terminalNm": "신해운대",
+  "cityName": "부산광역시"
+ },
+ {
+  "terminalId": "NAT014331",
+  "terminalNm": "사상",
+  "cityName": "부산광역시"
+ },
+ {
+  "terminalId": "NAT750329",
+  "terminalNm": "기장",
+  "cityName": "부산광역시"
+ },
+ {
+  "terminalId": "NAT750254",
+  "terminalNm": "송정",
+  "cityName": "부산광역시"
+ },
+ {
+  "terminalId": "NAT750106",
+  "terminalNm": "동래",
+  "cityName": "부산광역시"
+ },
+ {
+  "terminalId": "NAT750046",
+  "terminalNm": "부전",
+  "cityName": "부산광역시"
+ },
+ {
+  "terminalId": "NAT014244",
+  "terminalNm": "화명",
+  "cityName": "부산광역시"
+ },
+ {
+  "terminalId": "NAT750161",
+  "terminalNm": "센텀",
+  "cityName": "부산광역시"
+ },
+ {
+  "terminalId": "NAT013271",
+  "terminalNm": "동대구",
+  "cityName": "대구광역시"
+ },
+ {
+  "terminalId": "NAT013239",
+  "terminalNm": "대구",
+  "cityName": "대구광역시"
+ },
+ {
+  "terminalId": "NAT023127",
+  "terminalNm": "화본",
+  "cityName": "대구광역시"
+ },
+ {
+  "terminalId": "NAT013189",
+  "terminalNm": "서대구",
+  "cityName": "대구광역시"
+ },
+ {
+  "terminalId": "NAT023073",
+  "terminalNm": "군위",
+  "cityName": "대구광역시"
+ },
+ {
+  "terminalId": "NAT060231",
+  "terminalNm": "주안",
+  "cityName": "인천광역시"
+ },
+ {
+  "terminalId": "NATC10325",
+  "terminalNm": "검암",
+  "cityName": "인천광역시"
+ },
+ {
+  "terminalId": "NATC10580",
+  "terminalNm": "인천공항T1",
+  "cityName": "인천광역시"
+ },
+ {
+  "terminalId": "NATC30058",
+  "terminalNm": "인천공항T2",
+  "cityName": "인천광역시"
+ },
+ {
+  "terminalId": "NAT031857",
+  "terminalNm": "광주송정",
+  "cityName": "광주광역시"
+ },
+ {
+  "terminalId": "NAT883012",
+  "terminalNm": "광주",
+  "cityName": "광주광역시"
+ },
+ {
+  "terminalId": "NAT883086",
+  "terminalNm": "극락강",
+  "cityName": "광주광역시"
+ },
+ {
+  "terminalId": "NAT882904",
+  "terminalNm": "효천",
+  "cityName": "광주광역시"
+ },
+ {
+  "terminalId": "NAT882936",
+  "terminalNm": "서광주",
+  "cityName": "광주광역시"
+ },
+ {
+  "terminalId": "NAT011524",
+  "terminalNm": "신탄진",
+  "cityName": "대전광역시"
+ },
+ {
+  "terminalId": "NAT011668",
+  "terminalNm": "대전",
+  "cityName": "대전광역시"
+ },
+ {
+  "terminalId": "NAT030057",
+  "terminalNm": "서대전",
+  "cityName": "대전광역시"
+ },
+ {
+  "terminalId": "NAT030173",
+  "terminalNm": "흑석리",
+  "cityName": "대전광역시"
+ },
+ {
+  "terminalId": "NAT750726",
+  "terminalNm": "태화강",
+  "cityName": "울산광역시"
+ },
+ {
+  "terminalId": "NAT750560",
+  "terminalNm": "남창",
+  "cityName": "울산광역시"
+ },
+ {
+  "terminalId": "NAT750653",
+  "terminalNm": "덕하",
+  "cityName": "울산광역시"
+ },
+ {
+  "terminalId": "NAT750760",
+  "terminalNm": "효문",
+  "cityName": "울산광역시"
+ },
+ {
+  "terminalId": "NATH13717",
+  "terminalNm": "울산",
+  "cityName": "울산광역시"
+ },
+ {
+  "terminalId": "NAT750781",
+  "terminalNm": "북울산",
+  "cityName": "울산광역시"
+ },
+ {
+  "terminalId": "NAT010415",
+  "terminalNm": "수원",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT010754",
+  "terminalNm": "평택",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT020524",
+  "terminalNm": "양평",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT010239",
+  "terminalNm": "안양",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT010570",
+  "terminalNm": "오산",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT140098",
+  "terminalNm": "퇴계원",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT140277",
+  "terminalNm": "마석",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT140362",
+  "terminalNm": "대성리",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT140436",
+  "terminalNm": "청평",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT140576",
+  "terminalNm": "가평",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT020178",
+  "terminalNm": "덕소",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT020641",
+  "terminalNm": "용문",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT020677",
+  "terminalNm": "지평",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT020845",
+  "terminalNm": "양동",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT020760",
+  "terminalNm": "일신",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT010670",
+  "terminalNm": "서정리",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT020803",
+  "terminalNm": "매곡",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT020884",
+  "terminalNm": "삼산",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT140133",
+  "terminalNm": "사릉",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT140214",
+  "terminalNm": "평내호평",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT130312",
+  "terminalNm": "의정부",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT130888",
+  "terminalNm": "신탄리",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT020471",
+  "terminalNm": "아신",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT020717",
+  "terminalNm": "석불",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT110147",
+  "terminalNm": "행신",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT110165",
+  "terminalNm": "능곡",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT110180",
+  "terminalNm": "대곡",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT110249",
+  "terminalNm": "일산",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT110265",
+  "terminalNm": "탄현",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT110407",
+  "terminalNm": "파주",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT110460",
+  "terminalNm": "문산",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT110520",
+  "terminalNm": "임진강",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT110557",
+  "terminalNm": "도라산",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT130531",
+  "terminalNm": "동두천",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT130556",
+  "terminalNm": "소요산",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT130597",
+  "terminalNm": "초성리",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT130627",
+  "terminalNm": "한탄강",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT130652",
+  "terminalNm": "전곡",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT130738",
+  "terminalNm": "연천",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT130774",
+  "terminalNm": "신망리",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT130844",
+  "terminalNm": "대광리",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT150057",
+  "terminalNm": "원릉",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT150167",
+  "terminalNm": "일영",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT150191",
+  "terminalNm": "장흥",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT150231",
+  "terminalNm": "송추",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NATH10219",
+  "terminalNm": "광명",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT250428",
+  "terminalNm": "부발",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT280090",
+  "terminalNm": "가남",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT250007",
+  "terminalNm": "판교(경기)",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT460000",
+  "terminalNm": "서화성",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT460073",
+  "terminalNm": "화성시청",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT460187",
+  "terminalNm": "향남",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT460378",
+  "terminalNm": "안중",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NATH30326",
+  "terminalNm": "동탄",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT110497",
+  "terminalNm": "운천",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT060121",
+  "terminalNm": "부천",
+  "cityName": "경기도"
+ },
+ {
+  "terminalId": "NAT601605",
+  "terminalNm": "망상",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT600870",
+  "terminalNm": "철암",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT601122",
+  "terminalNm": "도계",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT601485",
+  "terminalNm": "동해",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT601545",
+  "terminalNm": "묵호",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT601936",
+  "terminalNm": "강릉",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT650177",
+  "terminalNm": "쌍룡",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT650341",
+  "terminalNm": "영월",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT650515",
+  "terminalNm": "예미",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT650722",
+  "terminalNm": "민둥산",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT650782",
+  "terminalNm": "사북",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT650828",
+  "terminalNm": "고한",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT650978",
+  "terminalNm": "태백",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT140701",
+  "terminalNm": "강촌",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT140840",
+  "terminalNm": "남춘천",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT140873",
+  "terminalNm": "춘천",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT020986",
+  "terminalNm": "동화",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT021357",
+  "terminalNm": "신림",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT650253",
+  "terminalNm": "연당",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT650567",
+  "terminalNm": "함백",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT610064",
+  "terminalNm": "별어곡",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT610137",
+  "terminalNm": "선평",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT610226",
+  "terminalNm": "정선",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT610326",
+  "terminalNm": "나전",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT610387",
+  "terminalNm": "아우라지",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT140787",
+  "terminalNm": "김유정",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT140681",
+  "terminalNm": "백양리",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT601774",
+  "terminalNm": "정동진",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT601275",
+  "terminalNm": "신기",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT630064",
+  "terminalNm": "추암",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT630078",
+  "terminalNm": "삼척해변",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT021033",
+  "terminalNm": "만종",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT021175",
+  "terminalNm": "반곡",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT600830",
+  "terminalNm": "동점",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT630129",
+  "terminalNm": "삼척",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT650918",
+  "terminalNm": "추전",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT651053",
+  "terminalNm": "동백산",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NATN10230",
+  "terminalNm": "횡성",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NATN10428",
+  "terminalNm": "둔내",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NATN10625",
+  "terminalNm": "평창",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NATN10787",
+  "terminalNm": "진부",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT020864",
+  "terminalNm": "서원주",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT020947",
+  "terminalNm": "원주",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT752946",
+  "terminalNm": "근덕",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT752850",
+  "terminalNm": "임원",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT752787",
+  "terminalNm": "옥원",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT601602",
+  "terminalNm": "망상해변",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT130944",
+  "terminalNm": "백마고지",
+  "cityName": "강원특별자치도"
+ },
+ {
+  "terminalId": "NAT012124",
+  "terminalNm": "영동",
+  "cityName": "충청북도"
+ },
+ {
+  "terminalId": "NAT011833",
+  "terminalNm": "옥천",
+  "cityName": "충청북도"
+ },
+ {
+  "terminalId": "NAT050114",
+  "terminalNm": "청주",
+  "cityName": "충청북도"
+ },
+ {
+  "terminalId": "NAT050366",
+  "terminalNm": "증평",
+  "cityName": "충청북도"
+ },
+ {
+  "terminalId": "NAT050596",
+  "terminalNm": "음성",
+  "cityName": "충청북도"
+ },
+ {
+  "terminalId": "NAT050827",
+  "terminalNm": "충주",
+  "cityName": "충청북도"
+ },
+ {
+  "terminalId": "NAT050881",
+  "terminalNm": "목행",
+  "cityName": "충청북도"
+ },
+ {
+  "terminalId": "NAT021549",
+  "terminalNm": "제천",
+  "cityName": "충청북도"
+ },
+ {
+  "terminalId": "NAT021723",
+  "terminalNm": "도담",
+  "cityName": "충청북도"
+ },
+ {
+  "terminalId": "NAT021784",
+  "terminalNm": "단양",
+  "cityName": "충청북도"
+ },
+ {
+  "terminalId": "NAT012270",
+  "terminalNm": "황간",
+  "cityName": "충청북도"
+ },
+ {
+  "terminalId": "NAT012355",
+  "terminalNm": "추풍령",
+  "cityName": "충청북도"
+ },
+ {
+  "terminalId": "NAT050215",
+  "terminalNm": "오근장",
+  "cityName": "충청북도"
+ },
+ {
+  "terminalId": "NAT050719",
+  "terminalNm": "주덕",
+  "cityName": "충청북도"
+ },
+ {
+  "terminalId": "NAT021478",
+  "terminalNm": "봉양",
+  "cityName": "충청북도"
+ },
+ {
+  "terminalId": "NAT051006",
+  "terminalNm": "삼탄",
+  "cityName": "충청북도"
+ },
+ {
+  "terminalId": "NAT012016",
+  "terminalNm": "심천",
+  "cityName": "충청북도"
+ },
+ {
+  "terminalId": "NAT050244",
+  "terminalNm": "청주공항",
+  "cityName": "충청북도"
+ },
+ {
+  "terminalId": "NAT050044",
+  "terminalNm": "오송",
+  "cityName": "충청북도"
+ },
+ {
+  "terminalId": "NAT011916",
+  "terminalNm": "이원",
+  "cityName": "충청북도"
+ },
+ {
+  "terminalId": "NAT011972",
+  "terminalNm": "지탄",
+  "cityName": "충청북도"
+ },
+ {
+  "terminalId": "NAT012054",
+  "terminalNm": "각계",
+  "cityName": "충청북도"
+ },
+ {
+  "terminalId": "NAT650050",
+  "terminalNm": "장락",
+  "cityName": "충청북도"
+ },
+ {
+  "terminalId": "NAT280212",
+  "terminalNm": "감곡장호원",
+  "cityName": "충청북도"
+ },
+ {
+  "terminalId": "NAT280358",
+  "terminalNm": "앙성온천",
+  "cityName": "충청북도"
+ },
+ {
+  "terminalId": "NAT280666",
+  "terminalNm": "살미",
+  "cityName": "충청북도"
+ },
+ {
+  "terminalId": "NAT280751",
+  "terminalNm": "수안보온천",
+  "cityName": "충청북도"
+ },
+ {
+  "terminalId": "NAT280814",
+  "terminalNm": "연풍",
+  "cityName": "충청북도"
+ },
+ {
+  "terminalId": "NAT010971",
+  "terminalNm": "천안",
+  "cityName": "충청남도"
+ },
+ {
+  "terminalId": "NAT030396",
+  "terminalNm": "연산",
+  "cityName": "충청남도"
+ },
+ {
+  "terminalId": "NAT030508",
+  "terminalNm": "논산",
+  "cityName": "충청남도"
+ },
+ {
+  "terminalId": "NAT030607",
+  "terminalNm": "강경",
+  "cityName": "충청남도"
+ },
+ {
+  "terminalId": "NAT080147",
+  "terminalNm": "온양온천",
+  "cityName": "충청남도"
+ },
+ {
+  "terminalId": "NAT080309",
+  "terminalNm": "도고온천",
+  "cityName": "충청남도"
+ },
+ {
+  "terminalId": "NAT080353",
+  "terminalNm": "신례원",
+  "cityName": "충청남도"
+ },
+ {
+  "terminalId": "NAT080402",
+  "terminalNm": "예산",
+  "cityName": "충청남도"
+ },
+ {
+  "terminalId": "NAT080492",
+  "terminalNm": "삽교",
+  "cityName": "충청남도"
+ },
+ {
+  "terminalId": "NAT080622",
+  "terminalNm": "홍성",
+  "cityName": "충청남도"
+ },
+ {
+  "terminalId": "NAT080749",
+  "terminalNm": "광천",
+  "cityName": "충청남도"
+ },
+ {
+  "terminalId": "NAT080952",
+  "terminalNm": "대천",
+  "cityName": "충청남도"
+ },
+ {
+  "terminalId": "NAT081240",
+  "terminalNm": "판교(충남)",
+  "cityName": "충청남도"
+ },
+ {
+  "terminalId": "NAT081343",
+  "terminalNm": "서천",
+  "cityName": "충청남도"
+ },
+ {
+  "terminalId": "NAT030254",
+  "terminalNm": "계룡",
+  "cityName": "충청남도"
+ },
+ {
+  "terminalId": "NAT340090",
+  "terminalNm": "연무대",
+  "cityName": "충청남도"
+ },
+ {
+  "terminalId": "NAT010848",
+  "terminalNm": "성환",
+  "cityName": "충청남도"
+ },
+ {
+  "terminalId": "NAT080827",
+  "terminalNm": "청소",
+  "cityName": "충청남도"
+ },
+ {
+  "terminalId": "NAT080216",
+  "terminalNm": "신창",
+  "cityName": "충청남도"
+ },
+ {
+  "terminalId": "NATH10960",
+  "terminalNm": "천안아산",
+  "cityName": "충청남도"
+ },
+ {
+  "terminalId": "NAT080045",
+  "terminalNm": "아산",
+  "cityName": "충청남도"
+ },
+ {
+  "terminalId": "NAT081318",
+  "terminalNm": "장항",
+  "cityName": "충청남도"
+ },
+ {
+  "terminalId": "NATH20438",
+  "terminalNm": "공주",
+  "cityName": "충청남도"
+ },
+ {
+  "terminalId": "NAT081099",
+  "terminalNm": "웅천",
+  "cityName": "충청남도"
+ },
+ {
+  "terminalId": "NAT460553",
+  "terminalNm": "인주",
+  "cityName": "충청남도"
+ },
+ {
+  "terminalId": "NAT460641",
+  "terminalNm": "합덕",
+  "cityName": "충청남도"
+ },
+ {
+  "terminalId": "NAT030718",
+  "terminalNm": "함열",
+  "cityName": "전북특별자치도"
+ },
+ {
+  "terminalId": "NAT030879",
+  "terminalNm": "익산",
+  "cityName": "전북특별자치도"
+ },
+ {
+  "terminalId": "NAT031056",
+  "terminalNm": "김제",
+  "cityName": "전북특별자치도"
+ },
+ {
+  "terminalId": "NAT031179",
+  "terminalNm": "신태인",
+  "cityName": "전북특별자치도"
+ },
+ {
+  "terminalId": "NAT031314",
+  "terminalNm": "정읍",
+  "cityName": "전북특별자치도"
+ },
+ {
+  "terminalId": "NAT040133",
+  "terminalNm": "삼례",
+  "cityName": "전북특별자치도"
+ },
+ {
+  "terminalId": "NAT040257",
+  "terminalNm": "전주",
+  "cityName": "전북특별자치도"
+ },
+ {
+  "terminalId": "NAT040536",
+  "terminalNm": "임실",
+  "cityName": "전북특별자치도"
+ },
+ {
+  "terminalId": "NAT040667",
+  "terminalNm": "오수",
+  "cityName": "전북특별자치도"
+ },
+ {
+  "terminalId": "NAT040868",
+  "terminalNm": "남원",
+  "cityName": "전북특별자치도"
+ },
+ {
+  "terminalId": "NAT030667",
+  "terminalNm": "용동",
+  "cityName": "전북특별자치도"
+ },
+ {
+  "terminalId": "NAT040173",
+  "terminalNm": "동산",
+  "cityName": "전북특별자치도"
+ },
+ {
+  "terminalId": "NAT040352",
+  "terminalNm": "신리",
+  "cityName": "전북특별자치도"
+ },
+ {
+  "terminalId": "NAT040496",
+  "terminalNm": "관촌",
+  "cityName": "전북특별자치도"
+ },
+ {
+  "terminalId": "NAT081388",
+  "terminalNm": "군산",
+  "cityName": "전북특별자치도"
+ },
+ {
+  "terminalId": "NAT320131",
+  "terminalNm": "대야",
+  "cityName": "전북특별자치도"
+ },
+ {
+  "terminalId": "NAT031486",
+  "terminalNm": "백양사",
+  "cityName": "전라남도"
+ },
+ {
+  "terminalId": "NAT031638",
+  "terminalNm": "장성",
+  "cityName": "전라남도"
+ },
+ {
+  "terminalId": "NAT031998",
+  "terminalNm": "나주",
+  "cityName": "전라남도"
+ },
+ {
+  "terminalId": "NAT032212",
+  "terminalNm": "함평",
+  "cityName": "전라남도"
+ },
+ {
+  "terminalId": "NAT032422",
+  "terminalNm": "일로",
+  "cityName": "전라남도"
+ },
+ {
+  "terminalId": "NAT032563",
+  "terminalNm": "목포",
+  "cityName": "전라남도"
+ },
+ {
+  "terminalId": "NAT041072",
+  "terminalNm": "곡성",
+  "cityName": "전라남도"
+ },
+ {
+  "terminalId": "NAT041285",
+  "terminalNm": "구례구",
+  "cityName": "전라남도"
+ },
+ {
+  "terminalId": "NAT041595",
+  "terminalNm": "순천",
+  "cityName": "전라남도"
+ },
+ {
+  "terminalId": "NAT041993",
+  "terminalNm": "여수EXPO",
+  "cityName": "전라남도"
+ },
+ {
+  "terminalId": "NAT882755",
+  "terminalNm": "화순",
+  "cityName": "전라남도"
+ },
+ {
+  "terminalId": "NAT882544",
+  "terminalNm": "이양",
+  "cityName": "전라남도"
+ },
+ {
+  "terminalId": "NAT881538",
+  "terminalNm": "진상",
+  "cityName": "전라남도"
+ },
+ {
+  "terminalId": "NAT881584",
+  "terminalNm": "옥곡",
+  "cityName": "전라남도"
+ },
+ {
+  "terminalId": "NAT881708",
+  "terminalNm": "광양",
+  "cityName": "전라남도"
+ },
+ {
+  "terminalId": "NAT882328",
+  "terminalNm": "보성",
+  "cityName": "전라남도"
+ },
+ {
+  "terminalId": "NAT882194",
+  "terminalNm": "예당",
+  "cityName": "전라남도"
+ },
+ {
+  "terminalId": "NAT882141",
+  "terminalNm": "조성",
+  "cityName": "전라남도"
+ },
+ {
+  "terminalId": "NAT882034",
+  "terminalNm": "벌교",
+  "cityName": "전라남도"
+ },
+ {
+  "terminalId": "NAT882666",
+  "terminalNm": "능주",
+  "cityName": "전라남도"
+ },
+ {
+  "terminalId": "NAT041866",
+  "terminalNm": "여천",
+  "cityName": "전라남도"
+ },
+ {
+  "terminalId": "NAT882237",
+  "terminalNm": "득량",
+  "cityName": "전라남도"
+ },
+ {
+  "terminalId": "NAT032313",
+  "terminalNm": "몽탄",
+  "cityName": "전라남도"
+ },
+ {
+  "terminalId": "NAT882416",
+  "terminalNm": "명봉",
+  "cityName": "전라남도"
+ },
+ {
+  "terminalId": "NAT032273",
+  "terminalNm": "무안",
+  "cityName": "전라남도"
+ },
+ {
+  "terminalId": "NAT032099",
+  "terminalNm": "다시",
+  "cityName": "전라남도"
+ },
+ {
+  "terminalId": "NAT032489",
+  "terminalNm": "임성리",
+  "cityName": "전라남도"
+ },
+ {
+  "terminalId": "NAT041710",
+  "terminalNm": "율촌",
+  "cityName": "전라남도"
+ },
+ {
+  "terminalId": "NAT882847",
+  "terminalNm": "남평",
+  "cityName": "전라남도"
+ },
+ {
+  "terminalId": "NAT470133",
+  "terminalNm": "영암",
+  "cityName": "전라남도"
+ },
+ {
+  "terminalId": "NAT470312",
+  "terminalNm": "해남",
+  "cityName": "전라남도"
+ },
+ {
+  "terminalId": "NAT470446",
+  "terminalNm": "강진",
+  "cityName": "전라남도"
+ },
+ {
+  "terminalId": "NAT470584",
+  "terminalNm": "전남장흥",
+  "cityName": "전라남도"
+ },
+ {
+  "terminalId": "NAT470718",
+  "terminalNm": "장동",
+  "cityName": "전라남도"
+ },
+ {
+  "terminalId": "NAT470804",
+  "terminalNm": "신보성",
+  "cityName": "전라남도"
+ },
+ {
+  "terminalId": "NAT012546",
+  "terminalNm": "김천",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT012775",
+  "terminalNm": "구미",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT012968",
+  "terminalNm": "왜관",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT013629",
+  "terminalNm": "청도",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT013395",
+  "terminalNm": "경산",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT022053",
+  "terminalNm": "풍기",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT022188",
+  "terminalNm": "영주",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT022844",
+  "terminalNm": "의성",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT022961",
+  "terminalNm": "탑리",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT023449",
+  "terminalNm": "영천",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT600147",
+  "terminalNm": "봉화",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT600379",
+  "terminalNm": "춘양",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT600527",
+  "terminalNm": "현동",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT600768",
+  "terminalNm": "석포",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT300200",
+  "terminalNm": "옥산",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT300271",
+  "terminalNm": "청리",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT300360",
+  "terminalNm": "상주",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT300558",
+  "terminalNm": "함창",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT300600",
+  "terminalNm": "점촌",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT300669",
+  "terminalNm": "용궁",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT300733",
+  "terminalNm": "개포",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT600692",
+  "terminalNm": "승부",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT300850",
+  "terminalNm": "예천",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT600476",
+  "terminalNm": "임기",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT600593",
+  "terminalNm": "분천",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT023279",
+  "terminalNm": "신녕",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT751296",
+  "terminalNm": "구안강",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT751238",
+  "terminalNm": "사방",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT750933",
+  "terminalNm": "입실",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT023424",
+  "terminalNm": "북영천",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT013067",
+  "terminalNm": "신동",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT012903",
+  "terminalNm": "약목",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT830200",
+  "terminalNm": "하양",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT012700",
+  "terminalNm": "아포",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT012821",
+  "terminalNm": "사곡",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT013542",
+  "terminalNm": "남성현",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT023601",
+  "terminalNm": "아화",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT023821",
+  "terminalNm": "구서경주",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT600257",
+  "terminalNm": "봉성",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT751325",
+  "terminalNm": "양자동",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT751354",
+  "terminalNm": "부조",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NATH12383",
+  "terminalNm": "김천구미",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NATH13421",
+  "terminalNm": "경주",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT8B0351",
+  "terminalNm": "포항",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT8B0504",
+  "terminalNm": "월포",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT8B0595",
+  "terminalNm": "장사",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT8B0671",
+  "terminalNm": "강구",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT8B0737",
+  "terminalNm": "영덕",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT022558",
+  "terminalNm": "안동",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT8B0082",
+  "terminalNm": "서경주",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT8B0190",
+  "terminalNm": "안강",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT280927",
+  "terminalNm": "문경",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT752682",
+  "terminalNm": "흥부",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT752618",
+  "terminalNm": "죽변",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT752540",
+  "terminalNm": "울진",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT752428",
+  "terminalNm": "매화",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT752319",
+  "terminalNm": "기성",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT752245",
+  "terminalNm": "평해",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT752196",
+  "terminalNm": "후포",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT752102",
+  "terminalNm": "고래불",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT752029",
+  "terminalNm": "영해",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT600635",
+  "terminalNm": "비동",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT600655",
+  "terminalNm": "양원",
+  "cityName": "경상북도"
+ },
+ {
+  "terminalId": "NAT013841",
+  "terminalNm": "밀양",
+  "cityName": "경상남도"
+ },
+ {
+  "terminalId": "NAT013967",
+  "terminalNm": "삼랑진",
+  "cityName": "경상남도"
+ },
+ {
+  "terminalId": "NAT880177",
+  "terminalNm": "진영",
+  "cityName": "경상남도"
+ },
+ {
+  "terminalId": "NAT880310",
+  "terminalNm": "창원",
+  "cityName": "경상남도"
+ },
+ {
+  "terminalId": "NAT880345",
+  "terminalNm": "마산",
+  "cityName": "경상남도"
+ },
+ {
+  "terminalId": "NAT880520",
+  "terminalNm": "함안",
+  "cityName": "경상남도"
+ },
+ {
+  "terminalId": "NAT880608",
+  "terminalNm": "군북",
+  "cityName": "경상남도"
+ },
+ {
+  "terminalId": "NAT880766",
+  "terminalNm": "반성",
+  "cityName": "경상남도"
+ },
+ {
+  "terminalId": "NAT881014",
+  "terminalNm": "진주",
+  "cityName": "경상남도"
+ },
+ {
+  "terminalId": "NAT881269",
+  "terminalNm": "북천",
+  "cityName": "경상남도"
+ },
+ {
+  "terminalId": "NAT881460",
+  "terminalNm": "하동",
+  "cityName": "경상남도"
+ },
+ {
+  "terminalId": "NAT880099",
+  "terminalNm": "한림정",
+  "cityName": "경상남도"
+ },
+ {
+  "terminalId": "NAT880702",
+  "terminalNm": "평촌",
+  "cityName": "경상남도"
+ },
+ {
+  "terminalId": "NAT881386",
+  "terminalNm": "횡천",
+  "cityName": "경상남도"
+ },
+ {
+  "terminalId": "NAT810195",
+  "terminalNm": "진해",
+  "cityName": "경상남도"
+ },
+ {
+  "terminalId": "NAT014058",
+  "terminalNm": "원동",
+  "cityName": "경상남도"
+ },
+ {
+  "terminalId": "NAT014150",
+  "terminalNm": "물금",
+  "cityName": "경상남도"
+ },
+ {
+  "terminalId": "NAT880408",
+  "terminalNm": "중리",
+  "cityName": "경상남도"
+ },
+ {
+  "terminalId": "NAT013747",
+  "terminalNm": "상동",
+  "cityName": "경상남도"
+ },
+ {
+  "terminalId": "NAT810048",
+  "terminalNm": "신창원",
+  "cityName": "경상남도"
+ },
+ {
+  "terminalId": "NAT880644",
+  "terminalNm": "원북",
+  "cityName": "경상남도"
+ },
+ {
+  "terminalId": "NAT880825",
+  "terminalNm": "진성",
+  "cityName": "경상남도"
+ },
+ {
+  "terminalId": "NAT881168",
+  "terminalNm": "완사",
+  "cityName": "경상남도"
+ },
+ {
+  "terminalId": "NAT881323",
+  "terminalNm": "양보",
+  "cityName": "경상남도"
+ },
+ {
+  "terminalId": "NAT880179",
+  "terminalNm": "진례",
+  "cityName": "경상남도"
+ },
+ {
+  "terminalId": "NAT880281",
+  "terminalNm": "창원중앙",
+  "cityName": "경상남도"
+ }
+]

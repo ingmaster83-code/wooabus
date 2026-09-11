@@ -29,7 +29,9 @@ DOCS_DIR = ROOT / "docs"
 BOOKING_LINKS = {
     "고속버스": ("고속버스 통합예매 (코버스)", "https://www.kobus.co.kr"),
     "시외버스": ("시외버스 통합예매 (버스타고)", "https://www.bustago.or.kr"),
+    "기차": ("레츠코레일 (KORAIL)", "https://www.letskorail.com/"),
 }
+CAT_ICON = {"고속버스": "🚌", "시외버스": "🚏", "기차": "🚄"}
 
 
 def load(name):
@@ -46,13 +48,16 @@ def slugify(name, tid):
 
 
 def fmt_hhmi(v):
-    """'YYYYMMDDHHMI' -> 'HH:MI', 형식이 다르면 뒤 4자리만 시도"""
+    """'YYYYMMDDHHMI'(버스, 12자리) 또는 'YYYYMMDDHHMISS'(기차, 14자리 — 초 포함) -> 'HH:MI'"""
     if v is None:
         return None
     v = str(v)
-    if len(v) < 4:
+    if len(v) >= 14 and v.isdigit():
+        tail = v[8:12]  # YYYYMMDD_HHMI_SS
+    elif len(v) >= 4:
+        tail = v[-4:]
+    else:
         return None
-    tail = v[-4:]
     if not tail.isdigit():
         return None
     return f"{tail[:2]}:{tail[2:]}"
@@ -115,7 +120,8 @@ def build_intro(cat_label, dep_nm, arr_nm, stats):
         else:
             parts.append(f"편도 요금은 등급에 따라 {fmt_won(stats['min_fare'])}~{fmt_won(stats['max_fare'])}입니다.")
     if stats["grades"]:
-        parts.append(f"버스 등급: {', '.join(stats['grades'])}.")
+        grade_label = "열차 종류" if cat_label == "기차" else "버스 등급"
+        parts.append(f"{grade_label}: {', '.join(stats['grades'])}.")
     parts.append("실제 배차·요금은 당일 상황에 따라 달라질 수 있어 정확한 예매는 공식 예매사이트에서 확인하세요.")
     return " ".join(parts)
 
@@ -153,6 +159,10 @@ def route_table_html(route):
 </div>"""
 
 
+def stop_word(cat_label):
+    return "역" if cat_label == "기차" else "터미널"
+
+
 def gen_route_page(cat_label, cat_slug, route, book_label, book_url):
     dep_nm, arr_nm = route["depTerminalNm"], route["arrTerminalNm"]
     stats = route_stats(route)
@@ -172,13 +182,14 @@ def gen_route_page(cat_label, cat_slug, route, book_label, book_url):
     <a href="../index.html" style="color:#6B7280;">{cat_label}</a> ›
     <a href="index.html" style="color:#6B7280;">{dep_nm}</a> › {arr_nm}
   </nav>
-  <h1 style="font-size:1.45rem;font-weight:800;margin-bottom:6px;">🚌 {dep_nm} → {arr_nm} {cat_label}</h1>
+  <h1 style="font-size:1.45rem;font-weight:800;margin-bottom:6px;">{CAT_ICON.get(cat_label, "🚌")} {dep_nm} → {arr_nm} {cat_label}</h1>
   <p style="color:#374151;line-height:1.75;margin:12px 0 20px;">{intro}</p>
 
   {MOBILE_AD}
 
   <div style="margin:20px 0;">
     <a href="{book_url}" style="display:block;text-align:center;padding:14px;border-radius:10px;background:#0D9488;color:#fff;font-weight:700;text-decoration:none;">🎫 {book_label}에서 예매하기 →</a>
+    {'<p style="text-align:center;font-size:.78rem;color:#9CA3AF;margin-top:6px;">SRT(수서고속철도) 구간은 <a href="https://etk.srail.kr" style="color:#9CA3AF;">SRT 홈페이지</a>에서도 확인해보세요.</p>' if cat_label == '기차' else ''}
   </div>
 
   <h2 style="font-size:1.05rem;font-weight:700;margin:24px 0 10px;">오늘({TODAY}) 시간표</h2>
@@ -186,7 +197,7 @@ def gen_route_page(cat_label, cat_slug, route, book_label, book_url):
 
   <details style="margin-top:24px;">
     <summary style="cursor:pointer;font-weight:600;padding:8px 0;">이 페이지에서 예매할 수 있나요?</summary>
-    <p style="padding:6px 0;color:#374151;line-height:1.7;">아니요. 우아버스는 시간표·요금 조회 전용이며, 실제 승차권 예매는 {book_label} 또는 해당 터미널에서 진행해주세요.</p>
+    <p style="padding:6px 0;color:#374151;line-height:1.7;">아니요. 우아버스는 시간표·요금 조회 전용이며, 실제 승차권 예매는 {book_label} 또는 해당 {stop_word(cat_label)}에서 진행해주세요.</p>
   </details>
   <details>
     <summary style="cursor:pointer;font-weight:600;padding:8px 0;">시간표가 매일 똑같나요?</summary>
@@ -202,7 +213,7 @@ def gen_route_page(cat_label, cat_slug, route, book_label, book_url):
     "@context": "https://schema.org",
     "@type": "FAQPage",
     "mainEntity": [
-      {{"@type":"Question","name":"이 페이지에서 예매할 수 있나요?","acceptedAnswer":{{"@type":"Answer","text":"아니요. 우아버스는 시간표·요금 조회 전용이며, 실제 승차권 예매는 {book_label} 또는 해당 터미널에서 진행해주세요."}}}},
+      {{"@type":"Question","name":"이 페이지에서 예매할 수 있나요?","acceptedAnswer":{{"@type":"Answer","text":"아니요. 우아버스는 시간표·요금 조회 전용이며, 실제 승차권 예매는 {book_label} 또는 해당 {stop_word(cat_label)}에서 진행해주세요."}}}},
       {{"@type":"Question","name":"시간표가 매일 똑같나요?","acceptedAnswer":{{"@type":"Answer","text":"공휴일·연휴 등에는 배차가 달라질 수 있습니다. 이 페이지는 매일 자동 갱신되지만, 중요한 일정이라면 출발 전 공식 예매사이트에서 다시 확인하세요."}}}}
     ]
   }}
@@ -236,7 +247,7 @@ def gen_terminal_page(cat_label, cat_slug, term_nm, term_id, routes_from, book_l
     <a href="../../index.html" style="color:#6B7280;">홈</a> ›
     <a href="../index.html" style="color:#6B7280;">{cat_label}</a> › {term_nm}
   </nav>
-  <h1 style="font-size:1.4rem;font-weight:800;margin-bottom:6px;">🚏 {term_nm} {cat_label} 시간표</h1>
+  <h1 style="font-size:1.4rem;font-weight:800;margin-bottom:6px;">{CAT_ICON.get(cat_label, "🚏")} {term_nm} {cat_label} 시간표</h1>
   <p style="color:#6B7280;font-size:.92rem;margin-bottom:20px;">{term_nm}에서 출발하는 노선 {len(routes_from)}개</p>
 
   {MOBILE_AD}
@@ -248,13 +259,13 @@ def gen_terminal_page(cat_label, cat_slug, term_nm, term_id, routes_from, book_l
   </div>
 </div>
 """
-    head = page_head(title, desc, f"{term_nm} {cat_label}, {term_nm} 버스시간표", canonical, "../../", "")
+    head = page_head(title, desc, f"{term_nm} {cat_label}, {term_nm} {cat_label}시간표", canonical, "../../", "")
     return head + "<body>\n\n" + HEADER_TMPL.format(root="../../") + "\n" + body + footer_html("../../")
 
 
 def gen_category_index(cat_label, cat_slug, terminals_with_routes, book_label, book_url):
     title = f"전국 {cat_label} 시간표·요금 검색 {YEAR} | {SITE_NAME}"
-    desc = f"전국 {cat_label} 터미널·노선별 시간표와 요금을 한눈에 검색하세요. 출발지와 도착지를 선택하면 오늘 배차 정보를 바로 확인할 수 있습니다."
+    desc = f"전국 {cat_label} {stop_word(cat_label)}·노선별 시간표와 요금을 한눈에 검색하세요. 출발지와 도착지를 선택하면 오늘 배차 정보를 바로 확인할 수 있습니다."
     canonical = f"{BASE_URL}/{quote(cat_slug)}/index.html"
 
     term_options = "".join(
@@ -264,21 +275,21 @@ def gen_category_index(cat_label, cat_slug, terminals_with_routes, book_label, b
 
     body = f"""<div class="container" style="padding:20px 16px 40px;max-width:760px;margin:0 auto;">
   <nav style="font-size:.82rem;color:#6B7280;margin-bottom:14px;"><a href="../index.html" style="color:#6B7280;">홈</a> › {cat_label}</nav>
-  <h1 style="font-size:1.5rem;font-weight:800;margin-bottom:8px;">🚌 전국 {cat_label} 시간표</h1>
-  <p style="color:#6B7280;margin-bottom:20px;">출발 터미널을 선택하면 해당 터미널에서 가는 전체 노선을 볼 수 있어요.</p>
+  <h1 style="font-size:1.5rem;font-weight:800;margin-bottom:8px;">{CAT_ICON.get(cat_label, "🚌")} 전국 {cat_label} 시간표</h1>
+  <p style="color:#6B7280;margin-bottom:20px;">출발 {stop_word(cat_label)}을(를) 선택하면 해당 {stop_word(cat_label)}에서 가는 전체 노선을 볼 수 있어요.</p>
 
   {MOBILE_AD}
 
   <div style="background:#F9FAFB;border-radius:12px;padding:18px;margin:16px 0 28px;">
-    <label style="font-size:.85rem;font-weight:600;color:#374151;">출발 터미널</label>
+    <label style="font-size:.85rem;font-weight:600;color:#374151;">출발 {stop_word(cat_label)}</label>
     <select id="depSel" style="width:100%;padding:10px;margin:6px 0 12px;border-radius:8px;border:1px solid #E5E7EB;">
-      <option value="">터미널을 선택하세요</option>
+      <option value="">{stop_word(cat_label)}을(를) 선택하세요</option>
       {term_options}
     </select>
     <button onclick="goTerminal()" style="width:100%;padding:12px;border:none;border-radius:8px;background:#0D9488;color:#fff;font-weight:700;cursor:pointer;">노선 보기</button>
   </div>
 
-  <p style="font-size:.85rem;color:#6B7280;">전국 {len(terminals_with_routes)}개 터미널의 {cat_label} 정보를 제공합니다. 매일 자동으로 새로운 노선이 추가되고 있습니다.</p>
+  <p style="font-size:.85rem;color:#6B7280;">전국 {len(terminals_with_routes)}개 {stop_word(cat_label)}의 {cat_label} 정보를 제공합니다. 매일 자동으로 새로운 노선이 추가되고 있습니다.</p>
 
   <div style="margin:24px 0;">
     <a href="{book_url}" style="display:block;text-align:center;padding:14px;border-radius:10px;background:#F3F4F6;color:#0D9488;font-weight:700;text-decoration:none;">🎫 {book_label} 바로가기 →</a>
@@ -358,12 +369,13 @@ def main():
     for cat_label, cat_slug, routes_file in [
         ("고속버스", "고속버스", "express_routes.json"),
         ("시외버스", "시외버스", "suburbs_routes.json"),
+        ("기차", "기차", "train_routes.json"),
     ]:
         urls, n = process_category(cat_label, cat_slug, routes_file)
         all_urls.extend(urls)
         total += n
     merge_sitemap(all_urls)
-    print(f"\n총 {total}개 고속/시외버스 페이지 생성, sitemap {len(all_urls)}개 URL 추가")
+    print(f"\n총 {total}개 고속버스/시외버스/기차 페이지 생성, sitemap {len(all_urls)}개 URL 추가")
 
 
 if __name__ == "__main__":
