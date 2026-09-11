@@ -420,10 +420,12 @@ def gen_index(sido_map):
         </div>""")
 
     body = f"""<div class="hero">
-  <h1>🚌 전국 중소도시 버스 시간표</h1>
-  <p>카카오버스·네이버지도에 잘 안 나오는 소도시·농어촌 시내버스 첫차·막차 시간을 노선별로 확인하세요</p>
+  <h1>🚌 전국 버스 시간표</h1>
+  <p>시내버스부터 고속버스·시외버스까지, 카카오버스·네이버지도에 잘 안 나오는 소도시 버스 정보까지 한 곳에서 확인하세요</p>
   <div class="hero-tags">
-    <a href="#region" class="hero-tag">지역별 시간표 보기 ↓</a>
+    <a href="고속버스/index.html" class="hero-tag">🚌 고속버스 시간표</a>
+    <a href="시외버스/index.html" class="hero-tag">🚏 시외버스 시간표</a>
+    <a href="#region" class="hero-tag">📍 소도시·농어촌 시내버스 ↓</a>
   </div>
 </div>
 {stats_bar}
@@ -433,14 +435,15 @@ def gen_index(sido_map):
 
 <div class="index-with-sidebar">
   <div style="min-width:0;">
-    <p class="section-title" id="region">지역 선택 ({total_sido}개 도 · {total_city}개 시·군)</p>
+    <p class="section-title" id="region">소도시·농어촌 시내버스 지역 선택 ({total_sido}개 도 · {total_city}개 시·군)</p>
+    <p style="color:#6B7280;font-size:.88rem;margin:-8px 0 16px;">서울·부산 같은 대도시나 고속·시외버스를 찾으신다면 상단의 <a href="고속버스/index.html">고속버스</a>·<a href="시외버스/index.html">시외버스</a> 메뉴를 이용하세요.</p>
     {''.join(sections)}
 
     <div class="faq-section" style="margin-top:40px;">
       <h2>자주 묻는 질문</h2>
       <details>
-        <summary>왜 서울·부산 같은 대도시는 없나요?</summary>
-        <p>서울, 부산 등 대도시는 자체 버스정보시스템(BIS)과 카카오버스·네이버지도 실시간 조회가 이미 잘 되어 있습니다. 우아버스는 자체 BIS가 없어 정보를 찾기 어려운 중소도시·농어촌 지역(52개 시·군)의 버스 시간표만 전문적으로 제공합니다.</p>
+        <summary>왜 서울·부산 같은 대도시 시내버스는 여기 없나요?</summary>
+        <p>서울, 부산 등 대도시 시내버스는 자체 버스정보시스템(BIS)과 카카오버스·네이버지도 실시간 조회가 이미 잘 되어 있습니다. 이 지역별 시내버스 코너는 그런 정보를 찾기 어려운 중소도시·농어촌 지역(52개 시·군)만 전문적으로 다룹니다. 대도시를 오가는 <a href="고속버스/index.html">고속버스</a>·<a href="시외버스/index.html">시외버스</a>는 별도 메뉴에서 제공합니다.</p>
       </details>
       <details>
         <summary>우리 지역이 목록에 없어요.</summary>
@@ -463,9 +466,9 @@ def gen_index(sido_map):
 </body>
 </html>
 """
-    title = f"전국 소도시 버스 시간표 조회 — 시내버스·농어촌버스 첫차 막차 | {SITE_NAME}"
-    desc = f"전국 {total_city}개 중소도시·농어촌 지역의 시내버스 시간표를 노선별로 무료 조회하세요. 첫차·막차, 배차간격, 평일·주말 운행정보 제공. 총 {total_routes:,}개 노선."
-    keywords = "버스시간표, 시내버스 시간표, 농어촌버스 시간표, 첫차 막차, 소도시 버스시간표, 군내버스 시간표"
+    title = f"전국 버스 시간표 — 고속버스·시외버스·소도시 시내버스 | {SITE_NAME}"
+    desc = f"전국 고속버스·시외버스 시간표·요금과, 카카오버스에 잘 안 나오는 {total_city}개 중소도시·농어촌 시내버스 첫차·막차를 한 곳에서 무료 조회하세요. 총 {total_routes:,}개 노선."
+    keywords = "버스시간표, 고속버스 시간표, 시외버스 시간표, 시내버스 시간표, 농어촌버스 시간표, 첫차 막차, 소도시 버스시간표"
     head = page_head(title, desc, keywords, f"{BASE_URL}/", "")
     return head + "<body>\n\n" + HEADER_TMPL.format(root="") + "\n" + MOBILE_AD + "\n" + body
 
