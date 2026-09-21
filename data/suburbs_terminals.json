@@ -1,1178 +1,228 @@
 [
  {
-  "terminalId": "NAI0162503",
-  "cityName": "서울특별시",
-  "terminalNm": "수락산역(직통)"
- },
- {
-  "terminalId": "NAI0215101",
-  "cityName": "서울특별시",
-  "terminalNm": "상봉"
- },
- {
-  "terminalId": "NAI0456505",
-  "cityName": "서울특별시",
-  "terminalNm": "동대문 디자인플라자(DDP)"
- },
- {
-  "terminalId": "NAI0496801",
-  "cityName": "서울특별시",
-  "terminalNm": "광나루역"
- },
- {
-  "terminalId": "NAI0511601",
-  "cityName": "서울특별시",
-  "terminalNm": "동서울"
- },
- {
-  "terminalId": "NAI0550201",
-  "cityName": "서울특별시",
-  "terminalNm": "잠실역"
- },
- {
-  "terminalId": "NAI0616401",
-  "cityName": "서울특별시",
-  "terminalNm": "코엑스(도심공항)"
- },
- {
-  "terminalId": "NAI0654501",
-  "cityName": "서울특별시",
-  "terminalNm": "서울고속버스터미널(경부)"
- },
- {
-  "terminalId": "NAI0671801",
-  "cityName": "서울특별시",
-  "terminalNm": "서울남부"
- },
- {
-  "terminalId": "NAI0750501",
-  "cityName": "서울특별시",
-  "terminalNm": "김포공항"
- },
- {
-  "terminalId": "NAI0750503",
-  "cityName": "서울특별시",
-  "terminalNm": "김포공항(도심공항)"
- },
- {
-  "terminalId": "NAI1029401",
-  "cityName": "경기도",
-  "terminalNm": "성사고교"
- },
- {
-  "terminalId": "NAI1032301",
-  "cityName": "경기도",
-  "terminalNm": "위시티(3,4단지)"
- },
- {
-  "terminalId": "NAI1045001",
-  "cityName": "경기도",
-  "terminalNm": "고양종합"
- },
- {
-  "terminalId": "NAI1058501",
-  "cityName": "경기도",
-  "terminalNm": "지축역"
- },
- {
-  "terminalId": "NAI1082301",
-  "cityName": "경기도",
-  "terminalNm": "문산공용"
- },
- {
-  "terminalId": "NAI1093002",
-  "cityName": "경기도",
-  "terminalNm": "금촌역"
- },
- {
-  "terminalId": "NAI1100001",
-  "cityName": "경기도",
-  "terminalNm": "연천"
- },
- {
-  "terminalId": "NAI1111601",
-  "cityName": "경기도",
-  "terminalNm": "일동"
- },
- {
-  "terminalId": "NAI1136601",
-  "cityName": "경기도",
-  "terminalNm": "동두천터미널"
- },
- {
-  "terminalId": "NAI1174901",
-  "cityName": "경기도",
-  "terminalNm": "의정부"
- },
- {
-  "terminalId": "NAI1176903",
-  "cityName": "경기도",
-  "terminalNm": "낙양동차고지"
- },
- {
-  "terminalId": "NAI1202001",
-  "cityName": "경기도",
-  "terminalNm": "광릉내"
- },
- {
-  "terminalId": "NAI1217902",
-  "cityName": "경기도",
-  "terminalNm": "원병원(마석)"
- },
- {
-  "terminalId": "NAI1227501",
-  "cityName": "경기도",
-  "terminalNm": "쌍용스위닷홈(덕소)"
- },
- {
-  "terminalId": "NAI1252101",
-  "cityName": "경기도",
-  "terminalNm": "용문"
- },
- {
-  "terminalId": "NAI1263101",
-  "cityName": "경기도",
-  "terminalNm": "여주"
- },
- {
-  "terminalId": "NAI1275701",
-  "cityName": "경기도",
-  "terminalNm": "광주(경기)"
- },
- {
-  "terminalId": "NAI1300101",
-  "cityName": "경기",
-  "terminalNm": "감일문화공원(하남)"
- },
- {
-  "terminalId": "NAI1302301",
-  "cityName": "경기도",
-  "terminalNm": "하남BRT"
- },
- {
-  "terminalId": "NAI1313401",
-  "cityName": "경기도",
-  "terminalNm": "을지대(성남)"
- },
- {
-  "terminalId": "NAI1349701",
-  "cityName": "경기도",
-  "terminalNm": "성남"
- },
- {
-  "terminalId": "NAI1354401",
-  "cityName": "경기도",
-  "terminalNm": "판교(풍경채7단지)"
- },
- {
-  "terminalId": "NAI1363601",
-  "cityName": "경기도",
-  "terminalNm": "오리역"
- },
- {
-  "terminalId": "NAI1399201",
-  "cityName": "경기도",
-  "terminalNm": "안양역"
- },
- {
-  "terminalId": "NAI1454501",
-  "cityName": "경기도",
-  "terminalNm": "부천"
- },
- {
-  "terminalId": "NAI1506601",
-  "cityName": "경기도",
-  "terminalNm": "시흥"
- },
- {
-  "terminalId": "NAI1529901",
-  "cityName": "경기도",
-  "terminalNm": "안산터미널"
- },
- {
-  "terminalId": "NAI1640501",
-  "cityName": "경기도",
-  "terminalNm": "서수원"
- },
- {
-  "terminalId": "NAI1654501",
-  "cityName": "경기도",
-  "terminalNm": "영통(더마레보호텔)공항행"
- },
- {
-  "terminalId": "NAI1658501",
-  "cityName": "경기도",
-  "terminalNm": "수원터미널"
- },
- {
-  "terminalId": "NAI1689001",
-  "cityName": "경기도",
-  "terminalNm": "단국대(죽전캠퍼스)"
- },
- {
-  "terminalId": "NAI1706301",
-  "cityName": "경기도",
-  "terminalNm": "용인"
- },
- {
-  "terminalId": "NAI1707501",
-  "cityName": "경기도",
-  "terminalNm": "한국민속촌"
- },
- {
-  "terminalId": "NAI1715801",
-  "cityName": "경기도",
-  "terminalNm": "양지"
- },
- {
-  "terminalId": "NAI1737301",
-  "cityName": "경기도",
-  "terminalNm": "이천"
- },
- {
-  "terminalId": "NAI1741901",
-  "cityName": "경기도",
-  "terminalNm": "장호원공용"
- },
- {
-  "terminalId": "NAI1751601",
-  "cityName": "경기도",
-  "terminalNm": "동아방송대"
- },
- {
-  "terminalId": "NAI1758501",
-  "cityName": "경기도",
-  "terminalNm": "안성"
- },
- {
-  "terminalId": "NAI1791901",
-  "cityName": "경기도",
-  "terminalNm": "평택"
- },
- {
-  "terminalId": "NAI1794301",
-  "cityName": "경기도",
-  "terminalNm": "안중"
- },
- {
-  "terminalId": "NAI1812702",
-  "cityName": "경기도",
-  "terminalNm": "세교한신더휴(오산)"
- },
- {
-  "terminalId": "NAI1813701",
-  "cityName": "경기도",
-  "terminalNm": "오산"
- },
- {
-  "terminalId": "NAI1850701",
-  "cityName": "경기",
-  "terminalNm": "동탄(자이파밀리에)"
- },
- {
-  "terminalId": "NAI2224201",
-  "cityName": "인천광역시",
-  "terminalNm": "인천"
- },
- {
-  "terminalId": "NAI2238202",
-  "cityName": "인천광역시",
-  "terminalNm": "인천공항2터미널"
- },
- {
-  "terminalId": "NAI2401401",
-  "cityName": "강원도",
-  "terminalNm": "동송"
- },
- {
-  "terminalId": "NAI2405901",
-  "cityName": "강원도",
-  "terminalNm": "와수리"
- },
- {
-  "terminalId": "NAI2410101",
-  "cityName": "강원도",
-  "terminalNm": "산양리"
- },
- {
-  "terminalId": "NAI2410401",
-  "cityName": "강원도",
-  "terminalNm": "다목리"
- },
- {
-  "terminalId": "NAI2413001",
-  "cityName": "강원도",
-  "terminalNm": "화천"
- },
- {
-  "terminalId": "NAI2415401",
-  "cityName": "강원도",
-  "terminalNm": "사창리"
- },
- {
-  "terminalId": "NAI2443501",
-  "cityName": "강원도",
-  "terminalNm": "춘천"
- },
- {
-  "terminalId": "NAI2452401",
-  "cityName": "강원도",
-  "terminalNm": "양구"
- },
- {
-  "terminalId": "NAI2455401",
-  "cityName": "강원도",
-  "terminalNm": "양구정중앙"
- },
- {
-  "terminalId": "NAI2460501",
-  "cityName": "강원도",
-  "terminalNm": "백담사입구"
- },
- {
-  "terminalId": "NAI2461201",
-  "cityName": "강원도",
-  "terminalNm": "원통"
- },
- {
-  "terminalId": "NAI2463501",
-  "cityName": "강원도",
-  "terminalNm": "인제"
- },
- {
-  "terminalId": "NAI2464801",
-  "cityName": "강원도",
-  "terminalNm": "신남"
- },
- {
-  "terminalId": "NAI2465901",
-  "cityName": "강원도",
-  "terminalNm": "현리(강원)"
- },
- {
-  "terminalId": "NAI2472501",
-  "cityName": "강원도",
-  "terminalNm": "거진"
- },
- {
-  "terminalId": "NAI2473401",
-  "cityName": "강원도",
-  "terminalNm": "간성"
- },
- {
-  "terminalId": "NAI2482701",
-  "cityName": "강원도",
-  "terminalNm": "속초"
- },
- {
-  "terminalId": "NAI2503101",
-  "cityName": "강원도",
-  "terminalNm": "양양"
- },
- {
-  "terminalId": "NAI2503304",
-  "cityName": "강원도",
-  "terminalNm": "오색"
- },
- {
-  "terminalId": "NAI2510801",
-  "cityName": "강원도",
-  "terminalNm": "양덕원"
- },
- {
-  "terminalId": "NAI2513501",
-  "cityName": "강원도",
-  "terminalNm": "홍천"
- },
- {
-  "terminalId": "NAI2537601",
-  "cityName": "강원도",
-  "terminalNm": "평창"
- },
- {
-  "terminalId": "NAI2541901",
-  "cityName": "강원도",
-  "terminalNm": "주문진"
- },
- {
-  "terminalId": "NAI2551901",
-  "cityName": "강원도",
-  "terminalNm": "강릉"
- },
- {
-  "terminalId": "NAI2570801",
-  "cityName": "강원도",
-  "terminalNm": "대진"
- },
- {
-  "terminalId": "NAI2592901",
-  "cityName": "강원도",
-  "terminalNm": "삼척"
- },
- {
-  "terminalId": "NAI2595601",
-  "cityName": "강원도",
-  "terminalNm": "임원"
- },
- {
-  "terminalId": "NAI2596101",
-  "cityName": "강원도",
-  "terminalNm": "호산"
- },
- {
-  "terminalId": "NAI2600701",
-  "cityName": "강원도",
-  "terminalNm": "태백"
- },
- {
-  "terminalId": "NAI2613201",
-  "cityName": "강원도",
-  "terminalNm": "정선"
- },
- {
-  "terminalId": "NAI2615501",
-  "cityName": "강원도",
-  "terminalNm": "고한사북공영"
- },
- {
-  "terminalId": "NAI2623601",
-  "cityName": "강원도",
-  "terminalNm": "영월"
- },
- {
-  "terminalId": "NAI2638201",
-  "cityName": "강원도",
-  "terminalNm": "원주"
- },
- {
-  "terminalId": "NAI2701101",
-  "cityName": "충청북도",
-  "terminalNm": "단양"
- },
- {
-  "terminalId": "NAI2702001",
-  "cityName": "충청북도",
-  "terminalNm": "구인사"
- },
- {
-  "terminalId": "NAI2710401",
-  "cityName": "충청북도",
-  "terminalNm": "백운"
- },
- {
-  "terminalId": "NAI2713601",
-  "cityName": "충청북도",
-  "terminalNm": "세명대"
- },
- {
-  "terminalId": "NAI2716501",
-  "cityName": "충청북도",
-  "terminalNm": "제천"
- },
- {
-  "terminalId": "NAI2736001",
-  "cityName": "충청북도",
-  "terminalNm": "충주"
- },
- {
-  "terminalId": "NAI2746901",
-  "cityName": "충청북도",
-  "terminalNm": "교통대학"
- },
- {
-  "terminalId": "NAI2747801",
-  "cityName": "충청북도",
-  "terminalNm": "건국대(충주)"
- },
- {
-  "terminalId": "NAI2749601",
-  "cityName": "충청북도",
-  "terminalNm": "수안보"
- },
- {
-  "terminalId": "NAI2764801",
-  "cityName": "충청북도",
-  "terminalNm": "삼성(대소)"
- },
- {
-  "terminalId": "NAI2766801",
-  "cityName": "충청북도",
-  "terminalNm": "대소"
- },
- {
-  "terminalId": "NAI2769501",
-  "cityName": "충청북도",
-  "terminalNm": "음성"
- },
- {
-  "terminalId": "NAI2773901",
-  "cityName": "충청북도",
-  "terminalNm": "충북혁신도시"
- },
- {
-  "terminalId": "NAI2780501",
-  "cityName": "충청북도",
-  "terminalNm": "광혜원"
- },
- {
-  "terminalId": "NAI2782001",
-  "cityName": "충청북도",
-  "terminalNm": "이월(충북)"
- },
- {
-  "terminalId": "NAI2783101",
-  "cityName": "충청북도",
-  "terminalNm": "진천"
- },
- {
-  "terminalId": "NAI2793101",
-  "cityName": "충청북도",
-  "terminalNm": "증평"
- },
- {
-  "terminalId": "NAI2803301",
-  "cityName": "충청북도",
-  "terminalNm": "괴산"
- },
- {
-  "terminalId": "NAI2812001",
-  "cityName": "충청북도",
-  "terminalNm": "청주북부터미널"
- },
- {
-  "terminalId": "NAI2814201",
-  "cityName": "충청북도",
-  "terminalNm": "청주공항"
- },
- {
-  "terminalId": "NAI2816403",
-  "cityName": "충청북도",
-  "terminalNm": "오송(오스코)"
- },
- {
-  "terminalId": "NAI2833901",
-  "cityName": "충청북도",
-  "terminalNm": "청주율량"
- },
- {
-  "terminalId": "NAI2839701",
-  "cityName": "충청북도",
-  "terminalNm": "청주"
- },
- {
-  "terminalId": "NAI2848501",
-  "cityName": "충청북도",
-  "terminalNm": "청주대정류소"
- },
- {
-  "terminalId": "NAI2863501",
-  "cityName": "충청북도",
-  "terminalNm": "남청주"
- },
- {
-  "terminalId": "NAI2890801",
-  "cityName": "충청북도",
-  "terminalNm": "속리산"
- },
- {
-  "terminalId": "NAI2891101",
-  "cityName": "충청북도",
-  "terminalNm": "보은"
- },
- {
-  "terminalId": "NAI2900601",
-  "cityName": "충청북도",
-  "terminalNm": "현리"
- },
- {
-  "terminalId": "NAI2903301",
-  "cityName": "충청북도",
-  "terminalNm": "옥천"
- },
- {
-  "terminalId": "NAI3002601",
-  "cityName": "세종특별자치시",
-  "terminalNm": "조치원"
- },
- {
-  "terminalId": "NAI3010701",
-  "cityName": "세종특별자치시",
-  "terminalNm": "세종청사"
- },
- {
-  "terminalId": "NAI3015401",
-  "cityName": "세종특별자치시",
-  "terminalNm": "세종시"
- },
- {
-  "terminalId": "NAI3100601",
-  "cityName": "충청남도",
-  "terminalNm": "성환"
- },
- {
-  "terminalId": "NAI3112001",
-  "cityName": "충청남도",
-  "terminalNm": "천안"
- },
- {
-  "terminalId": "NAI3148401",
-  "cityName": "충청남도",
-  "terminalNm": "배방정류소"
- },
- {
-  "terminalId": "NAI3151704",
-  "cityName": "충청남도",
-  "terminalNm": "아산(온양)"
- },
- {
-  "terminalId": "NAI3153401",
-  "cityName": "충청남도",
-  "terminalNm": "신창"
- },
- {
-  "terminalId": "NAI3173301",
-  "cityName": "충청남도",
-  "terminalNm": "기지시"
- },
- {
-  "terminalId": "NAI3174401",
-  "cityName": "충청남도",
-  "terminalNm": "삽교천"
- },
- {
-  "terminalId": "NAI3174801",
-  "cityName": "충청남도",
-  "terminalNm": "신평"
- },
- {
-  "terminalId": "NAI3177101",
-  "cityName": "충청남도",
-  "terminalNm": "당진"
- },
- {
-  "terminalId": "NAI3181201",
-  "cityName": "충청남도",
-  "terminalNm": "합덕"
- },
- {
-  "terminalId": "NAI3193601",
-  "cityName": "충청남도",
-  "terminalNm": "음암"
- },
- {
-  "terminalId": "NAI3194501",
-  "cityName": "충청남도",
-  "terminalNm": "운산"
- },
- {
-  "terminalId": "NAI3196001",
-  "cityName": "충청남도",
-  "terminalNm": "해미"
- },
- {
-  "terminalId": "NAI3196201",
-  "cityName": "충청남도",
-  "terminalNm": "한서대"
- },
- {
-  "terminalId": "NAI3198101",
-  "cityName": "충청남도",
-  "terminalNm": "서산"
- },
- {
-  "terminalId": "NAI3202701",
-  "cityName": "충청남도",
-  "terminalNm": "고북"
- },
- {
-  "terminalId": "NAI3212301",
-  "cityName": "충청남도",
-  "terminalNm": "만리포"
- },
- {
-  "terminalId": "NAI3214401",
-  "cityName": "충청남도",
-  "terminalNm": "태안"
- },
- {
-  "terminalId": "NAI3216201",
-  "cityName": "충청남도",
-  "terminalNm": "창기리"
- },
- {
-  "terminalId": "NAI3216401",
-  "cityName": "충청남도",
-  "terminalNm": "안면도"
- },
- {
-  "terminalId": "NAI3222001",
-  "cityName": "충청남도",
-  "terminalNm": "홍성"
- },
- {
-  "terminalId": "NAI3240601",
-  "cityName": "충청남도",
-  "terminalNm": "덕산스파"
- },
- {
-  "terminalId": "NAI3241601",
-  "cityName": "충청남도",
-  "terminalNm": "내포"
- },
- {
-  "terminalId": "NAI3242101",
-  "cityName": "충청남도",
-  "terminalNm": "신례원"
- },
- {
-  "terminalId": "NAI3242801",
-  "cityName": "충청남도",
-  "terminalNm": "예산"
- },
- {
-  "terminalId": "NAI3245301",
-  "cityName": "충청남도",
-  "terminalNm": "신양"
- },
- {
-  "terminalId": "NAI3258501",
-  "cityName": "충청남도",
-  "terminalNm": "공주"
- },
- {
-  "terminalId": "NAI3271401",
-  "cityName": "충청남도",
-  "terminalNm": "마전(충남)"
- },
- {
-  "terminalId": "NAI3273501",
-  "cityName": "충청남도",
-  "terminalNm": "금산"
- },
- {
-  "terminalId": "NAI3282601",
-  "cityName": "충청남도",
-  "terminalNm": "계룡금암"
- },
- {
-  "terminalId": "NAI3295401",
-  "cityName": "충청남도",
-  "terminalNm": "논산"
- },
- {
-  "terminalId": "NAI3315201",
-  "cityName": "충청남도",
-  "terminalNm": "부여"
- },
- {
-  "terminalId": "NAI3331201",
-  "cityName": "충청남도",
-  "terminalNm": "화성(청양)"
- },
- {
-  "terminalId": "NAI3332601",
-  "cityName": "충청남도",
-  "terminalNm": "청양"
- },
- {
-  "terminalId": "NAI3334601",
-  "cityName": "충청남도",
-  "terminalNm": "정산"
- },
- {
-  "terminalId": "NAI3345801",
-  "cityName": "충청남도",
-  "terminalNm": "보령"
- },
- {
-  "terminalId": "NAI3364501",
-  "cityName": "충청남도",
-  "terminalNm": "서천"
- },
- {
-  "terminalId": "NAI3367401",
-  "cityName": "충청남도",
-  "terminalNm": "장항"
- },
- {
-  "terminalId": "NAI3405901",
-  "cityName": "대전광역시",
-  "terminalNm": "자운대"
- },
- {
-  "terminalId": "NAI3417501",
-  "cityName": "대전광역시",
-  "terminalNm": "유성복합"
- },
- {
-  "terminalId": "NAI3431101",
-  "cityName": "대전광역시",
-  "terminalNm": "신탄진역"
- },
- {
-  "terminalId": "NAI3455101",
-  "cityName": "대전광역시",
-  "terminalNm": "대전복합"
- },
- {
-  "terminalId": "NAI3498701",
-  "cityName": "대전광역시",
-  "terminalNm": "대전서남부"
- },
- {
-  "terminalId": "NAI3607801",
-  "cityName": "경상북도",
-  "terminalNm": "영주"
- },
- {
-  "terminalId": "NAI3621401",
-  "cityName": "경상북도",
-  "terminalNm": "춘양"
- },
- {
-  "terminalId": "NAI3630501",
-  "cityName": "경상북도",
-  "terminalNm": "부구"
- },
- {
-  "terminalId": "NAI3631601",
-  "cityName": "경상북도",
-  "terminalNm": "죽변"
- },
- {
-  "terminalId": "NAI3632601",
-  "cityName": "경상북도",
-  "terminalNm": "울진"
- },
- {
-  "terminalId": "NAI3635801",
-  "cityName": "경상북도",
-  "terminalNm": "온정"
- },
- {
-  "terminalId": "NAI3636601",
-  "cityName": "경상북도",
-  "terminalNm": "평해"
- },
- {
-  "terminalId": "NAI3636901",
-  "cityName": "경상북도",
-  "terminalNm": "후포"
- },
- {
-  "terminalId": "NAI3641101",
-  "cityName": "경상북도",
-  "terminalNm": "영해"
- },
- {
-  "terminalId": "NAI3643101",
-  "cityName": "경상북도",
-  "terminalNm": "영덕"
- },
- {
-  "terminalId": "NAI3653301",
-  "cityName": "경상북도",
-  "terminalNm": "영양"
- },
- {
-  "terminalId": "NAI3663601",
-  "cityName": "경상북도",
-  "terminalNm": "안동"
- },
- {
-  "terminalId": "NAI3682301",
-  "cityName": "경상북도",
-  "terminalNm": "예천삼거리"
- },
- {
-  "terminalId": "NAI3682601",
-  "cityName": "경상북도",
-  "terminalNm": "예천"
- },
- {
-  "terminalId": "NAI3684901",
-  "cityName": "경상북도",
-  "terminalNm": "경북도청(신)"
- },
- {
-  "terminalId": "NAI3685801",
-  "cityName": "경상북도",
-  "terminalNm": "용궁"
- },
- {
-  "terminalId": "NAI3691701",
-  "cityName": "경상북도",
-  "terminalNm": "문경"
- },
- {
-  "terminalId": "NAI3695102",
-  "cityName": "경상북도",
-  "terminalNm": "점촌"
- },
- {
-  "terminalId": "NAI3710402",
-  "cityName": "경상북도",
-  "terminalNm": "한방단지"
- },
- {
-  "terminalId": "NAI3711801",
-  "cityName": "경상북도",
-  "terminalNm": "함창"
- },
- {
-  "terminalId": "NAI3713901",
-  "cityName": "경상북도",
-  "terminalNm": "화령"
- },
- {
-  "terminalId": "NAI3718101",
-  "cityName": "경상북도",
-  "terminalNm": "상주"
- },
- {
-  "terminalId": "NAI3731201",
-  "cityName": "경상북도",
-  "terminalNm": "안계"
- },
- {
-  "terminalId": "NAI3740901",
-  "cityName": "경상북도",
-  "terminalNm": "진보"
- },
- {
-  "terminalId": "NAI3743101",
-  "cityName": "경상북도",
-  "terminalNm": "청송"
- },
- {
-  "terminalId": "NAI3743701",
-  "cityName": "경상북도",
-  "terminalNm": "주왕산"
- },
- {
-  "terminalId": "NAI3776001",
-  "cityName": "경상북도",
-  "terminalNm": "포항"
- },
- {
-  "terminalId": "NAI3815701",
-  "cityName": "경상북도",
-  "terminalNm": "경주시외"
- },
- {
-  "terminalId": "NAI3815702",
-  "cityName": "경상북도",
-  "terminalNm": "경주고속"
- },
- {
-  "terminalId": "NAI3845402",
-  "cityName": "경상북도",
-  "terminalNm": "대구대"
- },
- {
-  "terminalId": "NAI3861901",
-  "cityName": "경상북도",
-  "terminalNm": "경산"
- },
- {
-  "terminalId": "NAI3888501",
-  "cityName": "경상북도",
-  "terminalNm": "영천"
- },
- {
-  "terminalId": "NAI3901801",
-  "cityName": "대구광역시",
-  "terminalNm": "군위"
- },
- {
-  "terminalId": "NAI3923301",
-  "cityName": "경상북도",
-  "terminalNm": "구미"
- },
- {
-  "terminalId": "NAI3926701",
-  "cityName": "경상북도",
-  "terminalNm": "구미공단"
- },
- {
-  "terminalId": "NAI3958601",
-  "cityName": "경상북도",
-  "terminalNm": "김천"
- },
- {
-  "terminalId": "NAI3962602",
-  "cityName": "경상북도",
-  "terminalNm": "김천부곡(공항)"
- },
- {
-  "terminalId": "NAI4002701",
-  "cityName": "경상북도",
-  "terminalNm": "성주"
- },
- {
-  "terminalId": "NAI4013501",
-  "cityName": "경상북도",
-  "terminalNm": "고령"
- },
- {
-  "terminalId": "NAI4105201",
-  "cityName": "대구광역시",
-  "terminalNm": "대구공항"
- },
- {
-  "terminalId": "NAI4124601",
-  "cityName": "대구광역시",
-  "terminalNm": "대구동부"
- },
- {
-  "terminalId": "NAI4171101",
-  "cityName": "대구광역시",
-  "terminalNm": "대구북부"
- },
- {
-  "terminalId": "NAI4248201",
-  "cityName": "대구광역시",
-  "terminalNm": "대구서부"
- },
- {
-  "terminalId": "NAI4467901",
-  "cityName": "울산광역시",
-  "terminalNm": "울산(태화)"
- },
- {
-  "terminalId": "NAI4472001",
-  "cityName": "울산광역시",
-  "terminalNm": "울산"
- },
- {
-  "terminalId": "NAI4620401",
-  "cityName": "부산광역시",
-  "terminalNm": "부산동부"
- },
- {
-  "terminalId": "NAI4620402",
-  "cityName": "부산광역시",
-  "terminalNm": "노포"
- },
- {
-  "terminalId": "NAI4671801",
-  "cityName": "부산광역시",
-  "terminalNm": "김해공항"
- },
- {
-  "terminalId": "NAI4671804",
-  "cityName": "부산광역시",
-  "terminalNm": "김해공항국제(세인공항리무진)"
- },
- {
-  "terminalId": "NAI4671806",
-  "cityName": "부산광역시",
-  "terminalNm": "김해공항(태화)국제"
- },
- {
-  "terminalId": "NAI4696901",
-  "cityName": "부산광역시",
-  "terminalNm": "부산서부(사상)"
- },
- {
-  "terminalId": "NAI4773401",
-  "cityName": "부산광역시",
-  "terminalNm": "부산동래"
- },
- {
-  "terminalId": "NAI4808801",
-  "cityName": "부산광역시",
-  "terminalNm": "부산해운대(수도권)"
- },
- {
-  "terminalId": "NAI4809501",
-  "cityName": "부산광역시",
-  "terminalNm": "부산해운대"
- },
- {
-  "terminalId": "NAI5003901",
+  "terminalId": "NAI5093802",
   "cityName": "경상남도",
-  "terminalNm": "함양"
+  "terminalNm": "김해터미널"
  },
  {
-  "terminalId": "NAI5005701",
+  "terminalId": "NAI5094601",
   "cityName": "경상남도",
-  "terminalNm": "백무동"
+  "terminalNm": "박물관역"
  },
  {
-  "terminalId": "NAI5020001",
+  "terminalId": "NAI5097101",
   "cityName": "경상남도",
-  "terminalNm": "해인사"
+  "terminalNm": "갑을병원"
  },
  {
-  "terminalId": "NAI5020101",
+  "terminalId": "NAI5098301",
   "cityName": "경상남도",
-  "terminalNm": "가야"
+  "terminalNm": "코아상가"
  },
  {
-  "terminalId": "NAI5023301",
+  "terminalId": "NAI5099501",
   "cityName": "경상남도",
-  "terminalNm": "합천"
+  "terminalNm": "대동3단지"
  },
  {
-  "terminalId": "NAI5036501",
+  "terminalId": "NAI5100701",
   "cityName": "경상남도",
-  "terminalNm": "부곡"
+  "terminalNm": "김해장유(경남)"
  },
  {
-  "terminalId": "NAI5062901",
+  "terminalId": "NAI5100704",
   "cityName": "경상남도",
-  "terminalNm": "양산"
+  "terminalNm": "김해장유(고속)"
  },
  {
-  "terminalId": "NAI5086801",
+  "terminalId": "NAI5101101",
   "cityName": "경상남도",
-  "terminalNm": "진영"
+  "terminalNm": "장유"
  },
  {
-  "terminalId": "NAI5093801",
+  "terminalId": "NAI5102101",
   "cityName": "경상남도",
-  "terminalNm": "김해"
+  "terminalNm": "폭포수(창원)"
  },
  {
-  "terminalId": "NAI5130101",
+  "terminalId": "NAI5110802",
   "cityName": "경상남도",
-  "terminalNm": "마산역(공항리무진)"
+  "terminalNm": "월촌(완행)"
  },
  {
-  "terminalId": "NAI5135601",
+  "terminalId": "NAI5112201",
   "cityName": "경상남도",
-  "terminalNm": "마산"
+  "terminalNm": "유등입구"
  },
  {
-  "terminalId": "NAI5139301",
+  "terminalId": "NAI5112204",
   "cityName": "경상남도",
-  "terminalNm": "창원"
+  "terminalNm": "유등종점"
  },
  {
-  "terminalId": "NAI5143601",
-  "cityName": "경남",
-  "terminalNm": "정우상가"
- },
- {
-  "terminalId": "NAI5153601",
+  "terminalId": "NAI5112302",
   "cityName": "경상남도",
-  "terminalNm": "창원남산"
+  "terminalNm": "용등"
  },
  {
-  "terminalId": "NAI5160301",
+  "terminalId": "NAI5112402",
   "cityName": "경상남도",
-  "terminalNm": "용원(녹산,명지)"
+  "terminalNm": "가술"
  },
  {
-  "terminalId": "NAI5170301",
+  "terminalId": "NAI5112502",
   "cityName": "경상남도",
-  "terminalNm": "진해"
+  "terminalNm": "용강검문소"
  },
  {
-  "terminalId": "NAI5175001",
+  "terminalId": "NAI5112505",
   "cityName": "경상남도",
-  "terminalNm": "마산남부"
+  "terminalNm": "덕산/자여입구"
+ },
+ {
+  "terminalId": "NAI5113201",
+  "cityName": "경상남도",
+  "terminalNm": "용잠삼거리"
+ },
+ {
+  "terminalId": "NAI5113401",
+  "cityName": "경상남도",
+  "terminalNm": "덕산"
+ },
+ {
+  "terminalId": "NAI5117901",
+  "cityName": "경상남도",
+  "terminalNm": "봉곡"
+ },
+ {
+  "terminalId": "NAI5119101",
+  "cityName": "경상남도",
+  "terminalNm": "창원역"
+ },
+ {
+  "terminalId": "NAI5123102",
+  "cityName": "경상남도",
+  "terminalNm": "동신아파트"
+ },
+ {
+  "terminalId": "NAI5135402",
+  "cityName": "경상남도",
+  "terminalNm": "고속도"
+ },
+ {
+  "terminalId": "NAI5135605",
+  "cityName": "경상남도",
+  "terminalNm": "복지상가"
+ },
+ {
+  "terminalId": "NAI5135611",
+  "cityName": "경상남도",
+  "terminalNm": "창원/소목"
+ },
+ {
+  "terminalId": "NAI5135614",
+  "cityName": "경상남도",
+  "terminalNm": "김해/완행"
+ },
+ {
+  "terminalId": "NAI5135699",
+  "cityName": "경상남도",
+  "terminalNm": "선진.신기"
+ },
+ {
+  "terminalId": "NAI5137101",
+  "cityName": "경상남도",
+  "terminalNm": "태광주유소"
+ },
+ {
+  "terminalId": "NAI5139303",
+  "cityName": "경상남도",
+  "terminalNm": "덕남"
+ },
+ {
+  "terminalId": "NAI5139306",
+  "cityName": "경상남도",
+  "terminalNm": "무기"
+ },
+ {
+  "terminalId": "NAI5140801",
+  "cityName": "경상남도",
+  "terminalNm": "창원컨벤션(공항리무진)"
+ },
+ {
+  "terminalId": "NAI5146901",
+  "cityName": "경상남도",
+  "terminalNm": "성산"
+ },
+ {
+  "terminalId": "NAI5152401",
+  "cityName": "경상남도",
+  "terminalNm": "창원병원"
+ },
+ {
+  "terminalId": "NAI5153001",
+  "cityName": "경상남도",
+  "terminalNm": "올림픽공원"
+ },
+ {
+  "terminalId": "NAI5156701",
+  "cityName": "경상남도",
+  "terminalNm": "신촌"
+ },
+ {
+  "terminalId": "NAI5158701",
+  "cityName": "경상남도",
+  "terminalNm": "진해경찰서"
+ },
+ {
+  "terminalId": "NAI5160401",
+  "cityName": "경상남도",
+  "terminalNm": "용원삼거리"
+ },
+ {
+  "terminalId": "NAI5161001",
+  "cityName": "경상남도",
+  "terminalNm": "웅동"
+ },
+ {
+  "terminalId": "NAI5162901",
+  "cityName": "경상남도",
+  "terminalNm": "진해구청"
+ },
+ {
+  "terminalId": "NAI5167601",
+  "cityName": "경상남도",
+  "terminalNm": "중앙시장(진해)"
+ },
+ {
+  "terminalId": "NAI5169601",
+  "cityName": "경상남도",
+  "terminalNm": "구육대"
+ },
+ {
+  "terminalId": "NAI5176301",
+  "cityName": "경상남도",
+  "terminalNm": "문화(경남)"
+ },
+ {
+  "terminalId": "NAI5178801",
+  "cityName": "경상남도",
+  "terminalNm": "대티(경남)"
+ },
+ {
+  "terminalId": "NAI5178901",
+  "cityName": "경상남도",
+  "terminalNm": "동전(태봉)"
+ },
+ {
+  "terminalId": "NAI5179402",
+  "cityName": "경상남도",
+  "terminalNm": "죽전(경남)"
+ },
+ {
+  "terminalId": "NAI5179503",
+  "cityName": "경상남도",
+  "terminalNm": "곡안"
  },
  {
   "terminalId": "NAI5201701",
@@ -1180,24 +230,244 @@
   "terminalNm": "함안"
  },
  {
-  "terminalId": "NAI5204401",
+  "terminalId": "NAI5202701",
   "cityName": "경상남도",
-  "terminalNm": "가야주공(함안)"
+  "terminalNm": "예곡"
  },
  {
-  "terminalId": "NAI5206501",
+  "terminalId": "NAI5204302",
   "cityName": "경상남도",
-  "terminalNm": "군북"
+  "terminalNm": "읍내(함안)"
  },
  {
-  "terminalId": "NAI5213801",
+  "terminalId": "NAI5204901",
   "cityName": "경상남도",
-  "terminalNm": "의령"
+  "terminalNm": "산인"
  },
  {
-  "terminalId": "NAI5223604",
+  "terminalId": "NAI5205402",
   "cityName": "경상남도",
-  "terminalNm": "중산리(산청군)"
+  "terminalNm": "함안면"
+ },
+ {
+  "terminalId": "NAI5205702",
+  "cityName": "경상남도",
+  "terminalNm": "사평"
+ },
+ {
+  "terminalId": "NAI5206101",
+  "cityName": "경상남도",
+  "terminalNm": "주물"
+ },
+ {
+  "terminalId": "NAI5206104",
+  "cityName": "경상남도",
+  "terminalNm": "월촌"
+ },
+ {
+  "terminalId": "NAI5206301",
+  "cityName": "경상남도",
+  "terminalNm": "모정"
+ },
+ {
+  "terminalId": "NAI5206502",
+  "cityName": "경상남도",
+  "terminalNm": "군북(완행)"
+ },
+ {
+  "terminalId": "NAI5210701",
+  "cityName": "경상남도",
+  "terminalNm": "대곡"
+ },
+ {
+  "terminalId": "NAI5210803",
+  "cityName": "경상남도",
+  "terminalNm": "신기,중기"
+ },
+ {
+  "terminalId": "NAI5210902",
+  "cityName": "경상남도",
+  "terminalNm": "야산"
+ },
+ {
+  "terminalId": "NAI5211202",
+  "cityName": "경상남도",
+  "terminalNm": "대현(중촌)"
+ },
+ {
+  "terminalId": "NAI5211301",
+  "cityName": "경상남도",
+  "terminalNm": "유곡"
+ },
+ {
+  "terminalId": "NAI5211601",
+  "cityName": "경상남도",
+  "terminalNm": "마두"
+ },
+ {
+  "terminalId": "NAI5211604",
+  "cityName": "경상남도",
+  "terminalNm": "신오목"
+ },
+ {
+  "terminalId": "NAI5211607",
+  "cityName": "경상남도",
+  "terminalNm": "신촌"
+ },
+ {
+  "terminalId": "NAI5211801",
+  "cityName": "경상남도",
+  "terminalNm": "두곡"
+ },
+ {
+  "terminalId": "NAI5212202",
+  "cityName": "경상남도",
+  "terminalNm": "호미"
+ },
+ {
+  "terminalId": "NAI5212205",
+  "cityName": "경남",
+  "terminalNm": "원당(의령)"
+ },
+ {
+  "terminalId": "NAI5212208",
+  "cityName": "경남",
+  "terminalNm": "중촌(입구)"
+ },
+ {
+  "terminalId": "NAI5212302",
+  "cityName": "경남",
+  "terminalNm": "호미예동(의령)"
+ },
+ {
+  "terminalId": "NAI5212501",
+  "cityName": "경상남도",
+  "terminalNm": "장내(경남)"
+ },
+ {
+  "terminalId": "NAI5212801",
+  "cityName": "경상남도",
+  "terminalNm": "용덕(의령)"
+ },
+ {
+  "terminalId": "NAI5213101",
+  "cityName": "경상남도",
+  "terminalNm": "갈미실"
+ },
+ {
+  "terminalId": "NAI5213405",
+  "cityName": "경상남도",
+  "terminalNm": "산남"
+ },
+ {
+  "terminalId": "NAI5213503",
+  "cityName": "경상남도",
+  "terminalNm": "죽전(의령)"
+ },
+ {
+  "terminalId": "NAI5213701",
+  "cityName": "경상남도",
+  "terminalNm": "가례"
+ },
+ {
+  "terminalId": "NAI5214701",
+  "cityName": "경상남도",
+  "terminalNm": "어촌"
+ },
+ {
+  "terminalId": "NAI5215602",
+  "cityName": "경상남도",
+  "terminalNm": "화정(경남)"
+ },
+ {
+  "terminalId": "NAI5215702",
+  "cityName": "경상남도",
+  "terminalNm": "소화"
+ },
+ {
+  "terminalId": "NAI5215803",
+  "cityName": "경상남도",
+  "terminalNm": "장고"
+ },
+ {
+  "terminalId": "NAI5215806",
+  "cityName": "경상남도",
+  "terminalNm": "상리"
+ },
+ {
+  "terminalId": "NAI5216003",
+  "cityName": "경상남도",
+  "terminalNm": "보천"
+ },
+ {
+  "terminalId": "NAI5220101",
+  "cityName": "경상남도",
+  "terminalNm": "양촌(동산)"
+ },
+ {
+  "terminalId": "NAI5220401",
+  "cityName": "경상남도",
+  "terminalNm": "생초"
+ },
+ {
+  "terminalId": "NAI5221801",
+  "cityName": "경상남도",
+  "terminalNm": "산청터미널"
+ },
+ {
+  "terminalId": "NAI5222203",
+  "cityName": "경상남도",
+  "terminalNm": "당동(직행)"
+ },
+ {
+  "terminalId": "NAI5222802",
+  "cityName": "경상남도",
+  "terminalNm": "예하"
+ },
+ {
+  "terminalId": "NAI5223301",
+  "cityName": "경남",
+  "terminalNm": "구만"
+ },
+ {
+  "terminalId": "NAI5223603",
+  "cityName": "경상남도",
+  "terminalNm": "곡점"
+ },
+ {
+  "terminalId": "NAI5223703",
+  "cityName": "경상남도",
+  "terminalNm": "예치"
+ },
+ {
+  "terminalId": "NAI5223802",
+  "cityName": "경상남도",
+  "terminalNm": "외공"
+ },
+ {
+  "terminalId": "NAI5224401",
+  "cityName": "경상남도",
+  "terminalNm": "길리"
+ },
+ {
+  "terminalId": "NAI5224501",
+  "cityName": "경상남도",
+  "terminalNm": "소리당(산청)"
+ },
+ {
+  "terminalId": "NAI5224601",
+  "cityName": "경상남도",
+  "terminalNm": "구사"
+ },
+ {
+  "terminalId": "NAI5224901",
+  "cityName": "경상남도",
+  "terminalNm": "원지"
+ },
+ {
+  "terminalId": "NAI5225501",
+  "cityName": "경상남도",
+  "terminalNm": "송계"
  },
  {
   "terminalId": "NAI5230001",
@@ -1205,14 +475,149 @@
   "terminalNm": "의신"
  },
  {
-  "terminalId": "NAI5230201",
+  "terminalId": "NAI5230202",
   "cityName": "경상남도",
-  "terminalNm": "쌍계사"
+  "terminalNm": "쌍계,용강"
  },
  {
-  "terminalId": "NAI5232501",
+  "terminalId": "NAI5230304",
   "cityName": "경상남도",
-  "terminalNm": "하동"
+  "terminalNm": "법하,가탄"
+ },
+ {
+  "terminalId": "NAI5230406",
+  "cityName": "경상남도",
+  "terminalNm": "신흥(화개)"
+ },
+ {
+  "terminalId": "NAI5230505",
+  "cityName": "경상남도",
+  "terminalNm": "덕기"
+ },
+ {
+  "terminalId": "NAI5230703",
+  "cityName": "경상남도",
+  "terminalNm": "평사,대촌"
+ },
+ {
+  "terminalId": "NAI5230804",
+  "cityName": "경상남도",
+  "terminalNm": "축지"
+ },
+ {
+  "terminalId": "NAI5230905",
+  "cityName": "경상남도",
+  "terminalNm": "회동,학동"
+ },
+ {
+  "terminalId": "NAI5231001",
+  "cityName": "경상남도",
+  "terminalNm": "나본"
+ },
+ {
+  "terminalId": "NAI5231004",
+  "cityName": "경상남도",
+  "terminalNm": "평촌(하동)"
+ },
+ {
+  "terminalId": "NAI5231101",
+  "cityName": "경상남도",
+  "terminalNm": "문암"
+ },
+ {
+  "terminalId": "NAI5231203",
+  "cityName": "경상남도",
+  "terminalNm": "돌고지"
+ },
+ {
+  "terminalId": "NAI5231402",
+  "cityName": "경상남도",
+  "terminalNm": "옥종(북천)"
+ },
+ {
+  "terminalId": "NAI5231503",
+  "cityName": "경상남도",
+  "terminalNm": "양천사"
+ },
+ {
+  "terminalId": "NAI5231703",
+  "cityName": "경상남도",
+  "terminalNm": "모성,사평"
+ },
+ {
+  "terminalId": "NAI5231801",
+  "cityName": "전라북도",
+  "terminalNm": "북천"
+ },
+ {
+  "terminalId": "NAI5231903",
+  "cityName": "경상남도",
+  "terminalNm": "답곡"
+ },
+ {
+  "terminalId": "NAI5231906",
+  "cityName": "경상남도",
+  "terminalNm": "온동"
+ },
+ {
+  "terminalId": "NAI5232008",
+  "cityName": "경상남도",
+  "terminalNm": "국골"
+ },
+ {
+  "terminalId": "NAI5232502",
+  "cityName": "경상남도",
+  "terminalNm": "미서"
+ },
+ {
+  "terminalId": "NAI5233001",
+  "cityName": "경상남도",
+  "terminalNm": "덕천(경남)"
+ },
+ {
+  "terminalId": "NAI5233502",
+  "cityName": "경상남도",
+  "terminalNm": "구정,상쌍"
+ },
+ {
+  "terminalId": "NAI5233603",
+  "cityName": "경상남도",
+  "terminalNm": "양보,운암"
+ },
+ {
+  "terminalId": "NAI5233606",
+  "cityName": "경상남도",
+  "terminalNm": "진교(고전)"
+ },
+ {
+  "terminalId": "NAI5233706",
+  "cityName": "경상남도",
+  "terminalNm": "원박(박달)"
+ },
+ {
+  "terminalId": "NAI5234002",
+  "cityName": "경상남도",
+  "terminalNm": "대덕(경남)"
+ },
+ {
+  "terminalId": "NAI5234101",
+  "cityName": "경상남도",
+  "terminalNm": "상촌"
+ },
+ {
+  "terminalId": "NAI5234402",
+  "cityName": "경상남도",
+  "terminalNm": "지곡(경남)"
+ },
+ {
+  "terminalId": "NAI5234901",
+  "cityName": "경상남도",
+  "terminalNm": "술상(하동)"
+ },
+ {
+  "terminalId": "NAI5235003",
+  "cityName": "경상남도",
+  "terminalNm": "계황,조금"
  },
  {
   "terminalId": "NAI5235004",
@@ -1220,14 +625,174 @@
   "terminalNm": "전도"
  },
  {
-  "terminalId": "NAI5241401",
+  "terminalId": "NAI5235006",
+  "cityName": "경상남도",
+  "terminalNm": "금남고,진정"
+ },
+ {
+  "terminalId": "NAI5235007",
+  "cityName": "경상남도",
+  "terminalNm": "금남고,덕천"
+ },
+ {
+  "terminalId": "NAI5235050",
+  "cityName": "경상남도",
+  "terminalNm": "군부대"
+ },
+ {
+  "terminalId": "NAI5235101",
+  "cityName": "경상남도",
+  "terminalNm": "대치"
+ },
+ {
+  "terminalId": "NAI5235202",
+  "cityName": "경상남도",
+  "terminalNm": "남해대교"
+ },
+ {
+  "terminalId": "NAI5235203",
+  "cityName": "경상남도",
+  "terminalNm": "노량"
+ },
+ {
+  "terminalId": "NAI5235205",
+  "cityName": "경상남도",
+  "terminalNm": "미범"
+ },
+ {
+  "terminalId": "NAI5235211",
   "cityName": "경상남도",
   "terminalNm": "남해"
  },
  {
-  "terminalId": "NAI5250401",
+  "terminalId": "NAI5235305",
   "cityName": "경상남도",
-  "terminalNm": "곤양"
+  "terminalNm": "궁항,고포"
+ },
+ {
+  "terminalId": "NAI5240101",
+  "cityName": "경상남도",
+  "terminalNm": "왕지"
+ },
+ {
+  "terminalId": "NAI5240106",
+  "cityName": "경상남도",
+  "terminalNm": "남양(남해)"
+ },
+ {
+  "terminalId": "NAI5240108",
+  "cityName": "경상남도",
+  "terminalNm": "문항(남해)"
+ },
+ {
+  "terminalId": "NAI5240202",
+  "cityName": "경상남도",
+  "terminalNm": "진목"
+ },
+ {
+  "terminalId": "NAI5240301",
+  "cityName": "경상남도",
+  "terminalNm": "도마"
+ },
+ {
+  "terminalId": "NAI5240401",
+  "cityName": "경상남도",
+  "terminalNm": "대사"
+ },
+ {
+  "terminalId": "NAI5240402",
+  "cityName": "경상남도",
+  "terminalNm": "차면"
+ },
+ {
+  "terminalId": "NAI5243001",
+  "cityName": "경상남도",
+  "terminalNm": "이동(남해군)"
+ },
+ {
+  "terminalId": "NAI5243501",
+  "cityName": "경상북도",
+  "terminalNm": "사촌"
+ },
+ {
+  "terminalId": "NAI5244101",
+  "cityName": "경상남도",
+  "terminalNm": "상주(경남)"
+ },
+ {
+  "terminalId": "NAI5244104",
+  "cityName": "경상남도",
+  "terminalNm": "두모"
+ },
+ {
+  "terminalId": "NAI5244502",
+  "cityName": "경상남도",
+  "terminalNm": "전도빌라"
+ },
+ {
+  "terminalId": "NAI5250001",
+  "cityName": "경상남도",
+  "terminalNm": "은사"
+ },
+ {
+  "terminalId": "NAI5250003",
+  "cityName": "경상남도",
+  "terminalNm": "원전(경남)"
+ },
+ {
+  "terminalId": "NAI5250004",
+  "cityName": "경상남도",
+  "terminalNm": "초량"
+ },
+ {
+  "terminalId": "NAI5250103",
+  "cityName": "경상남도",
+  "terminalNm": "완사"
+ },
+ {
+  "terminalId": "NAI5250301",
+  "cityName": "경상남도",
+  "terminalNm": "용산"
+ },
+ {
+  "terminalId": "NAI5250302",
+  "cityName": "경상남도",
+  "terminalNm": "조장"
+ },
+ {
+  "terminalId": "NAI5250403",
+  "cityName": "경상남도",
+  "terminalNm": "우티"
+ },
+ {
+  "terminalId": "NAI5250601",
+  "cityName": "경상남도",
+  "terminalNm": "흥사"
+ },
+ {
+  "terminalId": "NAI5250701",
+  "cityName": "경상남도",
+  "terminalNm": "검정"
+ },
+ {
+  "terminalId": "NAI5250901",
+  "cityName": "경상남도",
+  "terminalNm": "축동"
+ },
+ {
+  "terminalId": "NAI5250902",
+  "cityName": "경상남도",
+  "terminalNm": "구호"
+ },
+ {
+  "terminalId": "NAI5251003",
+  "cityName": "경상남도",
+  "terminalNm": "중탑"
+ },
+ {
+  "terminalId": "NAI5251301",
+  "cityName": "경상남도",
+  "terminalNm": "추동(사천시)"
  },
  {
   "terminalId": "NAI5251801",
@@ -1235,9 +800,269 @@
   "terminalNm": "사천"
  },
  {
+  "terminalId": "NAI5251809",
+  "cityName": "경상남도",
+  "terminalNm": "사천/심야"
+ },
+ {
+  "terminalId": "NAI5251812",
+  "cityName": "경상남도",
+  "terminalNm": "관동"
+ },
+ {
+  "terminalId": "NAI5252501",
+  "cityName": "경상남도",
+  "terminalNm": "학촌"
+ },
+ {
+  "terminalId": "NAI5252502",
+  "cityName": "경상남도",
+  "terminalNm": "정동"
+ },
+ {
+  "terminalId": "NAI5252508",
+  "cityName": "경상남도",
+  "terminalNm": "정동, 부계"
+ },
+ {
+  "terminalId": "NAI5252510",
+  "cityName": "경상남도",
+  "terminalNm": "하덕, 입석"
+ },
+ {
+  "terminalId": "NAI5252801",
+  "cityName": "경상남도",
+  "terminalNm": "유천"
+ },
+ {
+  "terminalId": "NAI5253401",
+  "cityName": "경상남도",
+  "terminalNm": "죽천"
+ },
+ {
+  "terminalId": "NAI5253501",
+  "cityName": "경상남도",
+  "terminalNm": "우주항공청"
+ },
+ {
+  "terminalId": "NAI5253602",
+  "cityName": "경상남도",
+  "terminalNm": "병둔"
+ },
+ {
+  "terminalId": "NAI5253603",
+  "cityName": "경상남도",
+  "terminalNm": "연천(경남)"
+ },
+ {
+  "terminalId": "NAI5253605",
+  "cityName": "경상남도",
+  "terminalNm": "병둔,화전"
+ },
+ {
+  "terminalId": "NAI5253608",
+  "cityName": "경상남도",
+  "terminalNm": "능화"
+ },
+ {
+  "terminalId": "NAI5253702",
+  "cityName": "경상남도",
+  "terminalNm": "신기(사천시)"
+ },
+ {
+  "terminalId": "NAI5253802",
+  "cityName": "경상남도",
+  "terminalNm": "온정(경남)"
+ },
+ {
+  "terminalId": "NAI5253803",
+  "cityName": "울산광역시",
+  "terminalNm": "신복"
+ },
+ {
+  "terminalId": "NAI5253903",
+  "cityName": "경상남도",
+  "terminalNm": "사천(바다케이블카)"
+ },
+ {
+  "terminalId": "NAI5253904",
+  "cityName": "경상남도",
+  "terminalNm": "덕곡"
+ },
+ {
+  "terminalId": "NAI5254101",
+  "cityName": "경상남도",
+  "terminalNm": "금진(경남)"
+ },
+ {
+  "terminalId": "NAI5254103",
+  "cityName": "경상남도",
+  "terminalNm": "동구"
+ },
+ {
+  "terminalId": "NAI5254105",
+  "cityName": "경상남도",
+  "terminalNm": "굴포(사천)"
+ },
+ {
+  "terminalId": "NAI5254201",
+  "cityName": "경상남도",
+  "terminalNm": "조교"
+ },
+ {
+  "terminalId": "NAI5254402",
+  "cityName": "경상남도",
+  "terminalNm": "다맥"
+ },
+ {
+  "terminalId": "NAI5254601",
+  "cityName": "경상남도",
+  "terminalNm": "대포"
+ },
+ {
+  "terminalId": "NAI5254701",
+  "cityName": "경상남도",
+  "terminalNm": "남양(경남)"
+ },
+ {
   "terminalId": "NAI5255901",
   "cityName": "경상남도",
   "terminalNm": "삼천포"
+ },
+ {
+  "terminalId": "NAI5256301",
+  "cityName": "경상남도",
+  "terminalNm": "중향1구"
+ },
+ {
+  "terminalId": "NAI5256302",
+  "cityName": "경상남도",
+  "terminalNm": "중향2구"
+ },
+ {
+  "terminalId": "NAI5256401",
+  "cityName": "경상남도",
+  "terminalNm": "남일대해수욕장"
+ },
+ {
+  "terminalId": "NAI5256801",
+  "cityName": "경상남도",
+  "terminalNm": "영화"
+ },
+ {
+  "terminalId": "NAI5260002",
+  "cityName": "경상남도",
+  "terminalNm": "안간"
+ },
+ {
+  "terminalId": "NAI5260201",
+  "cityName": "경상남도",
+  "terminalNm": "장지"
+ },
+ {
+  "terminalId": "NAI5260601",
+  "cityName": "경상남도",
+  "terminalNm": "단목"
+ },
+ {
+  "terminalId": "NAI5260701",
+  "cityName": "경상남도",
+  "terminalNm": "북창"
+ },
+ {
+  "terminalId": "NAI5261101",
+  "cityName": "경상남도",
+  "terminalNm": "사봉"
+ },
+ {
+  "terminalId": "NAI5261501",
+  "cityName": "경상남도",
+  "terminalNm": "길성(진주)"
+ },
+ {
+  "terminalId": "NAI5261503",
+  "cityName": "경상남도",
+  "terminalNm": "발산"
+ },
+ {
+  "terminalId": "NAI5261504",
+  "cityName": "경상남도",
+  "terminalNm": "수목원"
+ },
+ {
+  "terminalId": "NAI5261506",
+  "cityName": "경남",
+  "terminalNm": "가산"
+ },
+ {
+  "terminalId": "NAI5261602",
+  "cityName": "경남",
+  "terminalNm": "구리/개암"
+ },
+ {
+  "terminalId": "NAI5262301",
+  "cityName": "경상남도",
+  "terminalNm": "대사"
+ },
+ {
+  "terminalId": "NAI5263401",
+  "cityName": "경상남도",
+  "terminalNm": "송백"
+ },
+ {
+  "terminalId": "NAI5263801",
+  "cityName": "경상남도",
+  "terminalNm": "집현"
+ },
+ {
+  "terminalId": "NAI5263901",
+  "cityName": "경상남도",
+  "terminalNm": "지내"
+ },
+ {
+  "terminalId": "NAI5263903",
+  "cityName": "경상남도",
+  "terminalNm": "봉강"
+ },
+ {
+  "terminalId": "NAI5264401",
+  "cityName": "경상남도",
+  "terminalNm": "사곡(진주)"
+ },
+ {
+  "terminalId": "NAI5269101",
+  "cityName": "경상남도",
+  "terminalNm": "연초"
+ },
+ {
+  "terminalId": "NAI5270701",
+  "cityName": "경상남도",
+  "terminalNm": "육거리(진주)"
+ },
+ {
+  "terminalId": "NAI5272201",
+  "cityName": "경상남도",
+  "terminalNm": "술상"
+ },
+ {
+  "terminalId": "NAI5272501",
+  "cityName": "경상남도",
+  "terminalNm": "경남과학기술대학교(산업대)"
+ },
+ {
+  "terminalId": "NAI5272504",
+  "cityName": "경상남도",
+  "terminalNm": "경상대(칠암)"
+ },
+ {
+  "terminalId": "NAI5272505",
+  "cityName": "경상남도",
+  "terminalNm": "진주남중"
+ },
+ {
+  "terminalId": "NAI5272901",
+  "cityName": "경상남도",
+  "terminalNm": "상봉동"
  },
  {
   "terminalId": "NAI5275901",
@@ -1245,9 +1070,9 @@
   "terminalNm": "진주"
  },
  {
-  "terminalId": "NAI5275903",
+  "terminalId": "NAI5275902",
   "cityName": "경상남도",
-  "terminalNm": "진주(경전)"
+  "terminalNm": "진주(직통)"
  },
  {
   "terminalId": "NAI5275905",
@@ -1270,9 +1095,14 @@
   "terminalNm": "진주(경원)"
  },
  {
-  "terminalId": "NAI5282201",
+  "terminalId": "NAI5275911",
   "cityName": "경상남도",
-  "terminalNm": "거창"
+  "terminalNm": "진주(경남고속)"
+ },
+ {
+  "terminalId": "NAI5277901",
+  "cityName": "경상남도",
+  "terminalNm": "불티"
  },
  {
   "terminalId": "NAI5282202",
@@ -1280,9 +1110,179 @@
   "terminalNm": "개양(진주)"
  },
  {
+  "terminalId": "NAI5282209",
+  "cityName": "경상남도",
+  "terminalNm": "거창(완행)"
+ },
+ {
+  "terminalId": "NAI5282601",
+  "cityName": "경상남도",
+  "terminalNm": "진주역"
+ },
+ {
+  "terminalId": "NAI5283101",
+  "cityName": "경상남도",
+  "terminalNm": "진주혁신도시"
+ },
+ {
+  "terminalId": "NAI5283301",
+  "cityName": "경상남도",
+  "terminalNm": "국제대"
+ },
+ {
+  "terminalId": "NAI5284301",
+  "cityName": "경상남도",
+  "terminalNm": "금곡"
+ },
+ {
+  "terminalId": "NAI5284302",
+  "cityName": "경상남도",
+  "terminalNm": "금곡면사무소"
+ },
+ {
+  "terminalId": "NAI5284701",
+  "cityName": "경상남도",
+  "terminalNm": "예하(진주시)"
+ },
+ {
+  "terminalId": "NAI5284801",
+  "cityName": "경상남도",
+  "terminalNm": "신광"
+ },
+ {
+  "terminalId": "NAI5284804",
+  "cityName": "경상남도",
+  "terminalNm": "나동"
+ },
+ {
+  "terminalId": "NAI5284805",
+  "cityName": "경상남도",
+  "terminalNm": "삼계(진주시)"
+ },
+ {
+  "terminalId": "NAI5290102",
+  "cityName": "경상남도",
+  "terminalNm": "악양,정서"
+ },
+ {
+  "terminalId": "NAI5290201",
+  "cityName": "경상남도",
+  "terminalNm": "개천"
+ },
+ {
+  "terminalId": "NAI5290202",
+  "cityName": "경상남도",
+  "terminalNm": "영오"
+ },
+ {
+  "terminalId": "NAI5290601",
+  "cityName": "경상남도",
+  "terminalNm": "영현"
+ },
+ {
+  "terminalId": "NAI5290801",
+  "cityName": "경상남도",
+  "terminalNm": "낙동(고성군)"
+ },
+ {
+  "terminalId": "NAI5291001",
+  "cityName": "경상남도",
+  "terminalNm": "신리(고성군)"
+ },
+ {
+  "terminalId": "NAI5291401",
+  "cityName": "경상남도",
+  "terminalNm": "원진"
+ },
+ {
   "terminalId": "NAI5291501",
   "cityName": "경상남도",
   "terminalNm": "배둔"
+ },
+ {
+  "terminalId": "NAI5291503",
+  "cityName": "경상남도",
+  "terminalNm": "거제"
+ },
+ {
+  "terminalId": "NAI5291504",
+  "cityName": "경상남도",
+  "terminalNm": "전포"
+ },
+ {
+  "terminalId": "NAI5291506",
+  "cityName": "경상남도",
+  "terminalNm": "산북"
+ },
+ {
+  "terminalId": "NAI5291507",
+  "cityName": "경상남도",
+  "terminalNm": "청광"
+ },
+ {
+  "terminalId": "NAI5291509",
+  "cityName": "경상남도",
+  "terminalNm": "월곡(경남)"
+ },
+ {
+  "terminalId": "NAI5291520",
+  "cityName": "경상남도",
+  "terminalNm": "구만(개천)"
+ },
+ {
+  "terminalId": "NAI5291701",
+  "cityName": "경상남도",
+  "terminalNm": "어신"
+ },
+ {
+  "terminalId": "NAI5291802",
+  "cityName": "경상남도",
+  "terminalNm": "장기"
+ },
+ {
+  "terminalId": "NAI5291803",
+  "cityName": "경상남도",
+  "terminalNm": "검포"
+ },
+ {
+  "terminalId": "NAI5292513",
+  "cityName": "경상남도",
+  "terminalNm": "옥동(경남)"
+ },
+ {
+  "terminalId": "NAI5292514",
+  "cityName": "경상남도",
+  "terminalNm": "좌이"
+ },
+ {
+  "terminalId": "NAI5292516",
+  "cityName": "경상남도",
+  "terminalNm": "자소"
+ },
+ {
+  "terminalId": "NAI5292517",
+  "cityName": "경상남도",
+  "terminalNm": "생곡(경남)"
+ },
+ {
+  "terminalId": "NAI5292519",
+  "cityName": "경상남도",
+  "terminalNm": "우산리"
+ },
+ {
+  "terminalId": "NAI5292520",
+  "cityName": "경상남도",
+  "terminalNm": "당항포"
+ },
+ {
+  "terminalId": "NAI5292701",
+  "cityName": "경상남도",
+  "terminalNm": "법촌"
+ },
+ {
+  "terminalId": "NAI5292803",
+  "cityName": "경상남도",
+  "terminalNm": "암전"
  },
  {
   "terminalId": "NAI5293101",
@@ -1290,14 +1290,489 @@
   "terminalNm": "고성"
  },
  {
+  "terminalId": "NAI5293104",
+  "cityName": "경상남도",
+  "terminalNm": "홀볼"
+ },
+ {
+  "terminalId": "NAI5293105",
+  "cityName": "경상남도",
+  "terminalNm": "매정/용정"
+ },
+ {
+  "terminalId": "NAI5293107",
+  "cityName": "경상남도",
+  "terminalNm": "큰막개(내신)"
+ },
+ {
+  "terminalId": "NAI5293108",
+  "cityName": "경상남도",
+  "terminalNm": "개천/옥천사(직행)"
+ },
+ {
+  "terminalId": "NAI5293110",
+  "cityName": "경상남도",
+  "terminalNm": "장항(경남)"
+ },
+ {
+  "terminalId": "NAI5293111",
+  "cityName": "경상남도",
+  "terminalNm": "큰구학포"
+ },
+ {
+  "terminalId": "NAI5293113",
+  "cityName": "경상남도",
+  "terminalNm": "장좌"
+ },
+ {
+  "terminalId": "NAI5293114",
+  "cityName": "경상남도",
+  "terminalNm": "중촌/우두포"
+ },
+ {
+  "terminalId": "NAI5293116",
+  "cityName": "경상남도",
+  "terminalNm": "큰가룡"
+ },
+ {
+  "terminalId": "NAI5293117",
+  "cityName": "경상남도",
+  "terminalNm": "외곡"
+ },
+ {
+  "terminalId": "NAI5293119",
+  "cityName": "경상남도",
+  "terminalNm": "감서"
+ },
+ {
+  "terminalId": "NAI5293120",
+  "cityName": "경상남도",
+  "terminalNm": "상원입구"
+ },
+ {
+  "terminalId": "NAI5293122",
+  "cityName": "경상남도",
+  "terminalNm": "예포"
+ },
+ {
+  "terminalId": "NAI5293123",
+  "cityName": "경상남도",
+  "terminalNm": "하원"
+ },
+ {
+  "terminalId": "NAI5293125",
+  "cityName": "경상남도",
+  "terminalNm": "송정일주"
+ },
+ {
+  "terminalId": "NAI5293126",
+  "cityName": "경상남도",
+  "terminalNm": "척곡고개"
+ },
+ {
+  "terminalId": "NAI5293128",
+  "cityName": "경상남도",
+  "terminalNm": "갈천/외갈"
+ },
+ {
+  "terminalId": "NAI5293129",
+  "cityName": "경상남도",
+  "terminalNm": "대법/대촌"
+ },
+ {
+  "terminalId": "NAI5293131",
+  "cityName": "경상남도",
+  "terminalNm": "연화/신부"
+ },
+ {
+  "terminalId": "NAI5293132",
+  "cityName": "경상남도",
+  "terminalNm": "내갈"
+ },
+ {
+  "terminalId": "NAI5293134",
+  "cityName": "경상남도",
+  "terminalNm": "세동/관동"
+ },
+ {
+  "terminalId": "NAI5293135",
+  "cityName": "경상남도",
+  "terminalNm": "계양(하이면)"
+ },
+ {
+  "terminalId": "NAI5293137",
+  "cityName": "경상남도",
+  "terminalNm": "양산/매월"
+ },
+ {
+  "terminalId": "NAI5293138",
+  "cityName": "경상남도",
+  "terminalNm": "영산/영오"
+ },
+ {
+  "terminalId": "NAI5293140",
+  "cityName": "경상남도",
+  "terminalNm": "영대/옥동"
+ },
+ {
+  "terminalId": "NAI5293141",
+  "cityName": "경상남도",
+  "terminalNm": "오동/옵실"
+ },
+ {
+  "terminalId": "NAI5293143",
+  "cityName": "경상남도",
+  "terminalNm": "진분계"
+ },
+ {
+  "terminalId": "NAI5293144",
+  "cityName": "경상남도",
+  "terminalNm": "녹명"
+ },
+ {
+  "terminalId": "NAI5293146",
+  "cityName": "경상남도",
+  "terminalNm": "화산/초선"
+ },
+ {
+  "terminalId": "NAI5293147",
+  "cityName": "경상남도",
+  "terminalNm": "석마/신리"
+ },
+ {
+  "terminalId": "NAI5293149",
+  "cityName": "경상남도",
+  "terminalNm": "봉현"
+ },
+ {
+  "terminalId": "NAI5293150",
+  "cityName": "경상남도",
+  "terminalNm": "장백"
+ },
+ {
+  "terminalId": "NAI5293152",
+  "cityName": "삼봉/상촌",
+  "terminalNm": "삼봉/상촌"
+ },
+ {
+  "terminalId": "NAI5293153",
+  "cityName": "경상남도",
+  "terminalNm": "하촌/장치"
+ },
+ {
+  "terminalId": "NAI5293155",
+  "cityName": "경상남도",
+  "terminalNm": "개양(경남)"
+ },
+ {
+  "terminalId": "NAI5293156",
+  "cityName": "경상남도",
+  "terminalNm": "남진"
+ },
+ {
+  "terminalId": "NAI5293159",
+  "cityName": "경상남도",
+  "terminalNm": "공룡엑스포"
+ },
+ {
+  "terminalId": "NAI5293161",
+  "cityName": "경상남도",
+  "terminalNm": "가동/무선"
+ },
+ {
+  "terminalId": "NAI5293162",
+  "cityName": "경상남도",
+  "terminalNm": "명송"
+ },
+ {
+  "terminalId": "NAI5293164",
+  "cityName": "경상남도",
+  "terminalNm": "곤기"
+ },
+ {
+  "terminalId": "NAI5293166",
+  "cityName": "경상남도",
+  "terminalNm": "낙전"
+ },
+ {
+  "terminalId": "NAI5293168",
+  "cityName": "경상남도",
+  "terminalNm": "터골"
+ },
+ {
+  "terminalId": "NAI5293169",
+  "cityName": "경상남도",
+  "terminalNm": "가동/무선"
+ },
+ {
+  "terminalId": "NAI5293171",
+  "cityName": "경상남도",
+  "terminalNm": "비곡/신촌"
+ },
+ {
+  "terminalId": "NAI5293172",
+  "cityName": "경상남도",
+  "terminalNm": "고봉"
+ },
+ {
+  "terminalId": "NAI5293174",
+  "cityName": "경상남도",
+  "terminalNm": "이홀/구실"
+ },
+ {
+  "terminalId": "NAI5293175",
+  "cityName": "경상남도",
+  "terminalNm": "남평"
+ },
+ {
+  "terminalId": "NAI5293177",
+  "cityName": "경상남도",
+  "terminalNm": "봉발1리"
+ },
+ {
+  "terminalId": "NAI5293178",
+  "cityName": "경상남도",
+  "terminalNm": "봉발2리"
+ },
+ {
+  "terminalId": "NAI5293180",
+  "cityName": "경상남도",
+  "terminalNm": "임포/하일"
+ },
+ {
+  "terminalId": "NAI5293181",
+  "cityName": "경상남도",
+  "terminalNm": "용암/맥전포"
+ },
+ {
+  "terminalId": "NAI5293183",
+  "cityName": "경상남도",
+  "terminalNm": "덕명"
+ },
+ {
+  "terminalId": "NAI5293184",
+  "cityName": "경상남도",
+  "terminalNm": "하이(맥전포)"
+ },
+ {
+  "terminalId": "NAI5293186",
+  "cityName": "경상남도",
+  "terminalNm": "절골"
+ },
+ {
+  "terminalId": "NAI5293187",
+  "cityName": "경상남도",
+  "terminalNm": "하이(삼산)"
+ },
+ {
+  "terminalId": "NAI5293189",
+  "cityName": "경상남도",
+  "terminalNm": "포교/덕산"
+ },
+ {
+  "terminalId": "NAI5293190",
+  "cityName": "경상남도",
+  "terminalNm": "노전(경남)"
+ },
+ {
+  "terminalId": "NAI5293194",
+  "cityName": "경상남도",
+  "terminalNm": "중촌/상리"
+ },
+ {
+  "terminalId": "NAI5293198",
+  "cityName": "경상남도",
+  "terminalNm": "건록사"
+ },
+ {
+  "terminalId": "NAI5293200",
+  "cityName": "경상북도",
+  "terminalNm": "용암"
+ },
+ {
+  "terminalId": "NAI5293201",
+  "cityName": "경상남도",
+  "terminalNm": "우두포"
+ },
+ {
+  "terminalId": "NAI5293203",
+  "cityName": "경상남도",
+  "terminalNm": "돈막"
+ },
+ {
+  "terminalId": "NAI5293204",
+  "cityName": "경상남도",
+  "terminalNm": "좌부천"
+ },
+ {
+  "terminalId": "NAI5293206",
+  "cityName": "경상남도",
+  "terminalNm": "지동"
+ },
+ {
+  "terminalId": "NAI5293252",
+  "cityName": "경상남도",
+  "terminalNm": "장산"
+ },
+ {
+  "terminalId": "NAI5293256",
+  "cityName": "경상남도",
+  "terminalNm": "입암"
+ },
+ {
+  "terminalId": "NAI5293301",
+  "cityName": "경상남도",
+  "terminalNm": "이당"
+ },
+ {
+  "terminalId": "NAI5293302",
+  "cityName": "경상남도",
+  "terminalNm": "독곡"
+ },
+ {
+  "terminalId": "NAI5293601",
+  "cityName": "경상남도",
+  "terminalNm": "고성읍사무소"
+ },
+ {
+  "terminalId": "NAI5295102",
+  "cityName": "경상남도",
+  "terminalNm": "상리(고성)"
+ },
+ {
+  "terminalId": "NAI5295202",
+  "cityName": "경상남도",
+  "terminalNm": "춘암"
+ },
+ {
+  "terminalId": "NAI5295301",
+  "cityName": "경상남도",
+  "terminalNm": "부포"
+ },
+ {
+  "terminalId": "NAI5295402",
+  "cityName": "경상남도",
+  "terminalNm": "마르게"
+ },
+ {
+  "terminalId": "NAI5295403",
+  "cityName": "경상남도",
+  "terminalNm": "갈망게"
+ },
+ {
+  "terminalId": "NAI5295405",
+  "cityName": "경상남도",
+  "terminalNm": "능골"
+ },
+ {
+  "terminalId": "NAI5295501",
+  "cityName": "경상남도",
+  "terminalNm": "하일"
+ },
+ {
+  "terminalId": "NAI5295503",
+  "cityName": "경상남도",
+  "terminalNm": "가룡(경남)"
+ },
+ {
+  "terminalId": "NAI5295601",
+  "cityName": "경상남도",
+  "terminalNm": "가리미"
+ },
+ {
+  "terminalId": "NAI5295603",
+  "cityName": "경상남도",
+  "terminalNm": "임포(경남)"
+ },
+ {
+  "terminalId": "NAI5295604",
+  "cityName": "경상남도",
+  "terminalNm": "고연"
+ },
+ {
+  "terminalId": "NAI5295701",
+  "cityName": "경상남도",
+  "terminalNm": "춘암"
+ },
+ {
+  "terminalId": "NAI5295702",
+  "cityName": "경상남도",
+  "terminalNm": "맥전포"
+ },
+ {
+  "terminalId": "NAI5295802",
+  "cityName": "경상남도",
+  "terminalNm": "판곡"
+ },
+ {
+  "terminalId": "NAI5295901",
+  "cityName": "경상남도",
+  "terminalNm": "미룡"
+ },
+ {
+  "terminalId": "NAI5295903",
+  "cityName": "경상남도",
+  "terminalNm": "장시"
+ },
+ {
+  "terminalId": "NAI5295904",
+  "cityName": "경상남도",
+  "terminalNm": "미동"
+ },
+ {
+  "terminalId": "NAI5296103",
+  "cityName": "경상남도",
+  "terminalNm": "두수"
+ },
+ {
+  "terminalId": "NAI5296105",
+  "cityName": "경상남도",
+  "terminalNm": "사곡(고성)"
+ },
+ {
+  "terminalId": "NAI5296302",
+  "cityName": "경상남도",
+  "terminalNm": "전땀"
+ },
+ {
   "terminalId": "NAI5302001",
   "cityName": "경상남도",
   "terminalNm": "통영터미널"
  },
  {
-  "terminalId": "NAI5325101",
+  "terminalId": "NAI5303801",
   "cityName": "경상남도",
-  "terminalNm": "거제(고현)"
+  "terminalNm": "무전동구터미널"
+ },
+ {
+  "terminalId": "NAI5303802",
+  "cityName": "경상남도",
+  "terminalNm": "무전동"
+ },
+ {
+  "terminalId": "NAI5320101",
+  "cityName": "경상남도",
+  "terminalNm": "장목"
+ },
+ {
+  "terminalId": "NAI5320401",
+  "cityName": "경상남도",
+  "terminalNm": "하청"
+ },
+ {
+  "terminalId": "NAI5320706",
+  "cityName": "경상남도",
+  "terminalNm": "한내(완행)"
+ },
+ {
+  "terminalId": "NAI5322401",
+  "cityName": "경상남도",
+  "terminalNm": "옥포"
+ },
+ {
+  "terminalId": "NAI5325102",
+  "cityName": "경상남도",
+  "terminalNm": "거제(고현직행)"
  },
  {
   "terminalId": "NAI5331601",
@@ -1305,14 +1780,84 @@
   "terminalNm": "장승포"
  },
  {
+  "terminalId": "NAI5333301",
+  "cityName": "경상남도",
+  "terminalNm": "저구"
+ },
+ {
+  "terminalId": "NAI5333402",
+  "cityName": "경상남도",
+  "terminalNm": "해금강"
+ },
+ {
   "terminalId": "NAI5403701",
   "cityName": "전라북도",
   "terminalNm": "군산"
  },
  {
-  "terminalId": "NAI5437901",
+  "terminalId": "NAI5403703",
   "cityName": "전라북도",
-  "terminalNm": "김제"
+  "terminalNm": "군산고속"
+ },
+ {
+  "terminalId": "NAI5406001",
+  "cityName": "전라북도",
+  "terminalNm": "대야"
+ },
+ {
+  "terminalId": "NAI5415001",
+  "cityName": "전라북도",
+  "terminalNm": "군산대"
+ },
+ {
+  "terminalId": "NAI5416701",
+  "cityName": "전라북도",
+  "terminalNm": "산북(양촌)"
+ },
+ {
+  "terminalId": "NAI5430701",
+  "cityName": "전라북도",
+  "terminalNm": "만경"
+ },
+ {
+  "terminalId": "NAI5434501",
+  "cityName": "전라북도",
+  "terminalNm": "원평"
+ },
+ {
+  "terminalId": "NAI5438301",
+  "cityName": "전라북도",
+  "terminalNm": "시청사거리(김제)"
+ },
+ {
+  "terminalId": "NAI5440201",
+  "cityName": "전라북도",
+  "terminalNm": "김제역"
+ },
+ {
+  "terminalId": "NAI5451101",
+  "cityName": "전라북도",
+  "terminalNm": "함열"
+ },
+ {
+  "terminalId": "NAI5453801",
+  "cityName": "전라북도",
+  "terminalNm": "원광대학교 앞"
+ },
+ {
+  "terminalId": "NAI5457201",
+  "cityName": "전라북도",
+  "terminalNm": "금마"
+ },
+ {
+  "terminalId": "NAI5463001",
+  "cityName": "전라북도",
+  "terminalNm": "외환은행(AFC)"
+ },
+ {
+  "terminalId": "NAI5463101",
+  "cityName": "전라북도",
+  "terminalNm": "1공단사거리"
  },
  {
   "terminalId": "NAI5467401",
@@ -1320,19 +1865,129 @@
   "terminalNm": "익산"
  },
  {
+  "terminalId": "NAI5467402",
+  "cityName": "전라북도",
+  "terminalNm": "익산고속"
+ },
+ {
+  "terminalId": "NAI5488101",
+  "cityName": "전라북도",
+  "terminalNm": "휴비스(전주)"
+ },
+ {
+  "terminalId": "NAI5492801",
+  "cityName": "전라북도",
+  "terminalNm": "모래내"
+ },
+ {
   "terminalId": "NAI5493301",
   "cityName": "전라북도",
   "terminalNm": "전주시외터미널"
  },
  {
-  "terminalId": "NAI5493401",
+  "terminalId": "NAI5493303",
   "cityName": "전라북도",
-  "terminalNm": "대한리무진(전주)"
+  "terminalNm": "전주"
+ },
+ {
+  "terminalId": "NAI5493308",
+  "cityName": "전라북도",
+  "terminalNm": "전주(직통)"
+ },
+ {
+  "terminalId": "NAI5496801",
+  "cityName": "전라북도",
+  "terminalNm": "효자동"
+ },
+ {
+  "terminalId": "NAI5500801",
+  "cityName": "전라북도",
+  "terminalNm": "인후동"
+ },
+ {
+  "terminalId": "NAI5504201",
+  "cityName": "전라북도",
+  "terminalNm": "전동"
+ },
+ {
+  "terminalId": "NAI5504901",
+  "cityName": "전라북도",
+  "terminalNm": "서부시장"
+ },
+ {
+  "terminalId": "NAI5506501",
+  "cityName": "전라북도",
+  "terminalNm": "전북도교육청"
  },
  {
   "terminalId": "NAI5506901",
   "cityName": "전라북도",
   "terminalNm": "전주대"
+ },
+ {
+  "terminalId": "NAI5508001",
+  "cityName": "전라북도",
+  "terminalNm": "효자현대@(전주)"
+ },
+ {
+  "terminalId": "NAI5508003",
+  "cityName": "전라북도",
+  "terminalNm": "전주(도교육청)"
+ },
+ {
+  "terminalId": "NAI5508501",
+  "cityName": "전라북도",
+  "terminalNm": "전주혁신도시"
+ },
+ {
+  "terminalId": "NAI5511092",
+  "cityName": "전라북도",
+  "terminalNm": "남부시장"
+ },
+ {
+  "terminalId": "NAI5511901",
+  "cityName": "전라북도",
+  "terminalNm": "평화동"
+ },
+ {
+  "terminalId": "NAI5530002",
+  "cityName": "전라북도",
+  "terminalNm": "대둔산"
+ },
+ {
+  "terminalId": "NAI5530201",
+  "cityName": "전라북도",
+  "terminalNm": "경천"
+ },
+ {
+  "terminalId": "NAI5531001",
+  "cityName": "전라북도",
+  "terminalNm": "고산"
+ },
+ {
+  "terminalId": "NAI5531301",
+  "cityName": "전라북도",
+  "terminalNm": "대한리무진(익산IC)"
+ },
+ {
+  "terminalId": "NAI5532101",
+  "cityName": "전라북도",
+  "terminalNm": "둔산공원"
+ },
+ {
+  "terminalId": "NAI5532501",
+  "cityName": "전라북도",
+  "terminalNm": "중리"
+ },
+ {
+  "terminalId": "NAI5532801",
+  "cityName": "전라북도",
+  "terminalNm": "봉동"
+ },
+ {
+  "terminalId": "NAI5533401",
+  "cityName": "전라북도",
+  "terminalNm": "삼봉지구"
  },
  {
   "terminalId": "NAI5533801",
@@ -1345,9 +2000,599 @@
   "terminalNm": "장신대"
  },
  {
+  "terminalId": "NAI5536302",
+  "cityName": "전라북도",
+  "terminalNm": "대덕(완)"
+ },
+ {
+  "terminalId": "NAI5536502",
+  "cityName": "전라북도",
+  "terminalNm": "전북혁신도시(전주완산)"
+ },
+ {
+  "terminalId": "NAI5536505",
+  "cityName": "전라북도",
+  "terminalNm": "소양"
+ },
+ {
+  "terminalId": "NAI5540001",
+  "cityName": "전라북도",
+  "terminalNm": "대불"
+ },
+ {
+  "terminalId": "NAI5540201",
+  "cityName": "전라북도",
+  "terminalNm": "주천(전북)"
+ },
+ {
+  "terminalId": "NAI5540202",
+  "cityName": "전라북도",
+  "terminalNm": "운일암"
+ },
+ {
+  "terminalId": "NAI5540501",
+  "cityName": "전라북도",
+  "terminalNm": "송풍"
+ },
+ {
+  "terminalId": "NAI5540701",
+  "cityName": "전라북도",
+  "terminalNm": "안천"
+ },
+ {
+  "terminalId": "NAI5540703",
+  "cityName": "전라북도",
+  "terminalNm": "백화재"
+ },
+ {
+  "terminalId": "NAI5540704",
+  "cityName": "전라북도",
+  "terminalNm": "안천(완)"
+ },
+ {
+  "terminalId": "NAI5541101",
+  "cityName": "전라북도",
+  "terminalNm": "금지"
+ },
+ {
+  "terminalId": "NAI5541701",
+  "cityName": "전라북도",
+  "terminalNm": "대곡(진안)"
+ },
+ {
+  "terminalId": "NAI5541802",
+  "cityName": "전라북도",
+  "terminalNm": "언건"
+ },
+ {
+  "terminalId": "NAI5541901",
+  "cityName": "전라북도",
+  "terminalNm": "종평"
+ },
+ {
+  "terminalId": "NAI5541902",
+  "cityName": "전라북도",
+  "terminalNm": "궁동"
+ },
+ {
+  "terminalId": "NAI5542001",
+  "cityName": "전라북도",
+  "terminalNm": "가막리"
+ },
+ {
+  "terminalId": "NAI5542901",
+  "cityName": "전라북도",
+  "terminalNm": "우화"
+ },
+ {
+  "terminalId": "NAI5543201",
+  "cityName": "전라북도",
+  "terminalNm": "진안"
+ },
+ {
+  "terminalId": "NAI5543202",
+  "cityName": "전라북도",
+  "terminalNm": "진안(완)"
+ },
+ {
+  "terminalId": "NAI5543601",
+  "cityName": "전라북도",
+  "terminalNm": "진안삼거리"
+ },
+ {
+  "terminalId": "NAI5544401",
+  "cityName": "전라북도",
+  "terminalNm": "오천리"
+ },
+ {
+  "terminalId": "NAI5544501",
+  "cityName": "전라북도",
+  "terminalNm": "대들"
+ },
+ {
+  "terminalId": "NAI5544502",
+  "cityName": "전라북도",
+  "terminalNm": "상향"
+ },
+ {
+  "terminalId": "NAI5544503",
+  "cityName": "전라북도",
+  "terminalNm": "하향"
+ },
+ {
+  "terminalId": "NAI5544601",
+  "cityName": "전라북도",
+  "terminalNm": "동향"
+ },
+ {
+  "terminalId": "NAI5544602",
+  "cityName": "전라북도",
+  "terminalNm": "봉곡(진안)"
+ },
+ {
+  "terminalId": "NAI5544603",
+  "cityName": "전라북도",
+  "terminalNm": "중신동"
+ },
+ {
+  "terminalId": "NAI5544604",
+  "cityName": "전라북도",
+  "terminalNm": "하신동"
+ },
+ {
+  "terminalId": "NAI5544605",
+  "cityName": "전라북도",
+  "terminalNm": "동향(능길)"
+ },
+ {
+  "terminalId": "NAI5544606",
+  "cityName": "전라북도",
+  "terminalNm": "동향(학선)"
+ },
+ {
+  "terminalId": "NAI5544701",
+  "cityName": "전라북도",
+  "terminalNm": "호천"
+ },
+ {
+  "terminalId": "NAI5544702",
+  "cityName": "전라북도",
+  "terminalNm": "누룩골"
+ },
+ {
+  "terminalId": "NAI5544703",
+  "cityName": "전라북도",
+  "terminalNm": "고무정"
+ },
+ {
+  "terminalId": "NAI5545601",
+  "cityName": "전라북도",
+  "terminalNm": "원촌"
+ },
+ {
+  "terminalId": "NAI5546002",
+  "cityName": "전라북도",
+  "terminalNm": "구신"
+ },
+ {
+  "terminalId": "NAI5550001",
+  "cityName": "전라북도",
+  "terminalNm": "가당리"
+ },
+ {
+  "terminalId": "NAI5550002",
+  "cityName": "전라북도",
+  "terminalNm": "하평당"
+ },
+ {
+  "terminalId": "NAI5550003",
+  "cityName": "전라북도",
+  "terminalNm": "상평당"
+ },
+ {
+  "terminalId": "NAI5550004",
+  "cityName": "전라북도",
+  "terminalNm": "가당(완)"
+ },
+ {
+  "terminalId": "NAI5550101",
+  "cityName": "전라북도",
+  "terminalNm": "대티"
+ },
+ {
+  "terminalId": "NAI5550201",
+  "cityName": "전라북도",
+  "terminalNm": "상굴암"
+ },
+ {
+  "terminalId": "NAI5550202",
+  "cityName": "전라북도",
+  "terminalNm": "굴암입구"
+ },
+ {
+  "terminalId": "NAI5550203",
+  "cityName": "전라북도",
+  "terminalNm": "밤소"
+ },
+ {
+  "terminalId": "NAI5550301",
+  "cityName": "전라북도",
+  "terminalNm": "유평"
+ },
+ {
+  "terminalId": "NAI5550302",
+  "cityName": "전라북도",
+  "terminalNm": "부남"
+ },
+ {
+  "terminalId": "NAI5550401",
+  "cityName": "전라북도",
+  "terminalNm": "장안리"
+ },
+ {
+  "terminalId": "NAI5550402",
+  "cityName": "전라북도",
+  "terminalNm": "고창리"
+ },
+ {
+  "terminalId": "NAI5550403",
+  "cityName": "전라북도",
+  "terminalNm": "식암리"
+ },
+ {
+  "terminalId": "NAI5550404",
+  "cityName": "전라북도",
+  "terminalNm": "상대곡"
+ },
+ {
+  "terminalId": "NAI5550501",
+  "cityName": "전라북도",
+  "terminalNm": "차산"
+ },
+ {
+  "terminalId": "NAI5550601",
+  "cityName": "전라북도",
+  "terminalNm": "후도"
+ },
+ {
+  "terminalId": "NAI5550602",
+  "cityName": "전라북도",
+  "terminalNm": "내도리"
+ },
+ {
+  "terminalId": "NAI5550603",
+  "cityName": "전라북도",
+  "terminalNm": "굴천리"
+ },
+ {
+  "terminalId": "NAI5550604",
+  "cityName": "전라북도",
+  "terminalNm": "부대앞(무주)"
+ },
+ {
+  "terminalId": "NAI5550605",
+  "cityName": "전라북도",
+  "terminalNm": "전도"
+ },
+ {
+  "terminalId": "NAI5550701",
+  "cityName": "전라북도",
+  "terminalNm": "한전(무주)"
+ },
+ {
+  "terminalId": "NAI5551101",
+  "cityName": "전라북도",
+  "terminalNm": "잠두"
+ },
+ {
+  "terminalId": "NAI5551201",
+  "cityName": "전라북도",
+  "terminalNm": "가옥(무주)"
+ },
+ {
+  "terminalId": "NAI5551202",
+  "cityName": "전라북도",
+  "terminalNm": "가림"
+ },
+ {
+  "terminalId": "NAI5551204",
+  "cityName": "전라북도",
+  "terminalNm": "세동"
+ },
+ {
   "terminalId": "NAI5551501",
   "cityName": "전라북도",
   "terminalNm": "무주"
+ },
+ {
+  "terminalId": "NAI5551502",
+  "cityName": "전라북도",
+  "terminalNm": "유속"
+ },
+ {
+  "terminalId": "NAI5552301",
+  "cityName": "전라북도",
+  "terminalNm": "오산리"
+ },
+ {
+  "terminalId": "NAI5552302",
+  "cityName": "전라북도",
+  "terminalNm": "오산"
+ },
+ {
+  "terminalId": "NAI5552501",
+  "cityName": "전라북도",
+  "terminalNm": "하장백"
+ },
+ {
+  "terminalId": "NAI5552502",
+  "cityName": "전라북도",
+  "terminalNm": "상장백"
+ },
+ {
+  "terminalId": "NAI5552602",
+  "cityName": "전라북도",
+  "terminalNm": "방이리"
+ },
+ {
+  "terminalId": "NAI5552603",
+  "cityName": "전라북도",
+  "terminalNm": "배방리"
+ },
+ {
+  "terminalId": "NAI5552604",
+  "cityName": "전라북도",
+  "terminalNm": "이동다리"
+ },
+ {
+  "terminalId": "NAI5552605",
+  "cityName": "전라북도",
+  "terminalNm": "고방리"
+ },
+ {
+  "terminalId": "NAI5552701",
+  "cityName": "전라북도",
+  "terminalNm": "적상"
+ },
+ {
+  "terminalId": "NAI5552702",
+  "cityName": "전라북도",
+  "terminalNm": "길왕"
+ },
+ {
+  "terminalId": "NAI5552703",
+  "cityName": "전라북도",
+  "terminalNm": "서창(무주)"
+ },
+ {
+  "terminalId": "NAI5552705",
+  "cityName": "전라북도",
+  "terminalNm": "길왕,대들"
+ },
+ {
+  "terminalId": "NAI5552801",
+  "cityName": "전라북도",
+  "terminalNm": "초리"
+ },
+ {
+  "terminalId": "NAI5552802",
+  "cityName": "전라북도",
+  "terminalNm": "내창"
+ },
+ {
+  "terminalId": "NAI5553001",
+  "cityName": "전라북도",
+  "terminalNm": "상조"
+ },
+ {
+  "terminalId": "NAI5553002",
+  "cityName": "전라북도",
+  "terminalNm": "하조"
+ },
+ {
+  "terminalId": "NAI5553003",
+  "cityName": "전라북도",
+  "terminalNm": "치목"
+ },
+ {
+  "terminalId": "NAI5553004",
+  "cityName": "전라북도",
+  "terminalNm": "괴목(무주)"
+ },
+ {
+  "terminalId": "NAI5553101",
+  "cityName": "전라북도",
+  "terminalNm": "새내"
+ },
+ {
+  "terminalId": "NAI5553102",
+  "cityName": "전라북도",
+  "terminalNm": "마산"
+ },
+ {
+  "terminalId": "NAI5553103",
+  "cityName": "전라북도",
+  "terminalNm": "마산재"
+ },
+ {
+  "terminalId": "NAI5553201",
+  "cityName": "전라북도",
+  "terminalNm": "여원리"
+ },
+ {
+  "terminalId": "NAI5553202",
+  "cityName": "경상남도",
+  "terminalNm": "광포"
+ },
+ {
+  "terminalId": "NAI5553203",
+  "cityName": "전라북도",
+  "terminalNm": "신현"
+ },
+ {
+  "terminalId": "NAI5553301",
+  "cityName": "전라북도",
+  "terminalNm": "삼유리"
+ },
+ {
+  "terminalId": "NAI5553302",
+  "cityName": "전라북도",
+  "terminalNm": "중유리"
+ },
+ {
+  "terminalId": "NAI5553304",
+  "cityName": "전라북도",
+  "terminalNm": "성유리"
+ },
+ {
+  "terminalId": "NAI5553305",
+  "cityName": "전라북도",
+  "terminalNm": "상유리"
+ },
+ {
+  "terminalId": "NAI5553501",
+  "cityName": "전라북도",
+  "terminalNm": "안성(전북)"
+ },
+ {
+  "terminalId": "NAI5553502",
+  "cityName": "전라북도",
+  "terminalNm": "이목"
+ },
+ {
+  "terminalId": "NAI5553504",
+  "cityName": "전라북도",
+  "terminalNm": "안성(완)"
+ },
+ {
+  "terminalId": "NAI5553505",
+  "cityName": "전라북도",
+  "terminalNm": "무주안성"
+ },
+ {
+  "terminalId": "NAI5553601",
+  "cityName": "전라북도",
+  "terminalNm": "사전"
+ },
+ {
+  "terminalId": "NAI5553701",
+  "cityName": "전라북도",
+  "terminalNm": "도촌"
+ },
+ {
+  "terminalId": "NAI5553801",
+  "cityName": "전라북도",
+  "terminalNm": "덕곡"
+ },
+ {
+  "terminalId": "NAI5553901",
+  "cityName": "전라북도",
+  "terminalNm": "통안"
+ },
+ {
+  "terminalId": "NAI5554201",
+  "cityName": "전라북도",
+  "terminalNm": "죽장(장수)"
+ },
+ {
+  "terminalId": "NAI5554202",
+  "cityName": "전라북도",
+  "terminalNm": "명천"
+ },
+ {
+  "terminalId": "NAI5554301",
+  "cityName": "전라북도",
+  "terminalNm": "공진"
+ },
+ {
+  "terminalId": "NAI5554302",
+  "cityName": "전라북도",
+  "terminalNm": "마암(무주)"
+ },
+ {
+  "terminalId": "NAI5554401",
+  "cityName": "전라북도",
+  "terminalNm": "기곡"
+ },
+ {
+  "terminalId": "NAI5554501",
+  "cityName": "전라북도",
+  "terminalNm": "하길산"
+ },
+ {
+  "terminalId": "NAI5554502",
+  "cityName": "전라북도",
+  "terminalNm": "상길산"
+ },
+ {
+  "terminalId": "NAI5554601",
+  "cityName": "전라북도",
+  "terminalNm": "청량리(무주)"
+ },
+ {
+  "terminalId": "NAI5554602",
+  "cityName": "전라북도",
+  "terminalNm": "진평"
+ },
+ {
+  "terminalId": "NAI5554901",
+  "cityName": "전라북도",
+  "terminalNm": "설천(무주)"
+ },
+ {
+  "terminalId": "NAI5555101",
+  "cityName": "전라북도",
+  "terminalNm": "미천리"
+ },
+ {
+  "terminalId": "NAI5555201",
+  "cityName": "전라북도",
+  "terminalNm": "장덕"
+ },
+ {
+  "terminalId": "NAI5555301",
+  "cityName": "전라북도",
+  "terminalNm": "설천"
+ },
+ {
+  "terminalId": "NAI5555302",
+  "cityName": "전라북도",
+  "terminalNm": "라제통문"
+ },
+ {
+  "terminalId": "NAI5555303",
+  "cityName": "전라북도",
+  "terminalNm": "이남"
+ },
+ {
+  "terminalId": "NAI5555304",
+  "cityName": "전라북도",
+  "terminalNm": "나림"
+ },
+ {
+  "terminalId": "NAI5555305",
+  "cityName": "전라북도",
+  "terminalNm": "설천(완)"
+ },
+ {
+  "terminalId": "NAI5555401",
+  "cityName": "전라북도",
+  "terminalNm": "월현"
+ },
+ {
+  "terminalId": "NAI5555501",
+  "cityName": "전라북도",
+  "terminalNm": "구천동리조트"
+ },
+ {
+  "terminalId": "NAI5555502",
+  "cityName": "전라북도",
+  "terminalNm": "무주리조트"
+ },
+ {
+  "terminalId": "NAI5555503",
+  "cityName": "전라북도",
+  "terminalNm": "대평"
  },
  {
   "terminalId": "NAI5555701",
@@ -1355,9 +2600,234 @@
   "terminalNm": "구천동"
  },
  {
+  "terminalId": "NAI5555702",
+  "cityName": "전라북도",
+  "terminalNm": "구천(완)"
+ },
+ {
+  "terminalId": "NAI5555801",
+  "cityName": "전라북도",
+  "terminalNm": "묘암"
+ },
+ {
+  "terminalId": "NAI5555802",
+  "cityName": "전라북도",
+  "terminalNm": "사동입구"
+ },
+ {
+  "terminalId": "NAI5555901",
+  "cityName": "전라북도",
+  "terminalNm": "무풍"
+ },
+ {
+  "terminalId": "NAI5556002",
+  "cityName": "전라북도",
+  "terminalNm": "마덕"
+ },
+ {
+  "terminalId": "NAI5556003",
+  "cityName": "전라북도",
+  "terminalNm": "계부"
+ },
+ {
+  "terminalId": "NAI5556004",
+  "cityName": "전라북도",
+  "terminalNm": "부평(무주)"
+ },
+ {
+  "terminalId": "NAI5556005",
+  "cityName": "전라북도",
+  "terminalNm": "금척(완)"
+ },
+ {
+  "terminalId": "NAI5556201",
+  "cityName": "전라북도",
+  "terminalNm": "속동"
+ },
+ {
+  "terminalId": "NAI5556202",
+  "cityName": "전라북도",
+  "terminalNm": "덕지"
+ },
+ {
+  "terminalId": "NAI5556203",
+  "cityName": "전라북도",
+  "terminalNm": "상오정"
+ },
+ {
+  "terminalId": "NAI5556204",
+  "cityName": "전라북도",
+  "terminalNm": "도유리"
+ },
+ {
+  "terminalId": "NAI5556205",
+  "cityName": "전라북도",
+  "terminalNm": "실미"
+ },
+ {
+  "terminalId": "NAI5556207",
+  "cityName": "전라북도",
+  "terminalNm": "안실"
+ },
+ {
+  "terminalId": "NAI5556208",
+  "cityName": "전라북도",
+  "terminalNm": "한치"
+ },
+ {
+  "terminalId": "NAI5560001",
+  "cityName": "전라북도",
+  "terminalNm": "파곡"
+ },
+ {
+  "terminalId": "NAI5560002",
+  "cityName": "전라북도",
+  "terminalNm": "외림"
+ },
+ {
+  "terminalId": "NAI5560003",
+  "cityName": "전라북도",
+  "terminalNm": "원촌(장수)"
+ },
+ {
+  "terminalId": "NAI5560004",
+  "cityName": "전라북도",
+  "terminalNm": "내림"
+ },
+ {
+  "terminalId": "NAI5560005",
+  "cityName": "전라북도",
+  "terminalNm": "백암(장수)"
+ },
+ {
+  "terminalId": "NAI5560006",
+  "cityName": "전라북도",
+  "terminalNm": "을곡"
+ },
+ {
+  "terminalId": "NAI5560101",
+  "cityName": "전라북도",
+  "terminalNm": "계북"
+ },
+ {
+  "terminalId": "NAI5560102",
+  "cityName": "전라북도",
+  "terminalNm": "계북(완)"
+ },
+ {
+  "terminalId": "NAI5560301",
+  "cityName": "전라북도",
+  "terminalNm": "매계"
+ },
+ {
+  "terminalId": "NAI5560501",
+  "cityName": "전라북도",
+  "terminalNm": "쌍암리"
+ },
+ {
+  "terminalId": "NAI5560502",
+  "cityName": "전라북도",
+  "terminalNm": "신흥(장수)"
+ },
+ {
+  "terminalId": "NAI5560503",
+  "cityName": "전라북도",
+  "terminalNm": "오봉(장수)"
+ },
+ {
+  "terminalId": "NAI5560504",
+  "cityName": "전라북도",
+  "terminalNm": "연평리"
+ },
+ {
+  "terminalId": "NAI5560505",
+  "cityName": "전라북도",
+  "terminalNm": "부연"
+ },
+ {
+  "terminalId": "NAI5560506",
+  "cityName": "전라북도",
+  "terminalNm": "신기(장수)"
+ },
+ {
+  "terminalId": "NAI5560701",
+  "cityName": "전라북도",
+  "terminalNm": "천천"
+ },
+ {
+  "terminalId": "NAI5561001",
+  "cityName": "전라북도",
+  "terminalNm": "절골(장수)"
+ },
+ {
+  "terminalId": "NAI5561002",
+  "cityName": "전라북도",
+  "terminalNm": "와룡(장수)"
+ },
+ {
+  "terminalId": "NAI5561401",
+  "cityName": "전라북도",
+  "terminalNm": "장계"
+ },
+ {
+  "terminalId": "NAI5561402",
+  "cityName": "전라북도",
+  "terminalNm": "장계(완)"
+ },
+ {
+  "terminalId": "NAI5562301",
+  "cityName": "전라북도",
+  "terminalNm": "계남"
+ },
+ {
+  "terminalId": "NAI5562302",
+  "cityName": "전라북도",
+  "terminalNm": "계남(완)"
+ },
+ {
+  "terminalId": "NAI5562401",
+  "cityName": "전라북도",
+  "terminalNm": "중방"
+ },
+ {
+  "terminalId": "NAI5562601",
+  "cityName": "전라북도",
+  "terminalNm": "산촌"
+ },
+ {
+  "terminalId": "NAI5563101",
+  "cityName": "전라북도",
+  "terminalNm": "싸리재"
+ },
+ {
+  "terminalId": "NAI5563102",
+  "cityName": "전라북도",
+  "terminalNm": "장수의료원"
+ },
+ {
   "terminalId": "NAI5563201",
   "cityName": "전라북도",
   "terminalNm": "장수"
+ },
+ {
+  "terminalId": "NAI5563202",
+  "cityName": "전라북도",
+  "terminalNm": "장수(완)"
+ },
+ {
+  "terminalId": "NAI5565901",
+  "cityName": "전라북도",
+  "terminalNm": "번암"
+ },
+ {
+  "terminalId": "NAI5570001",
+  "cityName": "전라북도",
+  "terminalNm": "덕과"
+ },
+ {
+  "terminalId": "NAI5571402",
+  "cityName": "전라북도",
+  "terminalNm": "용주"
  },
  {
   "terminalId": "NAI5571501",
@@ -1365,9 +2835,124 @@
   "terminalNm": "인월"
  },
  {
+  "terminalId": "NAI5571601",
+  "cityName": "전라북도",
+  "terminalNm": "운봉"
+ },
+ {
+  "terminalId": "NAI5571602",
+  "cityName": "전라북도",
+  "terminalNm": "운봉(남원)"
+ },
+ {
+  "terminalId": "NAI5572401",
+  "cityName": "전라북도",
+  "terminalNm": "서남대학교"
+ },
+ {
+  "terminalId": "NAI5574201",
+  "cityName": "전라북도",
+  "terminalNm": "남원서부"
+ },
+ {
+  "terminalId": "NAI5574301",
+  "cityName": "전라북도",
+  "terminalNm": "남원역"
+ },
+ {
   "terminalId": "NAI5576001",
   "cityName": "전라북도",
   "terminalNm": "남원"
+ },
+ {
+  "terminalId": "NAI5576002",
+  "cityName": "전라북도",
+  "terminalNm": "남원북부"
+ },
+ {
+  "terminalId": "NAI5577901",
+  "cityName": "전라북도",
+  "terminalNm": "대산"
+ },
+ {
+  "terminalId": "NAI5578701",
+  "cityName": "전북특별자치도",
+  "terminalNm": "평촌(남원시)"
+ },
+ {
+  "terminalId": "NAI5578702",
+  "cityName": "전북특별자치도",
+  "terminalNm": "입암(남원시)"
+ },
+ {
+  "terminalId": "NAI5578901",
+  "cityName": "전북특별자치도",
+  "terminalNm": "금탄"
+ },
+ {
+  "terminalId": "NAI5578902",
+  "cityName": "전북특별자치도",
+  "terminalNm": "방동"
+ },
+ {
+  "terminalId": "NAI5578903",
+  "cityName": "전북특별자치도",
+  "terminalNm": "대강(순창군)"
+ },
+ {
+  "terminalId": "NAI5579201",
+  "cityName": "전라북도",
+  "terminalNm": "세실"
+ },
+ {
+  "terminalId": "NAI5579701",
+  "cityName": "전라북도",
+  "terminalNm": "남원남부"
+ },
+ {
+  "terminalId": "NAI5580401",
+  "cityName": "전라북도",
+  "terminalNm": "산내"
+ },
+ {
+  "terminalId": "NAI5580402",
+  "cityName": "전라북도",
+  "terminalNm": "뱀사골"
+ },
+ {
+  "terminalId": "NAI5580403",
+  "cityName": "전라북도",
+  "terminalNm": "일성콘도"
+ },
+ {
+  "terminalId": "NAI5580404",
+  "cityName": "전라북도",
+  "terminalNm": "반선"
+ },
+ {
+  "terminalId": "NAI5580405",
+  "cityName": "전라북도",
+  "terminalNm": "매동"
+ },
+ {
+  "terminalId": "NAI5580406",
+  "cityName": "전라북도",
+  "terminalNm": "백일실상사"
+ },
+ {
+  "terminalId": "NAI5580408",
+  "cityName": "전라북도",
+  "terminalNm": "백장"
+ },
+ {
+  "terminalId": "NAI5580501",
+  "cityName": "전라북도",
+  "terminalNm": "달궁"
+ },
+ {
+  "terminalId": "NAI5590601",
+  "cityName": "전라북도",
+  "terminalNm": "구운암교"
  },
  {
   "terminalId": "NAI5592801",
@@ -1375,9 +2960,389 @@
   "terminalNm": "임실"
  },
  {
+  "terminalId": "NAI5593101",
+  "cityName": "전북특별자치도",
+  "terminalNm": "사치"
+ },
+ {
+  "terminalId": "NAI5593401",
+  "cityName": "전라북도",
+  "terminalNm": "청웅"
+ },
+ {
+  "terminalId": "NAI5593501",
+  "cityName": "전북특별자치도",
+  "terminalNm": "중산(임실)"
+ },
+ {
+  "terminalId": "NAI5593801",
+  "cityName": "전북특별자치도",
+  "terminalNm": "이목(임실)"
+ },
+ {
+  "terminalId": "NAI5593802",
+  "cityName": "전북특별자치도",
+  "terminalNm": "부흥(전북)"
+ },
+ {
+  "terminalId": "NAI5593803",
+  "cityName": "전북특별자치도",
+  "terminalNm": "백련(전북)"
+ },
+ {
+  "terminalId": "NAI5593805",
+  "cityName": "전북특별자치도",
+  "terminalNm": "호국원(임실)"
+ },
+ {
+  "terminalId": "NAI5593806",
+  "cityName": "전북특별자치도",
+  "terminalNm": "신기(임실)"
+ },
+ {
   "terminalId": "NAI5593901",
   "cityName": "전라북도",
   "terminalNm": "강진(전북)"
+ },
+ {
+  "terminalId": "NAI5593902",
+  "cityName": "전북특별자치도",
+  "terminalNm": "강진교"
+ },
+ {
+  "terminalId": "NAI5594301",
+  "cityName": "전북특별자치도",
+  "terminalNm": "암치"
+ },
+ {
+  "terminalId": "NAI5594302",
+  "cityName": "전북특별자치도",
+  "terminalNm": "일중"
+ },
+ {
+  "terminalId": "NAI5594303",
+  "cityName": "전북특별자치도",
+  "terminalNm": "물우"
+ },
+ {
+  "terminalId": "NAI5594304",
+  "cityName": "전북특별자치도",
+  "terminalNm": "덕치"
+ },
+ {
+  "terminalId": "NAI5594401",
+  "cityName": "전북특별자치도",
+  "terminalNm": "송정(임실군)"
+ },
+ {
+  "terminalId": "NAI5594501",
+  "cityName": "전북특별자치도",
+  "terminalNm": "어은"
+ },
+ {
+  "terminalId": "NAI5594502",
+  "cityName": "전북특별자치도",
+  "terminalNm": "삼은"
+ },
+ {
+  "terminalId": "NAI5594601",
+  "cityName": "전라북도",
+  "terminalNm": "삼계"
+ },
+ {
+  "terminalId": "NAI5594602",
+  "cityName": "전북특별자치도",
+  "terminalNm": "괘평"
+ },
+ {
+  "terminalId": "NAI5594603",
+  "cityName": "전북특별자치도",
+  "terminalNm": "산수"
+ },
+ {
+  "terminalId": "NAI5594701",
+  "cityName": "전북특별자치도",
+  "terminalNm": "유사"
+ },
+ {
+  "terminalId": "NAI5594702",
+  "cityName": "전북특별자치도",
+  "terminalNm": "후천"
+ },
+ {
+  "terminalId": "NAI5595101",
+  "cityName": "전라북도",
+  "terminalNm": "오수"
+ },
+ {
+  "terminalId": "NAI5595601",
+  "cityName": "전라북도",
+  "terminalNm": "신기리"
+ },
+ {
+  "terminalId": "NAI5600001",
+  "cityName": "전라북도",
+  "terminalNm": "반월"
+ },
+ {
+  "terminalId": "NAI5600101",
+  "cityName": "전라북도",
+  "terminalNm": "동산"
+ },
+ {
+  "terminalId": "NAI5600102",
+  "cityName": "전라북도",
+  "terminalNm": "추령"
+ },
+ {
+  "terminalId": "NAI5600103",
+  "cityName": "전라북도",
+  "terminalNm": "서마"
+ },
+ {
+  "terminalId": "NAI5600105",
+  "cityName": "전북특별자치도",
+  "terminalNm": "반월(순창군)"
+ },
+ {
+  "terminalId": "NAI5600201",
+  "cityName": "전라북도",
+  "terminalNm": "답동"
+ },
+ {
+  "terminalId": "NAI5600202",
+  "cityName": "전라북도",
+  "terminalNm": "낙덕"
+ },
+ {
+  "terminalId": "NAI5600203",
+  "cityName": "전라북도",
+  "terminalNm": "구산"
+ },
+ {
+  "terminalId": "NAI5600204",
+  "cityName": "전라북도",
+  "terminalNm": "신기"
+ },
+ {
+  "terminalId": "NAI5600206",
+  "cityName": "전라북도",
+  "terminalNm": "석보"
+ },
+ {
+  "terminalId": "NAI5600208",
+  "cityName": "전북특별자치도",
+  "terminalNm": "농공(순창군)"
+ },
+ {
+  "terminalId": "NAI5600301",
+  "cityName": "전라북도",
+  "terminalNm": "율평"
+ },
+ {
+  "terminalId": "NAI5600302",
+  "cityName": "전라북도",
+  "terminalNm": "송정"
+ },
+ {
+  "terminalId": "NAI5600501",
+  "cityName": "전라북도",
+  "terminalNm": "복흥"
+ },
+ {
+  "terminalId": "NAI5600701",
+  "cityName": "전라북도",
+  "terminalNm": "금성"
+ },
+ {
+  "terminalId": "NAI5600801",
+  "cityName": "전라북도",
+  "terminalNm": "쌍치"
+ },
+ {
+  "terminalId": "NAI5600803",
+  "cityName": "전라북도",
+  "terminalNm": "보평"
+ },
+ {
+  "terminalId": "NAI5600804",
+  "cityName": "전북특별자치도",
+  "terminalNm": "양신"
+ },
+ {
+  "terminalId": "NAI5600805",
+  "cityName": "전북특별자치도",
+  "terminalNm": "전암"
+ },
+ {
+  "terminalId": "NAI5600806",
+  "cityName": "전북특별자치도",
+  "terminalNm": "금정(순창군)"
+ },
+ {
+  "terminalId": "NAI5600901",
+  "cityName": "전북특별자치도",
+  "terminalNm": "시산(순창군)"
+ },
+ {
+  "terminalId": "NAI5600902",
+  "cityName": "전북특별자치도",
+  "terminalNm": "둔전(순창군)"
+ },
+ {
+  "terminalId": "NAI5601101",
+  "cityName": "전북특별자치도",
+  "terminalNm": "치천"
+ },
+ {
+  "terminalId": "NAI5601102",
+  "cityName": "전북특별자치도",
+  "terminalNm": "금천(순창군)"
+ },
+ {
+  "terminalId": "NAI5601103",
+  "cityName": "전북특별자치도",
+  "terminalNm": "이율"
+ },
+ {
+  "terminalId": "NAI5601104",
+  "cityName": "전북특별자치도",
+  "terminalNm": "황계"
+ },
+ {
+  "terminalId": "NAI5601105",
+  "cityName": "전북특별자치도",
+  "terminalNm": "금창"
+ },
+ {
+  "terminalId": "NAI5601106",
+  "cityName": "전북특별자치도",
+  "terminalNm": "산내(순창군)"
+ },
+ {
+  "terminalId": "NAI5601107",
+  "cityName": "전북특별자치도",
+  "terminalNm": "죽림(순창군)"
+ },
+ {
+  "terminalId": "NAI5601108",
+  "cityName": "전북특별자치도",
+  "terminalNm": "안정(순창군)"
+ },
+ {
+  "terminalId": "NAI5601202",
+  "cityName": "전북특별자치도",
+  "terminalNm": "남정"
+ },
+ {
+  "terminalId": "NAI5601203",
+  "cityName": "전북특별자치도",
+  "terminalNm": "방화(순창군)"
+ },
+ {
+  "terminalId": "NAI5601204",
+  "cityName": "전북특별자치도",
+  "terminalNm": "속리"
+ },
+ {
+  "terminalId": "NAI5601205",
+  "cityName": "전북특별자치도",
+  "terminalNm": "민재"
+ },
+ {
+  "terminalId": "NAI5601305",
+  "cityName": "전북특별자치도",
+  "terminalNm": "장암(순창군)"
+ },
+ {
+  "terminalId": "NAI5601306",
+  "cityName": "전북특별자치도",
+  "terminalNm": "유사단풍"
+ },
+ {
+  "terminalId": "NAI5601308",
+  "cityName": "전북특별자치도",
+  "terminalNm": "상리입구"
+ },
+ {
+  "terminalId": "NAI5601309",
+  "cityName": "전북특별자치도",
+  "terminalNm": "상리(순창군)"
+ },
+ {
+  "terminalId": "NAI5601310",
+  "cityName": "전북특별자치도",
+  "terminalNm": "자양(순창군)"
+ },
+ {
+  "terminalId": "NAI5601311",
+  "cityName": "전북특별자치도",
+  "terminalNm": "구곡(순창군)"
+ },
+ {
+  "terminalId": "NAI5601401",
+  "cityName": "전라북도",
+  "terminalNm": "구산리"
+ },
+ {
+  "terminalId": "NAI5601402",
+  "cityName": "전북특별자치도",
+  "terminalNm": "마흥"
+ },
+ {
+  "terminalId": "NAI5601403",
+  "cityName": "전북특별자치도",
+  "terminalNm": "봉곡(순창군)"
+ },
+ {
+  "terminalId": "NAI5601404",
+  "cityName": "전북특별자치도",
+  "terminalNm": "회룡성곡"
+ },
+ {
+  "terminalId": "NAI5601405",
+  "cityName": "전북특별자치도",
+  "terminalNm": "율리(순창군)"
+ },
+ {
+  "terminalId": "NAI5601406",
+  "cityName": "전북특별자치도",
+  "terminalNm": "통안(순창군)"
+ },
+ {
+  "terminalId": "NAI5601601",
+  "cityName": "전북특별자치도",
+  "terminalNm": "대마"
+ },
+ {
+  "terminalId": "NAI5601602",
+  "cityName": "전북특별자치도",
+  "terminalNm": "세룡"
+ },
+ {
+  "terminalId": "NAI5601603",
+  "cityName": "전북특별자치도",
+  "terminalNm": "심초"
+ },
+ {
+  "terminalId": "NAI5601702",
+  "cityName": "전라북도",
+  "terminalNm": "분통"
+ },
+ {
+  "terminalId": "NAI5601801",
+  "cityName": "전북특별자치도",
+  "terminalNm": "호계(순창군)"
+ },
+ {
+  "terminalId": "NAI5601901",
+  "cityName": "전북특별자치도",
+  "terminalNm": "노동(순창군)"
+ },
+ {
+  "terminalId": "NAI5602001",
+  "cityName": "전라북도",
+  "terminalNm": "강천"
  },
  {
   "terminalId": "NAI5602002",
@@ -1385,9 +3350,354 @@
   "terminalNm": "강천사"
  },
  {
+  "terminalId": "NAI5602003",
+  "cityName": "전라북도",
+  "terminalNm": "막은댐"
+ },
+ {
+  "terminalId": "NAI5602102",
+  "cityName": "전북특별자치도",
+  "terminalNm": "장안(순창군)"
+ },
+ {
+  "terminalId": "NAI5602103",
+  "cityName": "전북특별자치도",
+  "terminalNm": "덕천(순창군)"
+ },
+ {
+  "terminalId": "NAI5602104",
+  "cityName": "전북특별자치도",
+  "terminalNm": "평지(순창군)"
+ },
+ {
+  "terminalId": "NAI5602201",
+  "cityName": "전라북도",
+  "terminalNm": "적성"
+ },
+ {
+  "terminalId": "NAI5602202",
+  "cityName": "전북특별자치도",
+  "terminalNm": "대산(순창군)"
+ },
+ {
+  "terminalId": "NAI5602203",
+  "cityName": "전북특별자치도",
+  "terminalNm": "내월"
+ },
+ {
+  "terminalId": "NAI5602204",
+  "cityName": "전북특별자치도",
+  "terminalNm": "시목(순창군)"
+ },
+ {
+  "terminalId": "NAI5602205",
+  "cityName": "전북특별자치도",
+  "terminalNm": "농소(순창군)"
+ },
+ {
+  "terminalId": "NAI5602301",
+  "cityName": "전북특별자치도",
+  "terminalNm": "지북"
+ },
+ {
+  "terminalId": "NAI5602302",
+  "cityName": "전북특별자치도",
+  "terminalNm": "임동(순창군)"
+ },
+ {
+  "terminalId": "NAI5602303",
+  "cityName": "전북특별자치도",
+  "terminalNm": "율지(순창군)"
+ },
+ {
+  "terminalId": "NAI5602304",
+  "cityName": "전북특별자치도",
+  "terminalNm": "지내(순창군)"
+ },
+ {
+  "terminalId": "NAI5602401",
+  "cityName": "전북특별자치도",
+  "terminalNm": "유촌"
+ },
+ {
+  "terminalId": "NAI5602402",
+  "cityName": "전북특별자치도",
+  "terminalNm": "책암"
+ },
+ {
+  "terminalId": "NAI5602501",
+  "cityName": "전북특별자치도",
+  "terminalNm": "유등(순창군)"
+ },
+ {
+  "terminalId": "NAI5602502",
+  "cityName": "전북특별자치도",
+  "terminalNm": "오교"
+ },
+ {
+  "terminalId": "NAI5602602",
+  "cityName": "전북특별자치도",
+  "terminalNm": "강경(순창군)"
+ },
+ {
+  "terminalId": "NAI5602603",
+  "cityName": "전북특별자치도",
+  "terminalNm": "귀미(순창군)"
+ },
+ {
+  "terminalId": "NAI5602604",
+  "cityName": "전북특별자치도",
+  "terminalNm": "추동(순창군)"
+ },
+ {
+  "terminalId": "NAI5602605",
+  "cityName": "전북특별자치도",
+  "terminalNm": "장군목"
+ },
+ {
+  "terminalId": "NAI5602701",
+  "cityName": "전북특별자치도",
+  "terminalNm": "신흥(순창군)"
+ },
+ {
+  "terminalId": "NAI5602702",
+  "cityName": "전북특별자치도",
+  "terminalNm": "장동"
+ },
+ {
+  "terminalId": "NAI5602703",
+  "cityName": "전북특별자치도",
+  "terminalNm": "장항"
+ },
+ {
+  "terminalId": "NAI5602704",
+  "cityName": "전북특별자치도",
+  "terminalNm": "이동(순창군)"
+ },
+ {
+  "terminalId": "NAI5602705",
+  "cityName": "전북특별자치도",
+  "terminalNm": "주월"
+ },
+ {
+  "terminalId": "NAI5602706",
+  "cityName": "전북특별자치도",
+  "terminalNm": "성동(순창군)"
+ },
+ {
+  "terminalId": "NAI5602707",
+  "cityName": "전북특별자치도",
+  "terminalNm": "수정"
+ },
+ {
+  "terminalId": "NAI5602708",
+  "cityName": "전북특별자치도",
+  "terminalNm": "석산(순창군)"
+ },
+ {
+  "terminalId": "NAI5602801",
+  "cityName": "전북특별자치도",
+  "terminalNm": "내령"
+ },
+ {
+  "terminalId": "NAI5602802",
+  "cityName": "전북특별자치도",
+  "terminalNm": "외령"
+ },
+ {
+  "terminalId": "NAI5602901",
+  "cityName": "전라북도",
+  "terminalNm": "동계"
+ },
+ {
+  "terminalId": "NAI5602902",
+  "cityName": "전북특별자치도",
+  "terminalNm": "서호(순창군)"
+ },
+ {
+  "terminalId": "NAI5602903",
+  "cityName": "전북특별자치도",
+  "terminalNm": "관전"
+ },
+ {
+  "terminalId": "NAI5603001",
+  "cityName": "전북특별자치도",
+  "terminalNm": "신월(순창군)"
+ },
+ {
+  "terminalId": "NAI5603002",
+  "cityName": "전북특별자치도",
+  "terminalNm": "독집"
+ },
+ {
+  "terminalId": "NAI5603003",
+  "cityName": "전북특별자치도",
+  "terminalNm": "평남"
+ },
+ {
+  "terminalId": "NAI5603101",
+  "cityName": "전라북도",
+  "terminalNm": "신기(순창)"
+ },
+ {
+  "terminalId": "NAI5603201",
+  "cityName": "전북특별자치도",
+  "terminalNm": "장덕(순창군)"
+ },
+ {
   "terminalId": "NAI5603501",
   "cityName": "전라북도",
   "terminalNm": "순창"
+ },
+ {
+  "terminalId": "NAI5604801",
+  "cityName": "전북특별자치도",
+  "terminalNm": "신촌(순창군)"
+ },
+ {
+  "terminalId": "NAI5605201",
+  "cityName": "전라북도",
+  "terminalNm": "금과"
+ },
+ {
+  "terminalId": "NAI5605301",
+  "cityName": "전북특별자치도",
+  "terminalNm": "수양(순창군)"
+ },
+ {
+  "terminalId": "NAI5605302",
+  "cityName": "전북특별자치도",
+  "terminalNm": "발산(순창군)"
+ },
+ {
+  "terminalId": "NAI5605303",
+  "cityName": "전북특별자치도",
+  "terminalNm": "동전"
+ },
+ {
+  "terminalId": "NAI5605304",
+  "cityName": "전북특별자치도",
+  "terminalNm": "대장(순창군)"
+ },
+ {
+  "terminalId": "NAI5605305",
+  "cityName": "전북특별자치도",
+  "terminalNm": "모정매우"
+ },
+ {
+  "terminalId": "NAI5605306",
+  "cityName": "전북특별자치도",
+  "terminalNm": "만촌"
+ },
+ {
+  "terminalId": "NAI5605401",
+  "cityName": "전라북도",
+  "terminalNm": "덕산"
+ },
+ {
+  "terminalId": "NAI5605402",
+  "cityName": "전북특별자치도",
+  "terminalNm": "죽전(순창군)"
+ },
+ {
+  "terminalId": "NAI5605501",
+  "cityName": "전북특별자치도",
+  "terminalNm": "우곡"
+ },
+ {
+  "terminalId": "NAI5605502",
+  "cityName": "전북특별자치도",
+  "terminalNm": "한사"
+ },
+ {
+  "terminalId": "NAI5605503",
+  "cityName": "전북특별자치도",
+  "terminalNm": "상촌(순창군)"
+ },
+ {
+  "terminalId": "NAI5605601",
+  "cityName": "전북특별자치도",
+  "terminalNm": "풍산(순창군)"
+ },
+ {
+  "terminalId": "NAI5605602",
+  "cityName": "전북특별자치도",
+  "terminalNm": "대가(순창군)"
+ },
+ {
+  "terminalId": "NAI5605603",
+  "cityName": "전북특별자치도",
+  "terminalNm": "향가"
+ },
+ {
+  "terminalId": "NAI5605701",
+  "cityName": "전북특별자치도",
+  "terminalNm": "독보"
+ },
+ {
+  "terminalId": "NAI5605702",
+  "cityName": "전북특별자치도",
+  "terminalNm": "소촌"
+ },
+ {
+  "terminalId": "NAI5605703",
+  "cityName": "전북특별자치도",
+  "terminalNm": "도치"
+ },
+ {
+  "terminalId": "NAI5605704",
+  "cityName": "전북특별자치도",
+  "terminalNm": "순정"
+ },
+ {
+  "terminalId": "NAI5605801",
+  "cityName": "전북특별자치도",
+  "terminalNm": "석촌"
+ },
+ {
+  "terminalId": "NAI5605802",
+  "cityName": "전북특별자치도",
+  "terminalNm": "방성"
+ },
+ {
+  "terminalId": "NAI5605803",
+  "cityName": "전북특별자치도",
+  "terminalNm": "청룡(순창군)"
+ },
+ {
+  "terminalId": "NAI5605804",
+  "cityName": "전북특별자치도",
+  "terminalNm": "대성"
+ },
+ {
+  "terminalId": "NAI5605805",
+  "cityName": "전북특별자치도",
+  "terminalNm": "대각"
+ },
+ {
+  "terminalId": "NAI5605901",
+  "cityName": "전북특별자치도",
+  "terminalNm": "남계"
+ },
+ {
+  "terminalId": "NAI5605902",
+  "cityName": "전북특별자치도",
+  "terminalNm": "장작늑곡"
+ },
+ {
+  "terminalId": "NAI5605903",
+  "cityName": "전북특별자치도",
+  "terminalNm": "이목(순창군)"
+ },
+ {
+  "terminalId": "NAI5605904",
+  "cityName": "전북특별자치도",
+  "terminalNm": "일목"
+ },
+ {
+  "terminalId": "NAI5605905",
+  "cityName": "전북특별자치도",
+  "terminalNm": "계전"
  },
  {
   "terminalId": "NAI5610601",
@@ -1395,9 +3705,94 @@
   "terminalNm": "신태인"
  },
  {
+  "terminalId": "NAI5610901",
+  "cityName": "전라북도",
+  "terminalNm": "감곡(정읍시)"
+ },
+ {
+  "terminalId": "NAI5611501",
+  "cityName": "전라북도",
+  "terminalNm": "태인"
+ },
+ {
+  "terminalId": "NAI5612101",
+  "cityName": "전라북도",
+  "terminalNm": "화죽"
+ },
+ {
+  "terminalId": "NAI5612401",
+  "cityName": "전라북도",
+  "terminalNm": "산외"
+ },
+ {
+  "terminalId": "NAI5612501",
+  "cityName": "전라북도",
+  "terminalNm": "사교"
+ },
+ {
+  "terminalId": "NAI5612701",
+  "cityName": "전라북도",
+  "terminalNm": "매죽"
+ },
+ {
+  "terminalId": "NAI5612702",
+  "cityName": "전라북도",
+  "terminalNm": "능교"
+ },
+ {
+  "terminalId": "NAI5613001",
+  "cityName": "전라북도",
+  "terminalNm": "칠보"
+ },
+ {
+  "terminalId": "NAI5614801",
+  "cityName": "전라북도",
+  "terminalNm": "영원"
+ },
+ {
   "terminalId": "NAI5615801",
   "cityName": "전라북도",
   "terminalNm": "정읍"
+ },
+ {
+  "terminalId": "NAI5615802",
+  "cityName": "전라북도",
+  "terminalNm": "봇들"
+ },
+ {
+  "terminalId": "NAI5617501",
+  "cityName": "전라북도",
+  "terminalNm": "수성아파트"
+ },
+ {
+  "terminalId": "NAI5619801",
+  "cityName": "전라북도",
+  "terminalNm": "백석(전북)"
+ },
+ {
+  "terminalId": "NAI5619802",
+  "cityName": "전라북도",
+  "terminalNm": "운암(전북)"
+ },
+ {
+  "terminalId": "NAI5619901",
+  "cityName": "전라북도",
+  "terminalNm": "내장산"
+ },
+ {
+  "terminalId": "NAI5619902",
+  "cityName": "전라북도",
+  "terminalNm": "내장사"
+ },
+ {
+  "terminalId": "NAI5621501",
+  "cityName": "전라북도",
+  "terminalNm": "대유"
+ },
+ {
+  "terminalId": "NAI5630602",
+  "cityName": "전라북도",
+  "terminalNm": "동부버스정류장(부안)"
  },
  {
   "terminalId": "NAI5630801",
@@ -1405,9 +3800,19 @@
   "terminalNm": "부안"
  },
  {
+  "terminalId": "NAI5630901",
+  "cityName": "전라북도",
+  "terminalNm": "서부버스정류장(부안)"
+ },
+ {
   "terminalId": "NAI5632601",
   "cityName": "전라북도",
   "terminalNm": "줄포"
+ },
+ {
+  "terminalId": "NAI5633201",
+  "cityName": "전라북도",
+  "terminalNm": "비득지"
  },
  {
   "terminalId": "NAI5633701",
@@ -1415,9 +3820,69 @@
   "terminalNm": "격포"
  },
  {
+  "terminalId": "NAI5634201",
+  "cityName": "전라북도",
+  "terminalNm": "변산욕장"
+ },
+ {
+  "terminalId": "NAI5634202",
+  "cityName": "전라북도",
+  "terminalNm": "변산"
+ },
+ {
+  "terminalId": "NAI5634401",
+  "cityName": "전라북도",
+  "terminalNm": "내소사"
+ },
+ {
+  "terminalId": "NAI5634601",
+  "cityName": "전라북도",
+  "terminalNm": "곰소"
+ },
+ {
+  "terminalId": "NAI5640001",
+  "cityName": "전라북도",
+  "terminalNm": "심원"
+ },
+ {
+  "terminalId": "NAI5640301",
+  "cityName": "전라북도",
+  "terminalNm": "해리(고창)"
+ },
+ {
+  "terminalId": "NAI5640601",
+  "cityName": "전라북도",
+  "terminalNm": "동호"
+ },
+ {
+  "terminalId": "NAI5640801",
+  "cityName": "전라북도",
+  "terminalNm": "구시포"
+ },
+ {
+  "terminalId": "NAI5641001",
+  "cityName": "전라북도",
+  "terminalNm": "상하"
+ },
+ {
   "terminalId": "NAI5641501",
   "cityName": "전라북도",
   "terminalNm": "흥덕"
+ },
+ {
+  "terminalId": "NAI5642301",
+  "cityName": "전라북도",
+  "terminalNm": "청송(전북)"
+ },
+ {
+  "terminalId": "NAI5642501",
+  "cityName": "전라북도",
+  "terminalNm": "덕림"
+ },
+ {
+  "terminalId": "NAI5642801",
+  "cityName": "전라북도",
+  "terminalNm": "고창군청"
  },
  {
   "terminalId": "NAI5643301",
@@ -1425,9 +3890,84 @@
   "terminalNm": "고창"
  },
  {
+  "terminalId": "NAI5643401",
+  "cityName": "전라북도",
+  "terminalNm": "고창여고"
+ },
+ {
+  "terminalId": "NAI5645201",
+  "cityName": "전라북도",
+  "terminalNm": "고창 선운사"
+ },
+ {
+  "terminalId": "NAI5645401",
+  "cityName": "전라북도",
+  "terminalNm": "월산"
+ },
+ {
+  "terminalId": "NAI5645501",
+  "cityName": "전라북도",
+  "terminalNm": "무장"
+ },
+ {
+  "terminalId": "NAI5646001",
+  "cityName": "전라북도",
+  "terminalNm": "공음"
+ },
+ {
+  "terminalId": "NAI5646401",
+  "cityName": "전라북도",
+  "terminalNm": "학천"
+ },
+ {
+  "terminalId": "NAI5646501",
+  "cityName": "전라북도",
+  "terminalNm": "성송"
+ },
+ {
+  "terminalId": "NAI5646801",
+  "cityName": "전라북도",
+  "terminalNm": "대산(고창군)"
+ },
+ {
   "terminalId": "NAI5700401",
   "cityName": "전라남도",
   "terminalNm": "홍농"
+ },
+ {
+  "terminalId": "NAI5700402",
+  "cityName": "전라남도",
+  "terminalNm": "홍농(심야)"
+ },
+ {
+  "terminalId": "NAI5701501",
+  "cityName": "전라남도",
+  "terminalNm": "법성"
+ },
+ {
+  "terminalId": "NAI5701502",
+  "cityName": "전라남도",
+  "terminalNm": "법성(심야)"
+ },
+ {
+  "terminalId": "NAI5702501",
+  "cityName": "전라남도",
+  "terminalNm": "법성포"
+ },
+ {
+  "terminalId": "NAI5703401",
+  "cityName": "전라남도",
+  "terminalNm": "보라"
+ },
+ {
+  "terminalId": "NAI5703501",
+  "cityName": "전라남도",
+  "terminalNm": "영광스포티움"
+ },
+ {
+  "terminalId": "NAI5703601",
+  "cityName": "전라남도",
+  "terminalNm": "영광군청"
  },
  {
   "terminalId": "NAI5704301",
@@ -1435,9 +3975,124 @@
   "terminalNm": "영광"
  },
  {
+  "terminalId": "NAI5704302",
+  "cityName": "광주광역시",
+  "terminalNm": "호남대"
+ },
+ {
+  "terminalId": "NAI5704303",
+  "cityName": "전라남도",
+  "terminalNm": "국군병원"
+ },
+ {
+  "terminalId": "NAI5704305",
+  "cityName": "전라남도",
+  "terminalNm": "지평"
+ },
+ {
+  "terminalId": "NAI5704306",
+  "cityName": "전라남도",
+  "terminalNm": "가마미"
+ },
+ {
+  "terminalId": "NAI5704307",
+  "cityName": "경상북도",
+  "terminalNm": "도덕"
+ },
+ {
+  "terminalId": "NAI5704309",
+  "cityName": "전라남도",
+  "terminalNm": "연암리"
+ },
+ {
+  "terminalId": "NAI5704310",
+  "cityName": "전라남도",
+  "terminalNm": "묘량"
+ },
+ {
+  "terminalId": "NAI5704901",
+  "cityName": "전라남도",
+  "terminalNm": "영광고"
+ },
+ {
+  "terminalId": "NAI5705001",
+  "cityName": "전라남도",
+  "terminalNm": "학정"
+ },
+ {
+  "terminalId": "NAI5705801",
+  "cityName": "전라남도",
+  "terminalNm": "불갑사"
+ },
+ {
+  "terminalId": "NAI5710601",
+  "cityName": "전라남도",
+  "terminalNm": "덕산"
+ },
+ {
+  "terminalId": "NAI5710801",
+  "cityName": "전라남도",
+  "terminalNm": "신광"
+ },
+ {
+  "terminalId": "NAI5710802",
+  "cityName": "전라남도",
+  "terminalNm": "사천"
+ },
+ {
+  "terminalId": "NAI5711101",
+  "cityName": "전라남도",
+  "terminalNm": "손불"
+ },
+ {
   "terminalId": "NAI5711701",
   "cityName": "전라남도",
   "terminalNm": "문장"
+ },
+ {
+  "terminalId": "NAI5711702",
+  "cityName": "전라남도",
+  "terminalNm": "문장(심야)"
+ },
+ {
+  "terminalId": "NAI5711703",
+  "cityName": "전라남도",
+  "terminalNm": "문장(일반)"
+ },
+ {
+  "terminalId": "NAI5711709",
+  "cityName": "전라남도",
+  "terminalNm": "문장(완행)"
+ },
+ {
+  "terminalId": "NAI5712401",
+  "cityName": "전라남도",
+  "terminalNm": "월야"
+ },
+ {
+  "terminalId": "NAI5712901",
+  "cityName": "전라남도",
+  "terminalNm": "나산"
+ },
+ {
+  "terminalId": "NAI5714001",
+  "cityName": "전라남도",
+  "terminalNm": "강운리"
+ },
+ {
+  "terminalId": "NAI5714002",
+  "cityName": "전라남도",
+  "terminalNm": "홍지"
+ },
+ {
+  "terminalId": "NAI5714501",
+  "cityName": "전라남도",
+  "terminalNm": "향교"
+ },
+ {
+  "terminalId": "NAI5715202",
+  "cityName": "전라남도",
+  "terminalNm": "용수"
  },
  {
   "terminalId": "NAI5715301",
@@ -1445,9 +4100,604 @@
   "terminalNm": "함평"
  },
  {
+  "terminalId": "NAI5715303",
+  "cityName": "전라남도",
+  "terminalNm": "인동리(동강)"
+ },
+ {
+  "terminalId": "NAI5715305",
+  "cityName": "전라남도",
+  "terminalNm": "장동(동강)"
+ },
+ {
+  "terminalId": "NAI5715306",
+  "cityName": "전라남도",
+  "terminalNm": "옷밭골"
+ },
+ {
+  "terminalId": "NAI5715309",
+  "cityName": "전라남도",
+  "terminalNm": "동암"
+ },
+ {
+  "terminalId": "NAI5715317",
+  "cityName": "전라남도",
+  "terminalNm": "괴치"
+ },
+ {
+  "terminalId": "NAI5715319",
+  "cityName": "전라남도",
+  "terminalNm": "월천리"
+ },
+ {
+  "terminalId": "NAI5715322",
+  "cityName": "전라남도",
+  "terminalNm": "양재리"
+ },
+ {
+  "terminalId": "NAI5715325",
+  "cityName": "전라남도",
+  "terminalNm": "금곡(전남)"
+ },
+ {
+  "terminalId": "NAI5715328",
+  "cityName": "전라남도",
+  "terminalNm": "지사리.백련"
+ },
+ {
+  "terminalId": "NAI5715329",
+  "cityName": "전라남도",
+  "terminalNm": "마치"
+ },
+ {
+  "terminalId": "NAI5715332",
+  "cityName": "전라남도",
+  "terminalNm": "일공구.동정"
+ },
+ {
+  "terminalId": "NAI5715336",
+  "cityName": "전라남도",
+  "terminalNm": "광암리.운암"
+ },
+ {
+  "terminalId": "NAI5715337",
+  "cityName": "전라남도",
+  "terminalNm": "농장"
+ },
+ {
+  "terminalId": "NAI5715338",
+  "cityName": "전라남도",
+  "terminalNm": "월평(전남)"
+ },
+ {
+  "terminalId": "NAI5715339",
+  "cityName": "전라남도",
+  "terminalNm": "월봉(나산)"
+ },
+ {
+  "terminalId": "NAI5715340",
+  "cityName": "전라남도",
+  "terminalNm": "원선"
+ },
+ {
+  "terminalId": "NAI5715341",
+  "cityName": "전라남도",
+  "terminalNm": "나산고"
+ },
+ {
+  "terminalId": "NAI5715342",
+  "cityName": "전라남도",
+  "terminalNm": "교촌.석계"
+ },
+ {
+  "terminalId": "NAI5715349",
+  "cityName": "전라남도",
+  "terminalNm": "대포리회화정"
+ },
+ {
+  "terminalId": "NAI5715350",
+  "cityName": "전라남도",
+  "terminalNm": "광동(전남)"
+ },
+ {
+  "terminalId": "NAI5715352",
+  "cityName": "전라남도",
+  "terminalNm": "운암(전남)"
+ },
+ {
+  "terminalId": "NAI5715353",
+  "cityName": "전라남도",
+  "terminalNm": "하금(전남)"
+ },
+ {
+  "terminalId": "NAI5715357",
+  "cityName": "전라남도",
+  "terminalNm": "노인정(전남)"
+ },
+ {
+  "terminalId": "NAI5715358",
+  "cityName": "전라남도",
+  "terminalNm": "교회입구(전남)"
+ },
+ {
+  "terminalId": "NAI5715359",
+  "cityName": "전라남도",
+  "terminalNm": "가인정"
+ },
+ {
+  "terminalId": "NAI5715360",
+  "cityName": "전라남도",
+  "terminalNm": "원골"
+ },
+ {
+  "terminalId": "NAI5715362",
+  "cityName": "전라남도",
+  "terminalNm": "계월"
+ },
+ {
+  "terminalId": "NAI5715367",
+  "cityName": "전라남도",
+  "terminalNm": "영흥리"
+ },
+ {
+  "terminalId": "NAI5715371",
+  "cityName": "전라남도",
+  "terminalNm": "구봉"
+ },
+ {
+  "terminalId": "NAI5715372",
+  "cityName": "전라남도",
+  "terminalNm": "각궁"
+ },
+ {
+  "terminalId": "NAI5715373",
+  "cityName": "전라남도",
+  "terminalNm": "염산"
+ },
+ {
+  "terminalId": "NAI5715382",
+  "cityName": "경상북도",
+  "terminalNm": "도덕삼거리"
+ },
+ {
+  "terminalId": "NAI5715384",
+  "cityName": "광주광역시",
+  "terminalNm": "효정병원"
+ },
+ {
+  "terminalId": "NAI5715385",
+  "cityName": "전라남도",
+  "terminalNm": "조정(영광)"
+ },
+ {
+  "terminalId": "NAI5715386",
+  "cityName": "전라남도",
+  "terminalNm": "외치"
+ },
+ {
+  "terminalId": "NAI5715388",
+  "cityName": "전라남도",
+  "terminalNm": "양동"
+ },
+ {
+  "terminalId": "NAI5715391",
+  "cityName": "전라남도",
+  "terminalNm": "용두(전남)"
+ },
+ {
+  "terminalId": "NAI5715392",
+  "cityName": "전라남도",
+  "terminalNm": "이문리"
+ },
+ {
+  "terminalId": "NAI5715398",
+  "cityName": "전라남도",
+  "terminalNm": "대창.창서"
+ },
+ {
+  "terminalId": "NAI5715404",
+  "cityName": "전라남도",
+  "terminalNm": "고막원"
+ },
+ {
+  "terminalId": "NAI5715405",
+  "cityName": "전라남도",
+  "terminalNm": "백야(전남)"
+ },
+ {
+  "terminalId": "NAI5715406",
+  "cityName": "전라남도",
+  "terminalNm": "어름재"
+ },
+ {
+  "terminalId": "NAI5715407",
+  "cityName": "전라남도",
+  "terminalNm": "향동"
+ },
+ {
+  "terminalId": "NAI5715408",
+  "cityName": "전라남도",
+  "terminalNm": "월호리"
+ },
+ {
+  "terminalId": "NAI5715409",
+  "cityName": "전라남도",
+  "terminalNm": "원석정"
+ },
+ {
+  "terminalId": "NAI5715410",
+  "cityName": "전라남도",
+  "terminalNm": "석정리"
+ },
+ {
+  "terminalId": "NAI5715413",
+  "cityName": "전라남도",
+  "terminalNm": "반송.폐교앞"
+ },
+ {
+  "terminalId": "NAI5715414",
+  "cityName": "전라남도",
+  "terminalNm": "운산.영지"
+ },
+ {
+  "terminalId": "NAI5715415",
+  "cityName": "전라남도",
+  "terminalNm": "장동"
+ },
+ {
+  "terminalId": "NAI5715416",
+  "cityName": "전라남도",
+  "terminalNm": "동강삼거리"
+ },
+ {
+  "terminalId": "NAI5715417",
+  "cityName": "전라남도",
+  "terminalNm": "용천사(전남)"
+ },
+ {
+  "terminalId": "NAI5715419",
+  "cityName": "전라남도",
+  "terminalNm": "교감.감남"
+ },
+ {
+  "terminalId": "NAI5715425",
+  "cityName": "전라남도",
+  "terminalNm": "초등"
+ },
+ {
+  "terminalId": "NAI5715429",
+  "cityName": "전라남도",
+  "terminalNm": "대곡(전남)"
+ },
+ {
+  "terminalId": "NAI5715431",
+  "cityName": "전라남도",
+  "terminalNm": "중천포"
+ },
+ {
+  "terminalId": "NAI5715432",
+  "cityName": "전라남도",
+  "terminalNm": "내세"
+ },
+ {
+  "terminalId": "NAI5715433",
+  "cityName": "전라남도",
+  "terminalNm": "덕령.양지"
+ },
+ {
+  "terminalId": "NAI5715437",
+  "cityName": "전라남도",
+  "terminalNm": "대곡-화순"
+ },
+ {
+  "terminalId": "NAI5715451",
+  "cityName": "전라남도",
+  "terminalNm": "연봉"
+ },
+ {
+  "terminalId": "NAI5715454",
+  "cityName": "전라남도",
+  "terminalNm": "동강교"
+ },
+ {
+  "terminalId": "NAI5715455",
+  "cityName": "전라남도",
+  "terminalNm": "장동삼거리"
+ },
+ {
+  "terminalId": "NAI5715457",
+  "cityName": "전라남도",
+  "terminalNm": "방우동"
+ },
+ {
+  "terminalId": "NAI5715459",
+  "cityName": "전라남도",
+  "terminalNm": "정자동"
+ },
+ {
+  "terminalId": "NAI5715462",
+  "cityName": "전라남도",
+  "terminalNm": "장파"
+ },
+ {
+  "terminalId": "NAI5715463",
+  "cityName": "광주광역시",
+  "terminalNm": "중방"
+ },
+ {
+  "terminalId": "NAI5715465",
+  "cityName": "광주광역시",
+  "terminalNm": "금복중학교"
+ },
+ {
+  "terminalId": "NAI5715468",
+  "cityName": "전라남도",
+  "terminalNm": "하귀"
+ },
+ {
+  "terminalId": "NAI5715471",
+  "cityName": "전라남도",
+  "terminalNm": "장전"
+ },
+ {
+  "terminalId": "NAI5715472",
+  "cityName": "전라남도",
+  "terminalNm": "해창"
+ },
+ {
+  "terminalId": "NAI5715477",
+  "cityName": "전라남도",
+  "terminalNm": "월현"
+ },
+ {
+  "terminalId": "NAI5715480",
+  "cityName": "전라남도",
+  "terminalNm": "건무리"
+ },
+ {
+  "terminalId": "NAI5715481",
+  "cityName": "전라남도",
+  "terminalNm": "보전"
+ },
+ {
+  "terminalId": "NAI5715482",
+  "cityName": "전라남도",
+  "terminalNm": "내동(복철리)"
+ },
+ {
+  "terminalId": "NAI5715483",
+  "cityName": "전라남도",
+  "terminalNm": "수문"
+ },
+ {
+  "terminalId": "NAI5715486",
+  "cityName": "전라남도",
+  "terminalNm": "건지"
+ },
+ {
+  "terminalId": "NAI5715493",
+  "cityName": "전라남도",
+  "terminalNm": "대성동"
+ },
+ {
+  "terminalId": "NAI5715495",
+  "cityName": "전라남도",
+  "terminalNm": "광진(석정)"
+ },
+ {
+  "terminalId": "NAI5715499",
+  "cityName": "전라남도",
+  "terminalNm": "두동"
+ },
+ {
+  "terminalId": "NAI5716201",
+  "cityName": "전라남도",
+  "terminalNm": "함사거리"
+ },
+ {
   "terminalId": "NAI5720101",
   "cityName": "전라남도",
   "terminalNm": "장성사거리"
+ },
+ {
+  "terminalId": "NAI5720103",
+  "cityName": "전라남도",
+  "terminalNm": "명치"
+ },
+ {
+  "terminalId": "NAI5720105",
+  "cityName": "전라남도",
+  "terminalNm": "장성댐"
+ },
+ {
+  "terminalId": "NAI5720201",
+  "cityName": "전라남도",
+  "terminalNm": "율정"
+ },
+ {
+  "terminalId": "NAI5720501",
+  "cityName": "전라남도",
+  "terminalNm": "장성 백양사"
+ },
+ {
+  "terminalId": "NAI5720502",
+  "cityName": "전라북도",
+  "terminalNm": "정읍 내장사"
+ },
+ {
+  "terminalId": "NAI5720503",
+  "cityName": "전라남도",
+  "terminalNm": "약수리"
+ },
+ {
+  "terminalId": "NAI5720601",
+  "cityName": "전라남도",
+  "terminalNm": "궐전"
+ },
+ {
+  "terminalId": "NAI5720602",
+  "cityName": "전라남도",
+  "terminalNm": "강선동"
+ },
+ {
+  "terminalId": "NAI5720701",
+  "cityName": "전라남도",
+  "terminalNm": "대흥리"
+ },
+ {
+  "terminalId": "NAI5720702",
+  "cityName": "전라남도",
+  "terminalNm": "대흥"
+ },
+ {
+  "terminalId": "NAI5720801",
+  "cityName": "전라남도",
+  "terminalNm": "단전"
+ },
+ {
+  "terminalId": "NAI5720802",
+  "cityName": "전라남도",
+  "terminalNm": "풍기"
+ },
+ {
+  "terminalId": "NAI5720803",
+  "cityName": "전라남도",
+  "terminalNm": "대악"
+ },
+ {
+  "terminalId": "NAI5720804",
+  "cityName": "전라남도",
+  "terminalNm": "월성입구"
+ },
+ {
+  "terminalId": "NAI5721001",
+  "cityName": "전라남도",
+  "terminalNm": "우지"
+ },
+ {
+  "terminalId": "NAI5721601",
+  "cityName": "전라남도",
+  "terminalNm": "구산,연동"
+ },
+ {
+  "terminalId": "NAI5721801",
+  "cityName": "전라남도",
+  "terminalNm": "대창1구"
+ },
+ {
+  "terminalId": "NAI5721901",
+  "cityName": "전라남도",
+  "terminalNm": "장성"
+ },
+ {
+  "terminalId": "NAI5722802",
+  "cityName": "전라남도",
+  "terminalNm": "황룡교"
+ },
+ {
+  "terminalId": "NAI5723001",
+  "cityName": "전라남도",
+  "terminalNm": "오산(장성)"
+ },
+ {
+  "terminalId": "NAI5723002",
+  "cityName": "전라남도",
+  "terminalNm": "교촌"
+ },
+ {
+  "terminalId": "NAI5723003",
+  "cityName": "전라남도",
+  "terminalNm": "신흥(장성)"
+ },
+ {
+  "terminalId": "NAI5723301",
+  "cityName": "전라남도",
+  "terminalNm": "생촌"
+ },
+ {
+  "terminalId": "NAI5723801",
+  "cityName": "전라남도",
+  "terminalNm": "사창"
+ },
+ {
+  "terminalId": "NAI5723802",
+  "cityName": "전라남도",
+  "terminalNm": "상무아파트"
+ },
+ {
+  "terminalId": "NAI5725201",
+  "cityName": "전라남도",
+  "terminalNm": "상무대"
+ },
+ {
+  "terminalId": "NAI5725301",
+  "cityName": "전라남도",
+  "terminalNm": "옥동(장성)"
+ },
+ {
+  "terminalId": "NAI5725601",
+  "cityName": "전라남도",
+  "terminalNm": "삼서"
+ },
+ {
+  "terminalId": "NAI5730001",
+  "cityName": "전라남도",
+  "terminalNm": "가마골"
+ },
+ {
+  "terminalId": "NAI5730002",
+  "cityName": "전남",
+  "terminalNm": "용동"
+ },
+ {
+  "terminalId": "NAI5730003",
+  "cityName": "전남",
+  "terminalNm": "용치(담양군)"
+ },
+ {
+  "terminalId": "NAI5730101",
+  "cityName": "전라남도",
+  "terminalNm": "금성"
+ },
+ {
+  "terminalId": "NAI5730201",
+  "cityName": "전라남도",
+  "terminalNm": "추월산"
+ },
+ {
+  "terminalId": "NAI5731401",
+  "cityName": "전라남도",
+  "terminalNm": "월산"
+ },
+ {
+  "terminalId": "NAI5731601",
+  "cityName": "전라남도",
+  "terminalNm": "주평"
+ },
+ {
+  "terminalId": "NAI5731901",
+  "cityName": "전라남도",
+  "terminalNm": "수북"
+ },
+ {
+  "terminalId": "NAI5732001",
+  "cityName": "전라남도",
+  "terminalNm": "행정"
+ },
+ {
+  "terminalId": "NAI5732601",
+  "cityName": "전라남도",
+  "terminalNm": "대전면"
+ },
+ {
+  "terminalId": "NAI5732602",
+  "cityName": "전라남도",
+  "terminalNm": "대전"
+ },
+ {
+  "terminalId": "NAI5734301",
+  "cityName": "전라남도",
+  "terminalNm": "담주리"
  },
  {
   "terminalId": "NAI5734401",
@@ -1460,6 +4710,86 @@
   "terminalNm": "옥과"
  },
  {
+  "terminalId": "NAI5750501",
+  "cityName": "전라남도",
+  "terminalNm": "군내기본"
+ },
+ {
+  "terminalId": "NAI5750801",
+  "cityName": "전라남도",
+  "terminalNm": "수리"
+ },
+ {
+  "terminalId": "NAI5751001",
+  "cityName": "전라남도",
+  "terminalNm": "창정"
+ },
+ {
+  "terminalId": "NAI5751101",
+  "cityName": "전라남도",
+  "terminalNm": "서봉"
+ },
+ {
+  "terminalId": "NAI5751201",
+  "cityName": "전라남도",
+  "terminalNm": "입면"
+ },
+ {
+  "terminalId": "NAI5751302",
+  "cityName": "전라남도",
+  "terminalNm": "약천"
+ },
+ {
+  "terminalId": "NAI5751404",
+  "cityName": "전라남도",
+  "terminalNm": "농공단지"
+ },
+ {
+  "terminalId": "NAI5751801",
+  "cityName": "전라남도",
+  "terminalNm": "오산(곡성군)"
+ },
+ {
+  "terminalId": "NAI5754201",
+  "cityName": "전라남도",
+  "terminalNm": "곡성"
+ },
+ {
+  "terminalId": "NAI5754901",
+  "cityName": "전라남도",
+  "terminalNm": "죽곡(전남)"
+ },
+ {
+  "terminalId": "NAI5754902",
+  "cityName": "전라남도",
+  "terminalNm": "연화"
+ },
+ {
+  "terminalId": "NAI5755201",
+  "cityName": "전라남도",
+  "terminalNm": "목사동"
+ },
+ {
+  "terminalId": "NAI5755701",
+  "cityName": "전라남도",
+  "terminalNm": "덕흥(덕양)"
+ },
+ {
+  "terminalId": "NAI5755901",
+  "cityName": "전라남도",
+  "terminalNm": "석곡"
+ },
+ {
+  "terminalId": "NAI5760101",
+  "cityName": "전라남도",
+  "terminalNm": "탑동"
+ },
+ {
+  "terminalId": "NAI5760401",
+  "cityName": "전라남도",
+  "terminalNm": "중동"
+ },
+ {
   "terminalId": "NAI5760601",
   "cityName": "전라남도",
   "terminalNm": "노고단(성삼재)"
@@ -1470,9 +4800,69 @@
   "terminalNm": "화엄사"
  },
  {
+  "terminalId": "NAI5762401",
+  "cityName": "전라남도",
+  "terminalNm": "섬진강(상행)"
+ },
+ {
+  "terminalId": "NAI5763901",
+  "cityName": "전라남도",
+  "terminalNm": "봉동"
+ },
+ {
   "terminalId": "NAI5765401",
   "cityName": "전라남도",
   "terminalNm": "구례"
+ },
+ {
+  "terminalId": "NAI5768001",
+  "cityName": "전라북도",
+  "terminalNm": "사자탑매표소"
+ },
+ {
+  "terminalId": "NAI5770801",
+  "cityName": "전라남도",
+  "terminalNm": "섬진강"
+ },
+ {
+  "terminalId": "NAI5770802",
+  "cityName": "전라남도",
+  "terminalNm": "섬진강휴계소"
+ },
+ {
+  "terminalId": "NAI5770901",
+  "cityName": "전라남도",
+  "terminalNm": "다사"
+ },
+ {
+  "terminalId": "NAI5770902",
+  "cityName": "전남",
+  "terminalNm": "매화축제장(다압)"
+ },
+ {
+  "terminalId": "NAI5771201",
+  "cityName": "전라남도",
+  "terminalNm": "섬진강(하행)"
+ },
+ {
+  "terminalId": "NAI5771401",
+  "cityName": "전라남도",
+  "terminalNm": "신금"
+ },
+ {
+  "terminalId": "NAI5772001",
+  "cityName": "전라남도",
+  "terminalNm": "광영"
+ },
+ {
+  "terminalId": "NAI5772401",
+  "cityName": "전라남도",
+  "terminalNm": "도촌"
+ },
+ {
+  "terminalId": "NAI5772402",
+  "cityName": "전라남도",
+  "terminalNm": "도촌2"
  },
  {
   "terminalId": "NAI5775801",
@@ -1480,9 +4870,44 @@
   "terminalNm": "광양"
  },
  {
+  "terminalId": "NAI5776601",
+  "cityName": "전라남도",
+  "terminalNm": "중군동"
+ },
+ {
+  "terminalId": "NAI5778101",
+  "cityName": "전라남도",
+  "terminalNm": "성황"
+ },
+ {
   "terminalId": "NAI5778701",
   "cityName": "전라남도",
   "terminalNm": "동광양(중마)"
+ },
+ {
+  "terminalId": "NAI5778702",
+  "cityName": "전라남도",
+  "terminalNm": "중마동"
+ },
+ {
+  "terminalId": "NAI5780301",
+  "cityName": "전라남도",
+  "terminalNm": "태인교"
+ },
+ {
+  "terminalId": "NAI5781401",
+  "cityName": "전라남도",
+  "terminalNm": "태인도"
+ },
+ {
+  "terminalId": "NAI5790101",
+  "cityName": "전라남도",
+  "terminalNm": "죽동"
+ },
+ {
+  "terminalId": "NAI5790201",
+  "cityName": "전라남도",
+  "terminalNm": "괴목"
  },
  {
   "terminalId": "NAI5791001",
@@ -1490,9 +4915,24 @@
   "terminalNm": "광천(전남)"
  },
  {
+  "terminalId": "NAI5791101",
+  "cityName": "전라남도",
+  "terminalNm": "창촌"
+ },
+ {
   "terminalId": "NAI5791301",
   "cityName": "전라남도",
   "terminalNm": "송광사"
+ },
+ {
+  "terminalId": "NAI5791401",
+  "cityName": "전라남도",
+  "terminalNm": "곡천"
+ },
+ {
+  "terminalId": "NAI5792201",
+  "cityName": "전라남도",
+  "terminalNm": "순천대학교"
  },
  {
   "terminalId": "NAI5794001",
@@ -1500,9 +4940,109 @@
   "terminalNm": "순천북부"
  },
  {
+  "terminalId": "NAI5794002",
+  "cityName": "전라남도",
+  "terminalNm": "순천북부(하행)"
+ },
+ {
   "terminalId": "NAI5796001",
   "cityName": "전라남도",
   "terminalNm": "순천"
+ },
+ {
+  "terminalId": "NAI5796201",
+  "cityName": "전라남도",
+  "terminalNm": "순천역"
+ },
+ {
+  "terminalId": "NAI5796401",
+  "cityName": "전라남도",
+  "terminalNm": "순천역(상행)"
+ },
+ {
+  "terminalId": "NAI5800001",
+  "cityName": "전라남도",
+  "terminalNm": "순천만박람회"
+ },
+ {
+  "terminalId": "NAI5801101",
+  "cityName": "전라남도",
+  "terminalNm": "순천신대지구(CGV)"
+ },
+ {
+  "terminalId": "NAI5802601",
+  "cityName": "전라남도",
+  "terminalNm": "순천만정원박람회장"
+ },
+ {
+  "terminalId": "NAI5802701",
+  "cityName": "전라남도",
+  "terminalNm": "순천만갈대밭"
+ },
+ {
+  "terminalId": "NAI5810001",
+  "cityName": "전라남도",
+  "terminalNm": "원리"
+ },
+ {
+  "terminalId": "NAI5810002",
+  "cityName": "전라남도",
+  "terminalNm": "오산(전남 화순)"
+ },
+ {
+  "terminalId": "NAI5810005",
+  "cityName": "전라남도",
+  "terminalNm": "원리(화순)"
+ },
+ {
+  "terminalId": "NAI5810009",
+  "cityName": "전라남도",
+  "terminalNm": "평지(화순)"
+ },
+ {
+  "terminalId": "NAI5810101",
+  "cityName": "전라남도",
+  "terminalNm": "노치"
+ },
+ {
+  "terminalId": "NAI5810102",
+  "cityName": "전라남도",
+  "terminalNm": "수리"
+ },
+ {
+  "terminalId": "NAI5810103",
+  "cityName": "전라남도",
+  "terminalNm": "북면(전남 화순)"
+ },
+ {
+  "terminalId": "NAI5810104",
+  "cityName": "전라남도",
+  "terminalNm": "이천(화순)"
+ },
+ {
+  "terminalId": "NAI5810105",
+  "cityName": "전라남도",
+  "terminalNm": "용반"
+ },
+ {
+  "terminalId": "NAI5810106",
+  "cityName": "전라남도",
+  "terminalNm": "옥리"
+ },
+ {
+  "terminalId": "NAI5810301",
+  "cityName": "전라남도",
+  "terminalNm": "분교"
+ },
+ {
+  "terminalId": "NAI5811501",
+  "cityName": "경상남도",
+  "terminalNm": "용곡"
+ },
+ {
+  "terminalId": "NAI5811502",
+  "cityName": "전라남도",
+  "terminalNm": "용곡2"
  },
  {
   "terminalId": "NAI5812001",
@@ -1510,9 +5050,339 @@
   "terminalNm": "화순"
  },
  {
+  "terminalId": "NAI5812002",
+  "cityName": "전라남도",
+  "terminalNm": "화순금호직행"
+ },
+ {
+  "terminalId": "NAI5812601",
+  "cityName": "전라남도",
+  "terminalNm": "화순전남대병원"
+ },
+ {
+  "terminalId": "NAI5813101",
+  "cityName": "전라남도",
+  "terminalNm": "복암"
+ },
+ {
+  "terminalId": "NAI5814701",
+  "cityName": "전라남도",
+  "terminalNm": "우봉"
+ },
+ {
+  "terminalId": "NAI5814707",
+  "cityName": "전라남도",
+  "terminalNm": "도산-화순"
+ },
+ {
+  "terminalId": "NAI5814708",
+  "cityName": "광주광역시",
+  "terminalNm": "도산-광주"
+ },
+ {
+  "terminalId": "NAI5815101",
+  "cityName": "전라남도",
+  "terminalNm": "호동"
+ },
+ {
   "terminalId": "NAI5815301",
   "cityName": "전라남도",
   "terminalNm": "능주"
+ },
+ {
+  "terminalId": "NAI5815402",
+  "cityName": "전라남도",
+  "terminalNm": "벽지리"
+ },
+ {
+  "terminalId": "NAI5815403",
+  "cityName": "전라남도",
+  "terminalNm": "벽지"
+ },
+ {
+  "terminalId": "NAI5815407",
+  "cityName": "전라남도",
+  "terminalNm": "도곡(화순)"
+ },
+ {
+  "terminalId": "NAI5815711",
+  "cityName": "전라남도",
+  "terminalNm": "대신리"
+ },
+ {
+  "terminalId": "NAI5815713",
+  "cityName": "전라남도",
+  "terminalNm": "회송1-화순"
+ },
+ {
+  "terminalId": "NAI5815714",
+  "cityName": "전라남도",
+  "terminalNm": "회송1-광주"
+ },
+ {
+  "terminalId": "NAI5815715",
+  "cityName": "전라남도",
+  "terminalNm": "회송2-화순"
+ },
+ {
+  "terminalId": "NAI5815716",
+  "cityName": "전라남도",
+  "terminalNm": "회송2-광주"
+ },
+ {
+  "terminalId": "NAI5815717",
+  "cityName": "전라남도",
+  "terminalNm": "양곡1-화순"
+ },
+ {
+  "terminalId": "NAI5815718",
+  "cityName": "광주광역시",
+  "terminalNm": "양곡1-광주"
+ },
+ {
+  "terminalId": "NAI5815719",
+  "cityName": "전라남도",
+  "terminalNm": "양곡2-화순"
+ },
+ {
+  "terminalId": "NAI5815729",
+  "cityName": "전라남도",
+  "terminalNm": "광대월-화순"
+ },
+ {
+  "terminalId": "NAI5815801",
+  "cityName": "전라남도",
+  "terminalNm": "도암(화순)"
+ },
+ {
+  "terminalId": "NAI5815802",
+  "cityName": "전라남도",
+  "terminalNm": "정천리"
+ },
+ {
+  "terminalId": "NAI5815803",
+  "cityName": "전라남도",
+  "terminalNm": "대초리"
+ },
+ {
+  "terminalId": "NAI5815804",
+  "cityName": "전라남도",
+  "terminalNm": "등광리"
+ },
+ {
+  "terminalId": "NAI5815805",
+  "cityName": "전라남도",
+  "terminalNm": "지월"
+ },
+ {
+  "terminalId": "NAI5815806",
+  "cityName": "전라남도",
+  "terminalNm": "중장터"
+ },
+ {
+  "terminalId": "NAI5815807",
+  "cityName": "전라남도",
+  "terminalNm": "운주"
+ },
+ {
+  "terminalId": "NAI5815808",
+  "cityName": "전라남도",
+  "terminalNm": "천태"
+ },
+ {
+  "terminalId": "NAI5815809",
+  "cityName": "전라남도",
+  "terminalNm": "운주사"
+ },
+ {
+  "terminalId": "NAI5815814",
+  "cityName": "전라남도",
+  "terminalNm": "도암-화순"
+ },
+ {
+  "terminalId": "NAI5815901",
+  "cityName": "전라남도",
+  "terminalNm": "춘양(전남)"
+ },
+ {
+  "terminalId": "NAI5816001",
+  "cityName": "전라남도",
+  "terminalNm": "호암"
+ },
+ {
+  "terminalId": "NAI5816002",
+  "cityName": "전라남도",
+  "terminalNm": "우치리"
+ },
+ {
+  "terminalId": "NAI5816003",
+  "cityName": "전라남도",
+  "terminalNm": "행산"
+ },
+ {
+  "terminalId": "NAI5816101",
+  "cityName": "전라남도",
+  "terminalNm": "세청"
+ },
+ {
+  "terminalId": "NAI5816102",
+  "cityName": "전라남도",
+  "terminalNm": "한지리"
+ },
+ {
+  "terminalId": "NAI5816103",
+  "cityName": "전라남도",
+  "terminalNm": "어리(화순)"
+ },
+ {
+  "terminalId": "NAI5816105",
+  "cityName": "전라남도",
+  "terminalNm": "어리한지화순"
+ },
+ {
+  "terminalId": "NAI5816201",
+  "cityName": "전라남도",
+  "terminalNm": "청풍"
+ },
+ {
+  "terminalId": "NAI5816202",
+  "cityName": "전라남도",
+  "terminalNm": "대비리"
+ },
+ {
+  "terminalId": "NAI5816203",
+  "cityName": "전라남도",
+  "terminalNm": "백운(화순)"
+ },
+ {
+  "terminalId": "NAI5816204",
+  "cityName": "전라남도",
+  "terminalNm": "신석"
+ },
+ {
+  "terminalId": "NAI5816205",
+  "cityName": "전라남도",
+  "terminalNm": "곰치"
+ },
+ {
+  "terminalId": "NAI5816211",
+  "cityName": "전라남도",
+  "terminalNm": "곰치-화순"
+ },
+ {
+  "terminalId": "NAI5816301",
+  "cityName": "전라남도",
+  "terminalNm": "도림"
+ },
+ {
+  "terminalId": "NAI5816302",
+  "cityName": "전라남도",
+  "terminalNm": "초방"
+ },
+ {
+  "terminalId": "NAI5816401",
+  "cityName": "전라남도",
+  "terminalNm": "이양"
+ },
+ {
+  "terminalId": "NAI5816402",
+  "cityName": "전라남도",
+  "terminalNm": "금능"
+ },
+ {
+  "terminalId": "NAI5816403",
+  "cityName": "전라남도",
+  "terminalNm": "진등"
+ },
+ {
+  "terminalId": "NAI5816404",
+  "cityName": "전라남도",
+  "terminalNm": "강성리"
+ },
+ {
+  "terminalId": "NAI5816405",
+  "cityName": "전라남도",
+  "terminalNm": "묵곡"
+ },
+ {
+  "terminalId": "NAI5816406",
+  "cityName": "전라남도",
+  "terminalNm": "월봉(화순)"
+ },
+ {
+  "terminalId": "NAI5816407",
+  "cityName": "전라남도",
+  "terminalNm": "장치"
+ },
+ {
+  "terminalId": "NAI5816408",
+  "cityName": "전라남도",
+  "terminalNm": "이양금호직행"
+ },
+ {
+  "terminalId": "NAI5816409",
+  "cityName": "전라남도",
+  "terminalNm": "금능-화순"
+ },
+ {
+  "terminalId": "NAI5816410",
+  "cityName": "전라남도",
+  "terminalNm": "금능-광주"
+ },
+ {
+  "terminalId": "NAI5816501",
+  "cityName": "전라남도",
+  "terminalNm": "청영"
+ },
+ {
+  "terminalId": "NAI5816502",
+  "cityName": "전라남도",
+  "terminalNm": "품평리"
+ },
+ {
+  "terminalId": "NAI5816503",
+  "cityName": "전라남도",
+  "terminalNm": "오류리"
+ },
+ {
+  "terminalId": "NAI5816504",
+  "cityName": "전라남도",
+  "terminalNm": "율계"
+ },
+ {
+  "terminalId": "NAI5816505",
+  "cityName": "전라남도",
+  "terminalNm": "매정"
+ },
+ {
+  "terminalId": "NAI5816506",
+  "cityName": "전라남도",
+  "terminalNm": "상매정"
+ },
+ {
+  "terminalId": "NAI5816507",
+  "cityName": "전라남도",
+  "terminalNm": "쌍봉"
+ },
+ {
+  "terminalId": "NAI5816508",
+  "cityName": "전라남도",
+  "terminalNm": "쌍봉사"
+ },
+ {
+  "terminalId": "NAI5816509",
+  "cityName": "전라남도",
+  "terminalNm": "남덕"
+ },
+ {
+  "terminalId": "NAI5816510",
+  "cityName": "전라남도",
+  "terminalNm": "증리"
+ },
+ {
+  "terminalId": "NAI5816529",
+  "cityName": "전라남도",
+  "terminalNm": "노리목"
  },
  {
   "terminalId": "NAI5820301",
@@ -1520,9 +5390,24 @@
   "terminalNm": "다시"
  },
  {
+  "terminalId": "NAI5820303",
+  "cityName": "전라남도",
+  "terminalNm": "백동"
+ },
+ {
+  "terminalId": "NAI5820901",
+  "cityName": "전라남도",
+  "terminalNm": "금동(전남)"
+ },
+ {
   "terminalId": "NAI5821701",
   "cityName": "전라남도",
   "terminalNm": "나주혁신도시"
+ },
+ {
+  "terminalId": "NAI5822801",
+  "cityName": "전라남도",
+  "terminalNm": "녹원"
  },
  {
   "terminalId": "NAI5825501",
@@ -1530,9 +5415,379 @@
   "terminalNm": "나주"
  },
  {
+  "terminalId": "NAI5825513",
+  "cityName": "광주광역시",
+  "terminalNm": "평동"
+ },
+ {
+  "terminalId": "NAI5825516",
+  "cityName": "전라남도",
+  "terminalNm": "160번광주완행"
+ },
+ {
+  "terminalId": "NAI5826401",
+  "cityName": "전라남도",
+  "terminalNm": "영삼거리"
+ },
+ {
+  "terminalId": "NAI5827401",
+  "cityName": "전라남도",
+  "terminalNm": "영산포"
+ },
+ {
+  "terminalId": "NAI5829201",
+  "cityName": "전라남도",
+  "terminalNm": "옥동(나주)"
+ },
+ {
+  "terminalId": "NAI5829701",
+  "cityName": "전라남도",
+  "terminalNm": "왕곡입구"
+ },
+ {
+  "terminalId": "NAI5830301",
+  "cityName": "전라남도",
+  "terminalNm": "반남"
+ },
+ {
+  "terminalId": "NAI5830302",
+  "cityName": "전라남도",
+  "terminalNm": "월현"
+ },
+ {
+  "terminalId": "NAI5831501",
+  "cityName": "전라남도",
+  "terminalNm": "동창"
+ },
+ {
+  "terminalId": "NAI5831601",
+  "cityName": "전라남도",
+  "terminalNm": "군계"
+ },
+ {
+  "terminalId": "NAI5832001",
+  "cityName": "전라남도",
+  "terminalNm": "척동도동"
+ },
+ {
+  "terminalId": "NAI5840001",
+  "cityName": "전라남도",
+  "terminalNm": "박망동"
+ },
+ {
+  "terminalId": "NAI5840002",
+  "cityName": "전라남도",
+  "terminalNm": "학동(전남)"
+ },
+ {
+  "terminalId": "NAI5840004",
+  "cityName": "광주광역시",
+  "terminalNm": "남광주(학동)"
+ },
+ {
+  "terminalId": "NAI5840005",
+  "cityName": "전라남도",
+  "terminalNm": "광주(학동)"
+ },
+ {
+  "terminalId": "NAI5840006",
+  "cityName": "광주광역시",
+  "terminalNm": "광주학동"
+ },
+ {
+  "terminalId": "NAI5840008",
+  "cityName": "광주광역시",
+  "terminalNm": "첨단지구(광주)"
+ },
+ {
+  "terminalId": "NAI5840016",
+  "cityName": "광주광역시",
+  "terminalNm": "소태역2"
+ },
+ {
+  "terminalId": "NAI5840101",
+  "cityName": "전라남도",
+  "terminalNm": "신북(전남)"
+ },
+ {
+  "terminalId": "NAI5840102",
+  "cityName": "전라남도",
+  "terminalNm": "오장성"
+ },
+ {
+  "terminalId": "NAI5840103",
+  "cityName": "전라남도",
+  "terminalNm": "생강"
+ },
+ {
+  "terminalId": "NAI5840204",
+  "cityName": "전라남도",
+  "terminalNm": "행정"
+ },
+ {
+  "terminalId": "NAI5840401",
+  "cityName": "전라남도",
+  "terminalNm": "안노"
+ },
+ {
+  "terminalId": "NAI5840402",
+  "cityName": "전라남도",
+  "terminalNm": "석산"
+ },
+ {
+  "terminalId": "NAI5840501",
+  "cityName": "전라남도",
+  "terminalNm": "금정"
+ },
+ {
+  "terminalId": "NAI5840601",
+  "cityName": "경상북도",
+  "terminalNm": "도일"
+ },
+ {
+  "terminalId": "NAI5840602",
+  "cityName": "전라남도",
+  "terminalNm": "동산"
+ },
+ {
+  "terminalId": "NAI5840603",
+  "cityName": "전라남도",
+  "terminalNm": "봉황"
+ },
+ {
+  "terminalId": "NAI5840604",
+  "cityName": "전라남도",
+  "terminalNm": "입석"
+ },
+ {
+  "terminalId": "NAI5840801",
+  "cityName": "전라남도",
+  "terminalNm": "덕진(전남)"
+ },
+ {
+  "terminalId": "NAI5841002",
+  "cityName": "전라남도",
+  "terminalNm": "냉천"
+ },
+ {
+  "terminalId": "NAI5841101",
+  "cityName": "전라남도",
+  "terminalNm": "영암"
+ },
+ {
+  "terminalId": "NAI5841102",
+  "cityName": "전라남도",
+  "terminalNm": "영암군내"
+ },
+ {
+  "terminalId": "NAI5841103",
+  "cityName": "전라남도",
+  "terminalNm": "영암군구간"
+ },
+ {
+  "terminalId": "NAI5841301",
+  "cityName": "전라남도",
+  "terminalNm": "송평"
+ },
+ {
+  "terminalId": "NAI5841302",
+  "cityName": "전라남도",
+  "terminalNm": "평장"
+ },
+ {
+  "terminalId": "NAI5841303",
+  "cityName": "전라남도",
+  "terminalNm": "송계(전남)"
+ },
+ {
+  "terminalId": "NAI5842002",
+  "cityName": "전라남도",
+  "terminalNm": "기찬랜드"
+ },
+ {
+  "terminalId": "NAI5842003",
+  "cityName": "전라남도",
+  "terminalNm": "녹암군부대"
+ },
+ {
+  "terminalId": "NAI5842202",
+  "cityName": "전라남도",
+  "terminalNm": "장암"
+ },
+ {
+  "terminalId": "NAI5842301",
+  "cityName": "전라남도",
+  "terminalNm": "한대리"
+ },
+ {
+  "terminalId": "NAI5842302",
+  "cityName": "전라남도",
+  "terminalNm": "한대리2"
+ },
+ {
   "terminalId": "NAI5842701",
   "cityName": "전라남도",
   "terminalNm": "시종"
+ },
+ {
+  "terminalId": "NAI5842702",
+  "cityName": "전라남도",
+  "terminalNm": "종남"
+ },
+ {
+  "terminalId": "NAI5842705",
+  "cityName": "전라남도",
+  "terminalNm": "신흥(전남)"
+ },
+ {
+  "terminalId": "NAI5842706",
+  "cityName": "전라남도",
+  "terminalNm": "옥련"
+ },
+ {
+  "terminalId": "NAI5842707",
+  "cityName": "전라남도",
+  "terminalNm": "송산(전남)"
+ },
+ {
+  "terminalId": "NAI5842802",
+  "cityName": "전라남도",
+  "terminalNm": "신학1"
+ },
+ {
+  "terminalId": "NAI5842804",
+  "cityName": "전라남도",
+  "terminalNm": "신학3"
+ },
+ {
+  "terminalId": "NAI5843101",
+  "cityName": "전라남도",
+  "terminalNm": "장작골"
+ },
+ {
+  "terminalId": "NAI5843201",
+  "cityName": "전라남도",
+  "terminalNm": "오산"
+ },
+ {
+  "terminalId": "NAI5843306",
+  "cityName": "전라남도",
+  "terminalNm": "신기"
+ },
+ {
+  "terminalId": "NAI5843401",
+  "cityName": "전라남도",
+  "terminalNm": "삼호"
+ },
+ {
+  "terminalId": "NAI5843402",
+  "cityName": "전라남도",
+  "terminalNm": "구림(영암)"
+ },
+ {
+  "terminalId": "NAI5843406",
+  "cityName": "전라남도",
+  "terminalNm": "주암"
+ },
+ {
+  "terminalId": "NAI5843407",
+  "cityName": "전라남도",
+  "terminalNm": "양산(전남)"
+ },
+ {
+  "terminalId": "NAI5843409",
+  "cityName": "전라남도",
+  "terminalNm": "월곡"
+ },
+ {
+  "terminalId": "NAI5843410",
+  "cityName": "전라남도",
+  "terminalNm": "호동"
+ },
+ {
+  "terminalId": "NAI5843411",
+  "cityName": "전라남도",
+  "terminalNm": "동계"
+ },
+ {
+  "terminalId": "NAI5843414",
+  "cityName": "전라남도",
+  "terminalNm": "구림(전남)"
+ },
+ {
+  "terminalId": "NAI5843501",
+  "cityName": "전라남도",
+  "terminalNm": "태백(영암)"
+ },
+ {
+  "terminalId": "NAI5843502",
+  "cityName": "전라남도",
+  "terminalNm": "금강"
+ },
+ {
+  "terminalId": "NAI5843503",
+  "cityName": "전라남도",
+  "terminalNm": "황촌마을"
+ },
+ {
+  "terminalId": "NAI5843601",
+  "cityName": "전라남도",
+  "terminalNm": "성재리"
+ },
+ {
+  "terminalId": "NAI5843602",
+  "cityName": "전라남도",
+  "terminalNm": "무송동"
+ },
+ {
+  "terminalId": "NAI5843603",
+  "cityName": "전라남도",
+  "terminalNm": "남하"
+ },
+ {
+  "terminalId": "NAI5843704",
+  "cityName": "전라남도",
+  "terminalNm": "장천"
+ },
+ {
+  "terminalId": "NAI5843705",
+  "cityName": "전라남도",
+  "terminalNm": "영풍리"
+ },
+ {
+  "terminalId": "NAI5843706",
+  "cityName": "전라남도",
+  "terminalNm": "신풍(전남)"
+ },
+ {
+  "terminalId": "NAI5843707",
+  "cityName": "전라남도",
+  "terminalNm": "청용"
+ },
+ {
+  "terminalId": "NAI5843708",
+  "cityName": "전라남도",
+  "terminalNm": "신풍1반"
+ },
+ {
+  "terminalId": "NAI5843709",
+  "cityName": "전라남도",
+  "terminalNm": "신풍2반"
+ },
+ {
+  "terminalId": "NAI5843802",
+  "cityName": "전라남도",
+  "terminalNm": "신덕"
+ },
+ {
+  "terminalId": "NAI5843806",
+  "cityName": "전라남도",
+  "terminalNm": "대월리(학산면)"
+ },
+ {
+  "terminalId": "NAI5843807",
+  "cityName": "전라남도",
+  "terminalNm": "신덕.황죽"
  },
  {
   "terminalId": "NAI5843901",
@@ -1540,9 +5795,224 @@
   "terminalNm": "독천"
  },
  {
+  "terminalId": "NAI5843902",
+  "cityName": "전라남도",
+  "terminalNm": "학산(전남)"
+ },
+ {
+  "terminalId": "NAI5843903",
+  "cityName": "전라남도",
+  "terminalNm": "군내독천"
+ },
+ {
+  "terminalId": "NAI5844003",
+  "cityName": "전라남도",
+  "terminalNm": "지소(전남)"
+ },
+ {
+  "terminalId": "NAI5844004",
+  "cityName": "전라남도",
+  "terminalNm": "천애"
+ },
+ {
+  "terminalId": "NAI5844201",
+  "cityName": "전라남도",
+  "terminalNm": "묵동(전남)"
+ },
+ {
+  "terminalId": "NAI5844202",
+  "cityName": "전라남도",
+  "terminalNm": "성전군계"
+ },
+ {
+  "terminalId": "NAI5844301",
+  "cityName": "전라남도",
+  "terminalNm": "상사(전남)"
+ },
+ {
+  "terminalId": "NAI5844302",
+  "cityName": "전라남도",
+  "terminalNm": "초안"
+ },
+ {
+  "terminalId": "NAI5844303",
+  "cityName": "전라남도",
+  "terminalNm": "대초지"
+ },
+ {
+  "terminalId": "NAI5844501",
+  "cityName": "전라남도",
+  "terminalNm": "기동"
+ },
+ {
+  "terminalId": "NAI5844603",
+  "cityName": "전라남도",
+  "terminalNm": "한라APT"
+ },
+ {
+  "terminalId": "NAI5844605",
+  "cityName": "전라남도",
+  "terminalNm": "대촌"
+ },
+ {
+  "terminalId": "NAI5844701",
+  "cityName": "전라남도",
+  "terminalNm": "대불대"
+ },
+ {
+  "terminalId": "NAI5844702",
+  "cityName": "전라남도",
+  "terminalNm": "영산호"
+ },
+ {
+  "terminalId": "NAI5844703",
+  "cityName": "전라남도",
+  "terminalNm": "영산"
+ },
+ {
+  "terminalId": "NAI5844902",
+  "cityName": "전라남도",
+  "terminalNm": "신촌(전남)"
+ },
+ {
+  "terminalId": "NAI5844903",
+  "cityName": "전라남도",
+  "terminalNm": "교육원"
+ },
+ {
+  "terminalId": "NAI5844904",
+  "cityName": "전라남도",
+  "terminalNm": "아산(영암)"
+ },
+ {
+  "terminalId": "NAI5844905",
+  "cityName": "전라남도",
+  "terminalNm": "선창(영암)"
+ },
+ {
+  "terminalId": "NAI5844906",
+  "cityName": "전라남도",
+  "terminalNm": "신촌2"
+ },
+ {
+  "terminalId": "NAI5845001",
+  "cityName": "전라남도",
+  "terminalNm": "산음(영암)"
+ },
+ {
+  "terminalId": "NAI5845005",
+  "cityName": "전라남도",
+  "terminalNm": "용당(영암)"
+ },
+ {
+  "terminalId": "NAI5846101",
+  "cityName": "전라남도",
+  "terminalNm": "중촌(전남)"
+ },
+ {
+  "terminalId": "NAI5846102",
+  "cityName": "전라남도",
+  "terminalNm": "도움전"
+ },
+ {
+  "terminalId": "NAI5846103",
+  "cityName": "전라남도",
+  "terminalNm": "검길"
+ },
+ {
+  "terminalId": "NAI5846104",
+  "cityName": "전라남도",
+  "terminalNm": "난대(영암)"
+ },
+ {
+  "terminalId": "NAI5846105",
+  "cityName": "전라남도",
+  "terminalNm": "당두(영암)"
+ },
+ {
+  "terminalId": "NAI5846301",
+  "cityName": "전라남도",
+  "terminalNm": "엄포"
+ },
+ {
+  "terminalId": "NAI5846302",
+  "cityName": "전라남도",
+  "terminalNm": "가내항"
+ },
+ {
+  "terminalId": "NAI5846401",
+  "cityName": "전라남도",
+  "terminalNm": "금호아파트"
+ },
+ {
+  "terminalId": "NAI5846701",
+  "cityName": "전라남도",
+  "terminalNm": "서창"
+ },
+ {
+  "terminalId": "NAI5850201",
+  "cityName": "전라남도",
+  "terminalNm": "해제"
+ },
+ {
+  "terminalId": "NAI5850801",
+  "cityName": "전라남도",
+  "terminalNm": "양월"
+ },
+ {
+  "terminalId": "NAI5850901",
+  "cityName": "전라남도",
+  "terminalNm": "현경"
+ },
+ {
+  "terminalId": "NAI5850902",
+  "cityName": "전라남도",
+  "terminalNm": "현경(완)"
+ },
+ {
+  "terminalId": "NAI5851101",
+  "cityName": "전라남도",
+  "terminalNm": "송정리"
+ },
+ {
+  "terminalId": "NAI5851102",
+  "cityName": "광주광역시",
+  "terminalNm": "송정리(심야)"
+ },
+ {
   "terminalId": "NAI5852401",
   "cityName": "전라남도",
   "terminalNm": "무안"
+ },
+ {
+  "terminalId": "NAI5853301",
+  "cityName": "전라남도",
+  "terminalNm": "무안공항"
+ },
+ {
+  "terminalId": "NAI5853401",
+  "cityName": "전라남도",
+  "terminalNm": "망운"
+ },
+ {
+  "terminalId": "NAI5853402",
+  "cityName": "전라남도",
+  "terminalNm": "망운.천이문"
+ },
+ {
+  "terminalId": "NAI5853701",
+  "cityName": "전라남도",
+  "terminalNm": "운남"
+ },
+ {
+  "terminalId": "NAI5854801",
+  "cityName": "전라남도",
+  "terminalNm": "원구산"
+ },
+ {
+  "terminalId": "NAI5855301",
+  "cityName": "전라남도",
+  "terminalNm": "청계"
  },
  {
   "terminalId": "NAI5855401",
@@ -1550,9 +6020,34 @@
   "terminalNm": "목포대"
  },
  {
+  "terminalId": "NAI5856201",
+  "cityName": "전라남도",
+  "terminalNm": "도청앞"
+ },
+ {
+  "terminalId": "NAI5856401",
+  "cityName": "전라남도",
+  "terminalNm": "남악도청"
+ },
+ {
+  "terminalId": "NAI5856403",
+  "cityName": "전라남도",
+  "terminalNm": "남악교육청"
+ },
+ {
   "terminalId": "NAI5856701",
   "cityName": "전라남도",
   "terminalNm": "남악"
+ },
+ {
+  "terminalId": "NAI5857101",
+  "cityName": "전라남도",
+  "terminalNm": "회산"
+ },
+ {
+  "terminalId": "NAI5857501",
+  "cityName": "전라남도",
+  "terminalNm": "우시장"
  },
  {
   "terminalId": "NAI5864201",
@@ -1560,9 +6055,254 @@
   "terminalNm": "목포"
  },
  {
+  "terminalId": "NAI5864202",
+  "cityName": "전라남도",
+  "terminalNm": "군내목포"
+ },
+ {
+  "terminalId": "NAI5866301",
+  "cityName": "전라남도",
+  "terminalNm": "암동"
+ },
+ {
+  "terminalId": "NAI5867101",
+  "cityName": "전라남도",
+  "terminalNm": "남악법원"
+ },
+ {
+  "terminalId": "NAI5867501",
+  "cityName": "전라남도",
+  "terminalNm": "남악프라자"
+ },
+ {
+  "terminalId": "NAI5869501",
+  "cityName": "전라남도",
+  "terminalNm": "상동"
+ },
+ {
+  "terminalId": "NAI5872401",
+  "cityName": "전라남도",
+  "terminalNm": "남교"
+ },
+ {
+  "terminalId": "NAI5873001",
+  "cityName": "전라남도",
+  "terminalNm": "목포역"
+ },
+ {
+  "terminalId": "NAI5875401",
+  "cityName": "전라남도",
+  "terminalNm": "유동"
+ },
+ {
+  "terminalId": "NAI5880201",
+  "cityName": "전라남도",
+  "terminalNm": "임자(진리)"
+ },
+ {
   "terminalId": "NAI5880301",
   "cityName": "전라남도",
   "terminalNm": "임자(대광)"
+ },
+ {
+  "terminalId": "NAI5880701",
+  "cityName": "전라남도",
+  "terminalNm": "증동리"
+ },
+ {
+  "terminalId": "NAI5880702",
+  "cityName": "전라남도",
+  "terminalNm": "증도짱둥어다리"
+ },
+ {
+  "terminalId": "NAI5880703",
+  "cityName": "전라남도",
+  "terminalNm": "장고리"
+ },
+ {
+  "terminalId": "NAI5880704",
+  "cityName": "전라남도",
+  "terminalNm": "증도대교입구"
+ },
+ {
+  "terminalId": "NAI5880705",
+  "cityName": "전라남도",
+  "terminalNm": "우전해수욕장"
+ },
+ {
+  "terminalId": "NAI5880706",
+  "cityName": "전라남도",
+  "terminalNm": "증도"
+ },
+ {
+  "terminalId": "NAI5880707",
+  "cityName": "전라남도",
+  "terminalNm": "증동리"
+ },
+ {
+  "terminalId": "NAI5880801",
+  "cityName": "전라남도",
+  "terminalNm": "우전리(엘도라도)"
+ },
+ {
+  "terminalId": "NAI5880802",
+  "cityName": "전라남도",
+  "terminalNm": "우전리욕장"
+ },
+ {
+  "terminalId": "NAI5881201",
+  "cityName": "전라남도",
+  "terminalNm": "점암"
+ },
+ {
+  "terminalId": "NAI5881301",
+  "cityName": "전라남도",
+  "terminalNm": "지도"
+ },
+ {
+  "terminalId": "NAI5881501",
+  "cityName": "전라남도",
+  "terminalNm": "자동리"
+ },
+ {
+  "terminalId": "NAI5882201",
+  "cityName": "전라남도",
+  "terminalNm": "송공항"
+ },
+ {
+  "terminalId": "NAI5882601",
+  "cityName": "전라남도",
+  "terminalNm": "압해중앙면"
+ },
+ {
+  "terminalId": "NAI5882602",
+  "cityName": "전라남도",
+  "terminalNm": "약산"
+ },
+ {
+  "terminalId": "NAI5882701",
+  "cityName": "전라남도",
+  "terminalNm": "신안군청"
+ },
+ {
+  "terminalId": "NAI5883601",
+  "cityName": "전라남도",
+  "terminalNm": "암태"
+ },
+ {
+  "terminalId": "NAI5890001",
+  "cityName": "전라남도",
+  "terminalNm": "녹진"
+ },
+ {
+  "terminalId": "NAI5890002",
+  "cityName": "전라남도",
+  "terminalNm": "군녹진"
+ },
+ {
+  "terminalId": "NAI5890003",
+  "cityName": "전라남도",
+  "terminalNm": "죽전"
+ },
+ {
+  "terminalId": "NAI5890004",
+  "cityName": "전라남도",
+  "terminalNm": "나리"
+ },
+ {
+  "terminalId": "NAI5890005",
+  "cityName": "전라남도",
+  "terminalNm": "만금"
+ },
+ {
+  "terminalId": "NAI5890201",
+  "cityName": "전라남도",
+  "terminalNm": "둔전"
+ },
+ {
+  "terminalId": "NAI5890203",
+  "cityName": "전라남도",
+  "terminalNm": "안농"
+ },
+ {
+  "terminalId": "NAI5890602",
+  "cityName": "전라남도",
+  "terminalNm": "고군오류"
+ },
+ {
+  "terminalId": "NAI5890603",
+  "cityName": "전라남도",
+  "terminalNm": "내동"
+ },
+ {
+  "terminalId": "NAI5890604",
+  "cityName": "전라남도",
+  "terminalNm": "벽파"
+ },
+ {
+  "terminalId": "NAI5890605",
+  "cityName": "전라남도",
+  "terminalNm": "마산"
+ },
+ {
+  "terminalId": "NAI5890606",
+  "cityName": "전라남도",
+  "terminalNm": "고군연동"
+ },
+ {
+  "terminalId": "NAI5890607",
+  "cityName": "전라남도",
+  "terminalNm": "지산오류"
+ },
+ {
+  "terminalId": "NAI5890701",
+  "cityName": "전라남도",
+  "terminalNm": "지막"
+ },
+ {
+  "terminalId": "NAI5890703",
+  "cityName": "전라남도",
+  "terminalNm": "벌포"
+ },
+ {
+  "terminalId": "NAI5890704",
+  "cityName": "전라남도",
+  "terminalNm": "황조"
+ },
+ {
+  "terminalId": "NAI5890705",
+  "cityName": "경상남도",
+  "terminalNm": "원포"
+ },
+ {
+  "terminalId": "NAI5890706",
+  "cityName": "전라남도",
+  "terminalNm": "군포"
+ },
+ {
+  "terminalId": "NAI5890902",
+  "cityName": "전라남도",
+  "terminalNm": "군내신동"
+ },
+ {
+  "terminalId": "NAI5890903",
+  "cityName": "전라남도",
+  "terminalNm": "임회신동"
+ },
+ {
+  "terminalId": "NAI5890904",
+  "cityName": "전라남도",
+  "terminalNm": "신동"
+ },
+ {
+  "terminalId": "NAI5891002",
+  "cityName": "전라남도",
+  "terminalNm": "모사"
+ },
+ {
+  "terminalId": "NAI5891102",
+  "cityName": "전라남도",
+  "terminalNm": "가계"
  },
  {
   "terminalId": "NAI5892201",
@@ -1570,9 +6310,189 @@
   "terminalNm": "진도"
  },
  {
+  "terminalId": "NAI5892601",
+  "cityName": "전라남도",
+  "terminalNm": "동구"
+ },
+ {
+  "terminalId": "NAI5892801",
+  "cityName": "전라남도",
+  "terminalNm": "지도"
+ },
+ {
+  "terminalId": "NAI5892802",
+  "cityName": "전라남도",
+  "terminalNm": "왕원달"
+ },
+ {
+  "terminalId": "NAI5892803",
+  "cityName": "전라남도",
+  "terminalNm": "원달"
+ },
+ {
+  "terminalId": "NAI5893401",
+  "cityName": "전남",
+  "terminalNm": "남도전통미술관"
+ },
+ {
+  "terminalId": "NAI5893501",
+  "cityName": "전라남도",
+  "terminalNm": "의신송정"
+ },
+ {
+  "terminalId": "NAI5893502",
+  "cityName": "전라남도",
+  "terminalNm": "의신회동"
+ },
+ {
+  "terminalId": "NAI5893504",
+  "cityName": "전라남도",
+  "terminalNm": "가계회동"
+ },
+ {
+  "terminalId": "NAI5893505",
+  "cityName": "전라남도",
+  "terminalNm": "도목송정"
+ },
+ {
+  "terminalId": "NAI5893601",
+  "cityName": "전라남도",
+  "terminalNm": "초평"
+ },
+ {
+  "terminalId": "NAI5893602",
+  "cityName": "전라남도",
+  "terminalNm": "연주"
+ },
+ {
+  "terminalId": "NAI5893603",
+  "cityName": "전라남도",
+  "terminalNm": "초상"
+ },
+ {
+  "terminalId": "NAI5893604",
+  "cityName": "전라남도",
+  "terminalNm": "초사"
+ },
+ {
   "terminalId": "NAI5893607",
   "cityName": "전라남도",
   "terminalNm": "쏠비치 진도"
+ },
+ {
+  "terminalId": "NAI5893701",
+  "cityName": "전라남도",
+  "terminalNm": "도목"
+ },
+ {
+  "terminalId": "NAI5893702",
+  "cityName": "전라남도",
+  "terminalNm": "도항"
+ },
+ {
+  "terminalId": "NAI5893703",
+  "cityName": "전라남도",
+  "terminalNm": "도명"
+ },
+ {
+  "terminalId": "NAI5893801",
+  "cityName": "전라남도",
+  "terminalNm": "활곡"
+ },
+ {
+  "terminalId": "NAI5893901",
+  "cityName": "전라남도",
+  "terminalNm": "왕금갑"
+ },
+ {
+  "terminalId": "NAI5893902",
+  "cityName": "전라남도",
+  "terminalNm": "금갑"
+ },
+ {
+  "terminalId": "NAI5893903",
+  "cityName": "전라남도",
+  "terminalNm": "왕접도"
+ },
+ {
+  "terminalId": "NAI5893905",
+  "cityName": "전라남도",
+  "terminalNm": "접도"
+ },
+ {
+  "terminalId": "NAI5894201",
+  "cityName": "전라남도",
+  "terminalNm": "십일시"
+ },
+ {
+  "terminalId": "NAI5894202",
+  "cityName": "전라남도",
+  "terminalNm": "구분실"
+ },
+ {
+  "terminalId": "NAI5894203",
+  "cityName": "전라남도",
+  "terminalNm": "임회송정"
+ },
+ {
+  "terminalId": "NAI5894401",
+  "cityName": "전라남도",
+  "terminalNm": "귀성"
+ },
+ {
+  "terminalId": "NAI5894402",
+  "cityName": "전라남도",
+  "terminalNm": "탑립"
+ },
+ {
+  "terminalId": "NAI5894403",
+  "cityName": "전라남도",
+  "terminalNm": "죽림"
+ },
+ {
+  "terminalId": "NAI5894404",
+  "cityName": "전라남도",
+  "terminalNm": "강계"
+ },
+ {
+  "terminalId": "NAI5894405",
+  "cityName": "전라남도",
+  "terminalNm": "헌복동"
+ },
+ {
+  "terminalId": "NAI5894406",
+  "cityName": "전라남도",
+  "terminalNm": "중만"
+ },
+ {
+  "terminalId": "NAI5894501",
+  "cityName": "전라남도",
+  "terminalNm": "굴포"
+ },
+ {
+  "terminalId": "NAI5894502",
+  "cityName": "전라남도",
+  "terminalNm": "남선"
+ },
+ {
+  "terminalId": "NAI5894503",
+  "cityName": "전라남도",
+  "terminalNm": "팽목"
+ },
+ {
+  "terminalId": "NAI5894504",
+  "cityName": "전라남도",
+  "terminalNm": "남동"
+ },
+ {
+  "terminalId": "NAI5894505",
+  "cityName": "전라남도",
+  "terminalNm": "팽목항"
+ },
+ {
+  "terminalId": "NAI5894506",
+  "cityName": "전라남도",
+  "terminalNm": "서망"
  },
  {
   "terminalId": "NAI5894507",
@@ -1580,9 +6500,709 @@
   "terminalNm": "진도항"
  },
  {
+  "terminalId": "NAI5894604",
+  "cityName": "전라남도",
+  "terminalNm": "거제"
+ },
+ {
+  "terminalId": "NAI5894605",
+  "cityName": "전라남도",
+  "terminalNm": "길은"
+ },
+ {
+  "terminalId": "NAI5894606",
+  "cityName": "전라남도",
+  "terminalNm": "소포"
+ },
+ {
+  "terminalId": "NAI5894607",
+  "cityName": "전라남도",
+  "terminalNm": "안치"
+ },
+ {
+  "terminalId": "NAI5894702",
+  "cityName": "전라남도",
+  "terminalNm": "앵무고야"
+ },
+ {
+  "terminalId": "NAI5894703",
+  "cityName": "전라남도",
+  "terminalNm": "고야"
+ },
+ {
+  "terminalId": "NAI5894802",
+  "cityName": "전라남도",
+  "terminalNm": "갈두"
+ },
+ {
+  "terminalId": "NAI5894901",
+  "cityName": "전라남도",
+  "terminalNm": "와우"
+ },
+ {
+  "terminalId": "NAI5894902",
+  "cityName": "전라남도",
+  "terminalNm": "금노"
+ },
+ {
+  "terminalId": "NAI5895002",
+  "cityName": "전라남도",
+  "terminalNm": "인지"
+ },
+ {
+  "terminalId": "NAI5895101",
+  "cityName": "전라남도",
+  "terminalNm": "관마"
+ },
+ {
+  "terminalId": "NAI5895102",
+  "cityName": "전라남도",
+  "terminalNm": "송호"
+ },
+ {
+  "terminalId": "NAI5895201",
+  "cityName": "전라남도",
+  "terminalNm": "가치"
+ },
+ {
+  "terminalId": "NAI5895202",
+  "cityName": "전라남도",
+  "terminalNm": "봉암"
+ },
+ {
+  "terminalId": "NAI5895203",
+  "cityName": "전라남도",
+  "terminalNm": "하봉암"
+ },
+ {
+  "terminalId": "NAI5900101",
+  "cityName": "전라남도",
+  "terminalNm": "구지(전남)"
+ },
+ {
+  "terminalId": "NAI5900102",
+  "cityName": "전라남도",
+  "terminalNm": "별암리(전남)"
+ },
+ {
+  "terminalId": "NAI5900103",
+  "cityName": "전라남도",
+  "terminalNm": "용암리(전남)"
+ },
+ {
+  "terminalId": "NAI5900201",
+  "cityName": "전라남도",
+  "terminalNm": "화원"
+ },
+ {
+  "terminalId": "NAI5900302",
+  "cityName": "전라남도",
+  "terminalNm": "무고"
+ },
+ {
+  "terminalId": "NAI5900303",
+  "cityName": "전라남도",
+  "terminalNm": "갈우리"
+ },
+ {
+  "terminalId": "NAI5900401",
+  "cityName": "전라남도",
+  "terminalNm": "우수영"
+ },
+ {
+  "terminalId": "NAI5900402",
+  "cityName": "전라남도",
+  "terminalNm": "우수영(군내)"
+ },
+ {
+  "terminalId": "NAI5900501",
+  "cityName": "전라남도",
+  "terminalNm": "원문"
+ },
+ {
+  "terminalId": "NAI5900601",
+  "cityName": "전라남도",
+  "terminalNm": "옥동(전남)"
+ },
+ {
+  "terminalId": "NAI5900602",
+  "cityName": "전라남도",
+  "terminalNm": "옥동-화순"
+ },
+ {
+  "terminalId": "NAI5900603",
+  "cityName": "전라남도",
+  "terminalNm": "옥동-광주"
+ },
+ {
+  "terminalId": "NAI5900604",
+  "cityName": "전라남도",
+  "terminalNm": "매부리"
+ },
+ {
+  "terminalId": "NAI5900605",
+  "cityName": "전라남도",
+  "terminalNm": "소정"
+ },
+ {
+  "terminalId": "NAI5900606",
+  "cityName": "전라남도",
+  "terminalNm": "군내옥동"
+ },
+ {
+  "terminalId": "NAI5900610",
+  "cityName": "전라남도",
+  "terminalNm": "송산(해남)"
+ },
+ {
+  "terminalId": "NAI5900701",
+  "cityName": "전라남도",
+  "terminalNm": "남리"
+ },
+ {
+  "terminalId": "NAI5900702",
+  "cityName": "전라남도",
+  "terminalNm": "군내남리"
+ },
+ {
+  "terminalId": "NAI5900705",
+  "cityName": "전라남도",
+  "terminalNm": "연당"
+ },
+ {
+  "terminalId": "NAI5900801",
+  "cityName": "전라남도",
+  "terminalNm": "황산송호"
+ },
+ {
+  "terminalId": "NAI5900802",
+  "cityName": "전라남도",
+  "terminalNm": "일신"
+ },
+ {
+  "terminalId": "NAI5900901",
+  "cityName": "전라남도",
+  "terminalNm": "한자리"
+ },
+ {
+  "terminalId": "NAI5901101",
+  "cityName": "전라남도",
+  "terminalNm": "대진리"
+ },
+ {
+  "terminalId": "NAI5901102",
+  "cityName": "전라남도",
+  "terminalNm": "초송"
+ },
+ {
+  "terminalId": "NAI5901200",
+  "cityName": "전라남도",
+  "terminalNm": "감돈리"
+ },
+ {
+  "terminalId": "NAI5901201",
+  "cityName": "전라남도",
+  "terminalNm": "덕호리"
+ },
+ {
+  "terminalId": "NAI5901202",
+  "cityName": "전라남도",
+  "terminalNm": "노송리"
+ },
+ {
+  "terminalId": "NAI5901203",
+  "cityName": "전라남도",
+  "terminalNm": "송천"
+ },
+ {
+  "terminalId": "NAI5901204",
+  "cityName": "전라남도",
+  "terminalNm": "금송"
+ },
+ {
+  "terminalId": "NAI5901205",
+  "cityName": "전라남도",
+  "terminalNm": "검문소"
+ },
+ {
+  "terminalId": "NAI5901402",
+  "cityName": "전라남도",
+  "terminalNm": "흑두리"
+ },
+ {
+  "terminalId": "NAI5901601",
+  "cityName": "전라남도",
+  "terminalNm": "육일시"
+ },
+ {
+  "terminalId": "NAI5901603",
+  "cityName": "전라남도",
+  "terminalNm": "연구"
+ },
+ {
+  "terminalId": "NAI5901604",
+  "cityName": "전라남도",
+  "terminalNm": "학의리"
+ },
+ {
+  "terminalId": "NAI5901605",
+  "cityName": "전라남도",
+  "terminalNm": "호교"
+ },
+ {
+  "terminalId": "NAI5901607",
+  "cityName": "전라남도",
+  "terminalNm": "상등"
+ },
+ {
+  "terminalId": "NAI5901701",
+  "cityName": "전라남도",
+  "terminalNm": "방춘리"
+ },
+ {
+  "terminalId": "NAI5901702",
+  "cityName": "전라남도",
+  "terminalNm": "여수리"
+ },
+ {
+  "terminalId": "NAI5901703",
+  "cityName": "전라남도",
+  "terminalNm": "둔주포"
+ },
+ {
+  "terminalId": "NAI5901704",
+  "cityName": "전라남도",
+  "terminalNm": "가학리"
+ },
+ {
+  "terminalId": "NAI5901705",
+  "cityName": "전라남도",
+  "terminalNm": "사정리"
+ },
+ {
+  "terminalId": "NAI5901706",
+  "cityName": "전라남도",
+  "terminalNm": "반계"
+ },
+ {
+  "terminalId": "NAI5901707",
+  "cityName": "전라남도",
+  "terminalNm": "대운"
+ },
+ {
+  "terminalId": "NAI5901708",
+  "cityName": "전라남도",
+  "terminalNm": "덕정리(전남)"
+ },
+ {
+  "terminalId": "NAI5901709",
+  "cityName": "전라남도",
+  "terminalNm": "월암(해남)"
+ },
+ {
+  "terminalId": "NAI5901710",
+  "cityName": "전라남도",
+  "terminalNm": "농장(해남)"
+ },
+ {
+  "terminalId": "NAI5901711",
+  "cityName": "전라남도",
+  "terminalNm": "해남역"
+ },
+ {
+  "terminalId": "NAI5901801",
+  "cityName": "전라남도",
+  "terminalNm": "동사촌"
+ },
+ {
+  "terminalId": "NAI5901802",
+  "cityName": "전라남도",
+  "terminalNm": "장산"
+ },
+ {
+  "terminalId": "NAI5901803",
+  "cityName": "전라남도",
+  "terminalNm": "계곡(해남)"
+ },
+ {
+  "terminalId": "NAI5901804",
+  "cityName": "전라남도",
+  "terminalNm": "장소"
+ },
+ {
+  "terminalId": "NAI5901901",
+  "cityName": "전라남도",
+  "terminalNm": "이일시"
+ },
+ {
+  "terminalId": "NAI5901902",
+  "cityName": "전라남도",
+  "terminalNm": "황죽"
+ },
+ {
+  "terminalId": "NAI5901906",
+  "cityName": "전라남도",
+  "terminalNm": "송신평"
+ },
+ {
+  "terminalId": "NAI5901907",
+  "cityName": "전라남도",
+  "terminalNm": "증의도"
+ },
+ {
+  "terminalId": "NAI5901908",
+  "cityName": "전라남도",
+  "terminalNm": "월송"
+ },
+ {
+  "terminalId": "NAI5902001",
+  "cityName": "전라남도",
+  "terminalNm": "맹진리"
+ },
+ {
+  "terminalId": "NAI5902002",
+  "cityName": "전라남도",
+  "terminalNm": "송석(해남)"
+ },
+ {
+  "terminalId": "NAI5902003",
+  "cityName": "전라남도",
+  "terminalNm": "월곡(해남)"
+ },
+ {
+  "terminalId": "NAI5902004",
+  "cityName": "전라남도",
+  "terminalNm": "마산(해남)"
+ },
+ {
+  "terminalId": "NAI5902005",
+  "cityName": "전라남도",
+  "terminalNm": "외호리(해남)"
+ },
+ {
+  "terminalId": "NAI5902006",
+  "cityName": "전라남도",
+  "terminalNm": "월산(전남)"
+ },
+ {
+  "terminalId": "NAI5902101",
+  "cityName": "전라남도",
+  "terminalNm": "거오리"
+ },
+ {
+  "terminalId": "NAI5902102",
+  "cityName": "전라남도",
+  "terminalNm": "영안"
+ },
+ {
+  "terminalId": "NAI5902103",
+  "cityName": "전라남도",
+  "terminalNm": "성산(해남)"
+ },
+ {
+  "terminalId": "NAI5902104",
+  "cityName": "전라남도",
+  "terminalNm": "송운"
+ },
+ {
+  "terminalId": "NAI5902105",
+  "cityName": "전라남도",
+  "terminalNm": "영신(해남)"
+ },
+ {
+  "terminalId": "NAI5902106",
+  "cityName": "전라남도",
+  "terminalNm": "신계(해남)"
+ },
+ {
+  "terminalId": "NAI5902107",
+  "cityName": "전라남도",
+  "terminalNm": "옥천(해남)"
+ },
+ {
+  "terminalId": "NAI5902201",
+  "cityName": "전라남도",
+  "terminalNm": "황산이목"
+ },
+ {
+  "terminalId": "NAI5902301",
+  "cityName": "전라남도",
+  "terminalNm": "남외"
+ },
+ {
+  "terminalId": "NAI5902302",
+  "cityName": "전라남도",
+  "terminalNm": "관동"
+ },
+ {
   "terminalId": "NAI5903801",
   "cityName": "전라남도",
   "terminalNm": "해남"
+ },
+ {
+  "terminalId": "NAI5903802",
+  "cityName": "전라남도",
+  "terminalNm": "해남군내"
+ },
+ {
+  "terminalId": "NAI5903803",
+  "cityName": "전라남도",
+  "terminalNm": "해남구간"
+ },
+ {
+  "terminalId": "NAI5904101",
+  "cityName": "전라남도",
+  "terminalNm": "초호"
+ },
+ {
+  "terminalId": "NAI5904102",
+  "cityName": "전라남도",
+  "terminalNm": "중의도"
+ },
+ {
+  "terminalId": "NAI5904104",
+  "cityName": "전라남도",
+  "terminalNm": "사교"
+ },
+ {
+  "terminalId": "NAI5904301",
+  "cityName": "전라남도",
+  "terminalNm": "읍내(해남)"
+ },
+ {
+  "terminalId": "NAI5904501",
+  "cityName": "전라남도",
+  "terminalNm": "내사리"
+ },
+ {
+  "terminalId": "NAI5904503",
+  "cityName": "전라남도",
+  "terminalNm": "장활리"
+ },
+ {
+  "terminalId": "NAI5904603",
+  "cityName": "전남",
+  "terminalNm": "땅끝순례문학관"
+ },
+ {
+  "terminalId": "NAI5904801",
+  "cityName": "전라남도",
+  "terminalNm": "명금"
+ },
+ {
+  "terminalId": "NAI5904901",
+  "cityName": "전라남도",
+  "terminalNm": "좌일"
+ },
+ {
+  "terminalId": "NAI5904902",
+  "cityName": "전라남도",
+  "terminalNm": "가좌리"
+ },
+ {
+  "terminalId": "NAI5904903",
+  "cityName": "전라남도",
+  "terminalNm": "안호"
+ },
+ {
+  "terminalId": "NAI5904904",
+  "cityName": "전라남도",
+  "terminalNm": "화산"
+ },
+ {
+  "terminalId": "NAI5904905",
+  "cityName": "전라남도",
+  "terminalNm": "흑석"
+ },
+ {
+  "terminalId": "NAI5905101",
+  "cityName": "전라남도",
+  "terminalNm": "정수사"
+ },
+ {
+  "terminalId": "NAI5905102",
+  "cityName": "전라남도",
+  "terminalNm": "흥촌"
+ },
+ {
+  "terminalId": "NAI5905301",
+  "cityName": "전라남도",
+  "terminalNm": "금당(전남)"
+ },
+ {
+  "terminalId": "NAI5905302",
+  "cityName": "전라남도",
+  "terminalNm": "만수입구"
+ },
+ {
+  "terminalId": "NAI5905401",
+  "cityName": "전라남도",
+  "terminalNm": "동해(전남)"
+ },
+ {
+  "terminalId": "NAI5905402",
+  "cityName": "전라남도",
+  "terminalNm": "차경"
+ },
+ {
+  "terminalId": "NAI5905403",
+  "cityName": "전라남도",
+  "terminalNm": "남.오산"
+ },
+ {
+  "terminalId": "NAI5905501",
+  "cityName": "전라남도",
+  "terminalNm": "남창"
+ },
+ {
+  "terminalId": "NAI5905502",
+  "cityName": "전라남도",
+  "terminalNm": "해남월"
+ },
+ {
+  "terminalId": "NAI5905503",
+  "cityName": "전라남도",
+  "terminalNm": "남창(군내)"
+ },
+ {
+  "terminalId": "NAI5905601",
+  "cityName": "전라남도",
+  "terminalNm": "서홍"
+ },
+ {
+  "terminalId": "NAI5905602",
+  "cityName": "전라남도",
+  "terminalNm": "이진"
+ },
+ {
+  "terminalId": "NAI5905702",
+  "cityName": "전라남도",
+  "terminalNm": "평암"
+ },
+ {
+  "terminalId": "NAI5905801",
+  "cityName": "전라남도",
+  "terminalNm": "구시"
+ },
+ {
+  "terminalId": "NAI5905802",
+  "cityName": "전라남도",
+  "terminalNm": "현산"
+ },
+ {
+  "terminalId": "NAI5905813",
+  "cityName": "전라남도",
+  "terminalNm": "고현(해남)"
+ },
+ {
+  "terminalId": "NAI5905901",
+  "cityName": "전라남도",
+  "terminalNm": "고담"
+ },
+ {
+  "terminalId": "NAI5905902",
+  "cityName": "전라남도",
+  "terminalNm": "두모리"
+ },
+ {
+  "terminalId": "NAI5905903",
+  "cityName": "전라남도",
+  "terminalNm": "백포"
+ },
+ {
+  "terminalId": "NAI5906101",
+  "cityName": "전라남도",
+  "terminalNm": "월송"
+ },
+ {
+  "terminalId": "NAI5906102",
+  "cityName": "전라남도",
+  "terminalNm": "서정"
+ },
+ {
+  "terminalId": "NAI5906103",
+  "cityName": "전라남도",
+  "terminalNm": "군내월송"
+ },
+ {
+  "terminalId": "NAI5906113",
+  "cityName": "전라남도",
+  "terminalNm": "현산황산"
+ },
+ {
+  "terminalId": "NAI5906201",
+  "cityName": "전라남도",
+  "terminalNm": "해원"
+ },
+ {
+  "terminalId": "NAI5906301",
+  "cityName": "전라남도",
+  "terminalNm": "산정"
+ },
+ {
+  "terminalId": "NAI5906302",
+  "cityName": "전라남도",
+  "terminalNm": "어란"
+ },
+ {
+  "terminalId": "NAI5906303",
+  "cityName": "전라남도",
+  "terminalNm": "송지(해남)"
+ },
+ {
+  "terminalId": "NAI5906304",
+  "cityName": "전라남도",
+  "terminalNm": "해남산정"
+ },
+ {
+  "terminalId": "NAI5906305",
+  "cityName": "전라남도",
+  "terminalNm": "송지"
+ },
+ {
+  "terminalId": "NAI5906306",
+  "cityName": "전라남도",
+  "terminalNm": "산정2"
+ },
+ {
+  "terminalId": "NAI5906307",
+  "cityName": "전라남도",
+  "terminalNm": "산정3"
+ },
+ {
+  "terminalId": "NAI5906308",
+  "cityName": "전라남도",
+  "terminalNm": "동현"
+ },
+ {
+  "terminalId": "NAI5906309",
+  "cityName": "전라남도",
+  "terminalNm": "미야(미황)"
+ },
+ {
+  "terminalId": "NAI5906310",
+  "cityName": "전라남도",
+  "terminalNm": "영평(해남)"
+ },
+ {
+  "terminalId": "NAI5906311",
+  "cityName": "전라남도",
+  "terminalNm": "군내산정"
+ },
+ {
+  "terminalId": "NAI5906312",
+  "cityName": "전라남도",
+  "terminalNm": "가차리"
+ },
+ {
+  "terminalId": "NAI5906401",
+  "cityName": "전라남도",
+  "terminalNm": "송종"
+ },
+ {
+  "terminalId": "NAI5906501",
+  "cityName": "전라남도",
+  "terminalNm": "송호리"
  },
  {
   "terminalId": "NAI5906502",
@@ -1590,9 +7210,134 @@
   "terminalNm": "땅끝"
  },
  {
+  "terminalId": "NAI5906503",
+  "cityName": "전라남도",
+  "terminalNm": "군내땅끝"
+ },
+ {
+  "terminalId": "NAI5906504",
+  "cityName": "전라남도",
+  "terminalNm": "군내송호"
+ },
+ {
+  "terminalId": "NAI5906601",
+  "cityName": "전라남도",
+  "terminalNm": "사구리"
+ },
+ {
+  "terminalId": "NAI5906602",
+  "cityName": "전라남도",
+  "terminalNm": "통호리"
+ },
+ {
+  "terminalId": "NAI5906705",
+  "cityName": "전라남도",
+  "terminalNm": "장춘"
+ },
+ {
+  "terminalId": "NAI5910001",
+  "cityName": "전라남도",
+  "terminalNm": "망축리"
+ },
+ {
+  "terminalId": "NAI5910101",
+  "cityName": "전라남도",
+  "terminalNm": "원동"
+ },
+ {
+  "terminalId": "NAI5910201",
+  "cityName": "전라남도",
+  "terminalNm": "황진리"
+ },
+ {
+  "terminalId": "NAI5910202",
+  "cityName": "전라남도",
+  "terminalNm": "중리"
+ },
+ {
+  "terminalId": "NAI5910203",
+  "cityName": "전라남도",
+  "terminalNm": "달도"
+ },
+ {
+  "terminalId": "NAI5910204",
+  "cityName": "전라남도",
+  "terminalNm": "교인동"
+ },
+ {
+  "terminalId": "NAI5910205",
+  "cityName": "전라남도",
+  "terminalNm": "원동(군내)"
+ },
+ {
+  "terminalId": "NAI5910301",
+  "cityName": "전라남도",
+  "terminalNm": "불목리"
+ },
+ {
+  "terminalId": "NAI5910501",
+  "cityName": "전라남도",
+  "terminalNm": "갈문리"
+ },
+ {
+  "terminalId": "NAI5910502",
+  "cityName": "전라남도",
+  "terminalNm": "대문리"
+ },
+ {
+  "terminalId": "NAI5910601",
+  "cityName": "전라남도",
+  "terminalNm": "당인리"
+ },
+ {
+  "terminalId": "NAI5910602",
+  "cityName": "전라남도",
+  "terminalNm": "삼두리"
+ },
+ {
+  "terminalId": "NAI5910901",
+  "cityName": "전라남도",
+  "terminalNm": "신기리"
+ },
+ {
+  "terminalId": "NAI5911001",
+  "cityName": "전라남도",
+  "terminalNm": "도암"
+ },
+ {
   "terminalId": "NAI5911401",
   "cityName": "전라남도",
   "terminalNm": "완도"
+ },
+ {
+  "terminalId": "NAI5912001",
+  "cityName": "전라남도",
+  "terminalNm": "화흥포"
+ },
+ {
+  "terminalId": "NAI5912801",
+  "cityName": "전라남도",
+  "terminalNm": "가교리"
+ },
+ {
+  "terminalId": "NAI5912802",
+  "cityName": "전라남도",
+  "terminalNm": "고금청룡"
+ },
+ {
+  "terminalId": "NAI5912803",
+  "cityName": "전라남도",
+  "terminalNm": "월장"
+ },
+ {
+  "terminalId": "NAI5912804",
+  "cityName": "전라남도",
+  "terminalNm": "청학"
+ },
+ {
+  "terminalId": "NAI5912901",
+  "cityName": "전라남도",
+  "terminalNm": "장용"
  },
  {
   "terminalId": "NAI5913001",
@@ -1600,9 +7345,274 @@
   "terminalNm": "고금"
  },
  {
+  "terminalId": "NAI5913002",
+  "cityName": "전라남도",
+  "terminalNm": "석치"
+ },
+ {
+  "terminalId": "NAI5913003",
+  "cityName": "전라남도",
+  "terminalNm": "고금석치"
+ },
+ {
+  "terminalId": "NAI5913004",
+  "cityName": "전라남도",
+  "terminalNm": "덕암(전남)"
+ },
+ {
+  "terminalId": "NAI5913201",
+  "cityName": "전라남도",
+  "terminalNm": "신장(고금)"
+ },
+ {
+  "terminalId": "NAI5913202",
+  "cityName": "전라남도",
+  "terminalNm": "덕동(고금)"
+ },
+ {
+  "terminalId": "NAI5913203",
+  "cityName": "전라남도",
+  "terminalNm": "화성(고금)"
+ },
+ {
+  "terminalId": "NAI5913204",
+  "cityName": "전라남도",
+  "terminalNm": "항동(완도)"
+ },
+ {
+  "terminalId": "NAI5913205",
+  "cityName": "전라남도",
+  "terminalNm": "내동(완도)"
+ },
+ {
+  "terminalId": "NAI5913206",
+  "cityName": "전라남도",
+  "terminalNm": "고금항동"
+ },
+ {
+  "terminalId": "NAI5913207",
+  "cityName": "전라남도",
+  "terminalNm": "덕동"
+ },
+ {
+  "terminalId": "NAI5913401",
+  "cityName": "전라남도",
+  "terminalNm": "약산"
+ },
+ {
+  "terminalId": "NAI5913402",
+  "cityName": "전라남도",
+  "terminalNm": "화가"
+ },
+ {
+  "terminalId": "NAI5913403",
+  "cityName": "전라남도",
+  "terminalNm": "여동"
+ },
+ {
+  "terminalId": "NAI5913404",
+  "cityName": "전라남도",
+  "terminalNm": "천동(완도)"
+ },
+ {
+  "terminalId": "NAI5913501",
+  "cityName": "전라남도",
+  "terminalNm": "죽선"
+ },
+ {
   "terminalId": "NAI5913601",
   "cityName": "전라남도",
   "terminalNm": "당목"
+ },
+ {
+  "terminalId": "NAI5913602",
+  "cityName": "전라남도",
+  "terminalNm": "어두리"
+ },
+ {
+  "terminalId": "NAI5913603",
+  "cityName": "전라남도",
+  "terminalNm": "당목항"
+ },
+ {
+  "terminalId": "NAI5914301",
+  "cityName": "전라남도",
+  "terminalNm": "동백(완도)"
+ },
+ {
+  "terminalId": "NAI5914601",
+  "cityName": "전라남도",
+  "terminalNm": "명사십리"
+ },
+ {
+  "terminalId": "NAI5914602",
+  "cityName": "전라남도",
+  "terminalNm": "명사구시"
+ },
+ {
+  "terminalId": "NAI5914603",
+  "cityName": "전라남도",
+  "terminalNm": "강독"
+ },
+ {
+  "terminalId": "NAI5914604",
+  "cityName": "전라남도",
+  "terminalNm": "송곡"
+ },
+ {
+  "terminalId": "NAI5914605",
+  "cityName": "전라남도",
+  "terminalNm": "임촌삼거리"
+ },
+ {
+  "terminalId": "NAI5914606",
+  "cityName": "전라남도",
+  "terminalNm": "내정리"
+ },
+ {
+  "terminalId": "NAI5914607",
+  "cityName": "전라남도",
+  "terminalNm": "대평"
+ },
+ {
+  "terminalId": "NAI5914608",
+  "cityName": "전라남도",
+  "terminalNm": "해양치유센터(완도)"
+ },
+ {
+  "terminalId": "NAI5914801",
+  "cityName": "전라남도",
+  "terminalNm": "월부리"
+ },
+ {
+  "terminalId": "NAI5914802",
+  "cityName": "전라남도",
+  "terminalNm": "동촌리"
+ },
+ {
+  "terminalId": "NAI5914803",
+  "cityName": "전라남도",
+  "terminalNm": "동고리"
+ },
+ {
+  "terminalId": "NAI5915001",
+  "cityName": "전라남도",
+  "terminalNm": "신흥리"
+ },
+ {
+  "terminalId": "NAI5915801",
+  "cityName": "전라남도",
+  "terminalNm": "망향"
+ },
+ {
+  "terminalId": "NAI5916101",
+  "cityName": "전라남도",
+  "terminalNm": "화원동"
+ },
+ {
+  "terminalId": "NAI5920001",
+  "cityName": "전라남도",
+  "terminalNm": "성전월남"
+ },
+ {
+  "terminalId": "NAI5920002",
+  "cityName": "전라남도",
+  "terminalNm": "풀치"
+ },
+ {
+  "terminalId": "NAI5920003",
+  "cityName": "전라남도",
+  "terminalNm": "경포대"
+ },
+ {
+  "terminalId": "NAI5920004",
+  "cityName": "전라남도",
+  "terminalNm": "상월"
+ },
+ {
+  "terminalId": "NAI5920005",
+  "cityName": "전라남도",
+  "terminalNm": "하월"
+ },
+ {
+  "terminalId": "NAI5920006",
+  "cityName": "전라남도",
+  "terminalNm": "월남(강진)"
+ },
+ {
+  "terminalId": "NAI5920101",
+  "cityName": "전라남도",
+  "terminalNm": "무위사"
+ },
+ {
+  "terminalId": "NAI5920102",
+  "cityName": "전라남도",
+  "terminalNm": "죽전(강진)"
+ },
+ {
+  "terminalId": "NAI5920103",
+  "cityName": "전라남도",
+  "terminalNm": "안운"
+ },
+ {
+  "terminalId": "NAI5920104",
+  "cityName": "전라남도",
+  "terminalNm": "성전월하"
+ },
+ {
+  "terminalId": "NAI5920202",
+  "cityName": "전라남도",
+  "terminalNm": "성전월송"
+ },
+ {
+  "terminalId": "NAI5920203",
+  "cityName": "전라남도",
+  "terminalNm": "성전대월"
+ },
+ {
+  "terminalId": "NAI5920204",
+  "cityName": "전라남도",
+  "terminalNm": "군내성전"
+ },
+ {
+  "terminalId": "NAI5920301",
+  "cityName": "전라남도",
+  "terminalNm": "순북"
+ },
+ {
+  "terminalId": "NAI5920302",
+  "cityName": "전라남도",
+  "terminalNm": "처인"
+ },
+ {
+  "terminalId": "NAI5920303",
+  "cityName": "전라남도",
+  "terminalNm": "성전고앞"
+ },
+ {
+  "terminalId": "NAI5920304",
+  "cityName": "전라남도",
+  "terminalNm": "성전수"
+ },
+ {
+  "terminalId": "NAI5920401",
+  "cityName": "전라남도",
+  "terminalNm": "수암(전남)"
+ },
+ {
+  "terminalId": "NAI5920402",
+  "cityName": "전라남도",
+  "terminalNm": "성전용운"
+ },
+ {
+  "terminalId": "NAI5920403",
+  "cityName": "전라남도",
+  "terminalNm": "명동"
+ },
+ {
+  "terminalId": "NAI5920405",
+  "cityName": "전라남도",
+  "terminalNm": "당산"
  },
  {
   "terminalId": "NAI5920601",
@@ -1610,9 +7620,369 @@
   "terminalNm": "성전"
  },
  {
+  "terminalId": "NAI5920701",
+  "cityName": "전라남도",
+  "terminalNm": "좌척"
+ },
+ {
+  "terminalId": "NAI5920703",
+  "cityName": "전라남도",
+  "terminalNm": "신월동"
+ },
+ {
+  "terminalId": "NAI5920704",
+  "cityName": "전라남도",
+  "terminalNm": "옴천사동"
+ },
+ {
+  "terminalId": "NAI5920801",
+  "cityName": "전라남도",
+  "terminalNm": "옴천"
+ },
+ {
+  "terminalId": "NAI5920802",
+  "cityName": "전라남도",
+  "terminalNm": "황곡"
+ },
+ {
+  "terminalId": "NAI5920803",
+  "cityName": "전라남도",
+  "terminalNm": "연동"
+ },
+ {
+  "terminalId": "NAI5920804",
+  "cityName": "전라남도",
+  "terminalNm": "개산"
+ },
+ {
+  "terminalId": "NAI5920805",
+  "cityName": "전라남도",
+  "terminalNm": "연동2"
+ },
+ {
+  "terminalId": "NAI5920806",
+  "cityName": "전라남도",
+  "terminalNm": "옴천2"
+ },
+ {
+  "terminalId": "NAI5920901",
+  "cityName": "전라남도",
+  "terminalNm": "낙산"
+ },
+ {
+  "terminalId": "NAI5921001",
+  "cityName": "전라남도",
+  "terminalNm": "부고.상고"
+ },
+ {
+  "terminalId": "NAI5921101",
+  "cityName": "전라남도",
+  "terminalNm": "척동"
+ },
+ {
+  "terminalId": "NAI5921102",
+  "cityName": "전라남도",
+  "terminalNm": "용정"
+ },
+ {
+  "terminalId": "NAI5921103",
+  "cityName": "전라남도",
+  "terminalNm": "작천신기"
+ },
+ {
+  "terminalId": "NAI5921201",
+  "cityName": "전라남도",
+  "terminalNm": "작천"
+ },
+ {
+  "terminalId": "NAI5921202",
+  "cityName": "전라남도",
+  "terminalNm": "군자리"
+ },
+ {
+  "terminalId": "NAI5921203",
+  "cityName": "전라남도",
+  "terminalNm": "명주리학동"
+ },
+ {
+  "terminalId": "NAI5921204",
+  "cityName": "전라남도",
+  "terminalNm": "갈동"
+ },
+ {
+  "terminalId": "NAI5921205",
+  "cityName": "전라남도",
+  "terminalNm": "작천학동"
+ },
+ {
+  "terminalId": "NAI5921206",
+  "cityName": "전라남도",
+  "terminalNm": "퇴동"
+ },
+ {
+  "terminalId": "NAI5921401",
+  "cityName": "전라남도",
+  "terminalNm": "병영"
+ },
+ {
+  "terminalId": "NAI5921402",
+  "cityName": "전라남도",
+  "terminalNm": "병영2"
+ },
+ {
+  "terminalId": "NAI5921601",
+  "cityName": "전라남도",
+  "terminalNm": "부흥"
+ },
+ {
+  "terminalId": "NAI5921602",
+  "cityName": "전라남도",
+  "terminalNm": "야흥"
+ },
+ {
+  "terminalId": "NAI5921603",
+  "cityName": "전라남도",
+  "terminalNm": "상남"
+ },
+ {
+  "terminalId": "NAI5921604",
+  "cityName": "전라남도",
+  "terminalNm": "하남"
+ },
+ {
+  "terminalId": "NAI5921605",
+  "cityName": "전라남도",
+  "terminalNm": "토동"
+ },
+ {
+  "terminalId": "NAI5921606",
+  "cityName": "전라남도",
+  "terminalNm": "이마"
+ },
+ {
+  "terminalId": "NAI5921607",
+  "cityName": "전라남도",
+  "terminalNm": "작천부흥"
+ },
+ {
+  "terminalId": "NAI5921701",
+  "cityName": "전라남도",
+  "terminalNm": "중당"
+ },
+ {
+  "terminalId": "NAI5921702",
+  "cityName": "전라남도",
+  "terminalNm": "박산"
+ },
+ {
+  "terminalId": "NAI5921703",
+  "cityName": "전라남도",
+  "terminalNm": "하당"
+ },
+ {
+  "terminalId": "NAI5921704",
+  "cityName": "전라남도",
+  "terminalNm": "교동"
+ },
+ {
+  "terminalId": "NAI5921705",
+  "cityName": "전라남도",
+  "terminalNm": "죽현"
+ },
+ {
+  "terminalId": "NAI5921706",
+  "cityName": "전라남도",
+  "terminalNm": "박산마을"
+ },
+ {
+  "terminalId": "NAI5921707",
+  "cityName": "전라남도",
+  "terminalNm": "교동마을"
+ },
+ {
+  "terminalId": "NAI5921803",
+  "cityName": "전라남도",
+  "terminalNm": "화방.달영"
+ },
+ {
+  "terminalId": "NAI5921805",
+  "cityName": "전라남도",
+  "terminalNm": "교성"
+ },
+ {
+  "terminalId": "NAI5921901",
+  "cityName": "전라남도",
+  "terminalNm": "미륵"
+ },
+ {
+  "terminalId": "NAI5921902",
+  "cityName": "전라남도",
+  "terminalNm": "풍동(전남)"
+ },
+ {
+  "terminalId": "NAI5921903",
+  "cityName": "전라남도",
+  "terminalNm": "장흥군계"
+ },
+ {
+  "terminalId": "NAI5922402",
+  "cityName": "전라남도",
+  "terminalNm": "갈전"
+ },
+ {
+  "terminalId": "NAI5922403",
+  "cityName": "전라남도",
+  "terminalNm": "백금"
+ },
+ {
+  "terminalId": "NAI5922404",
+  "cityName": "전라남도",
+  "terminalNm": "석문"
+ },
+ {
+  "terminalId": "NAI5922405",
+  "cityName": "전라남도",
+  "terminalNm": "금곡적천"
+ },
+ {
+  "terminalId": "NAI5922406",
+  "cityName": "전라남도",
+  "terminalNm": "오산(강진)"
+ },
+ {
+  "terminalId": "NAI5922407",
+  "cityName": "전라남도",
+  "terminalNm": "군동.신기"
+ },
+ {
   "terminalId": "NAI5923401",
   "cityName": "전라남도",
   "terminalNm": "강진"
+ },
+ {
+  "terminalId": "NAI5923402",
+  "cityName": "전라남도",
+  "terminalNm": "강진군내"
+ },
+ {
+  "terminalId": "NAI5923403",
+  "cityName": "전라남도",
+  "terminalNm": "강진2"
+ },
+ {
+  "terminalId": "NAI5923501",
+  "cityName": "전라남도",
+  "terminalNm": "신안(전남)"
+ },
+ {
+  "terminalId": "NAI5924001",
+  "cityName": "전라남도",
+  "terminalNm": "목리"
+ },
+ {
+  "terminalId": "NAI5924101",
+  "cityName": "전라남도",
+  "terminalNm": "남포"
+ },
+ {
+  "terminalId": "NAI5924201",
+  "cityName": "전라남도",
+  "terminalNm": "덕남(전남)"
+ },
+ {
+  "terminalId": "NAI5924301",
+  "cityName": "전라남도",
+  "terminalNm": "박매"
+ },
+ {
+  "terminalId": "NAI5924302",
+  "cityName": "전라남도",
+  "terminalNm": "도영동"
+ },
+ {
+  "terminalId": "NAI5924303",
+  "cityName": "전라남도",
+  "terminalNm": "계신"
+ },
+ {
+  "terminalId": "NAI5924304",
+  "cityName": "전라남도",
+  "terminalNm": "덕원목장"
+ },
+ {
+  "terminalId": "NAI5924501",
+  "cityName": "전라남도",
+  "terminalNm": "서산(전남)"
+ },
+ {
+  "terminalId": "NAI5924502",
+  "cityName": "전라남도",
+  "terminalNm": "서산월남"
+ },
+ {
+  "terminalId": "NAI5924503",
+  "cityName": "전라남도",
+  "terminalNm": "향일"
+ },
+ {
+  "terminalId": "NAI5924601",
+  "cityName": "전라남도",
+  "terminalNm": "구성"
+ },
+ {
+  "terminalId": "NAI5924603",
+  "cityName": "전라남도",
+  "terminalNm": "지석"
+ },
+ {
+  "terminalId": "NAI5924604",
+  "cityName": "전라남도",
+  "terminalNm": "지석리영동"
+ },
+ {
+  "terminalId": "NAI5924605",
+  "cityName": "전라남도",
+  "terminalNm": "회룡(전남)"
+ },
+ {
+  "terminalId": "NAI5924606",
+  "cityName": "전라남도",
+  "terminalNm": "만년"
+ },
+ {
+  "terminalId": "NAI5924607",
+  "cityName": "전라남도",
+  "terminalNm": "지석리목장"
+ },
+ {
+  "terminalId": "NAI5924608",
+  "cityName": "전라남도",
+  "terminalNm": "동영"
+ },
+ {
+  "terminalId": "NAI5924802",
+  "cityName": "전라남도",
+  "terminalNm": "해창.신평"
+ },
+ {
+  "terminalId": "NAI5924803",
+  "cityName": "전라남도",
+  "terminalNm": "보당"
+ },
+ {
+  "terminalId": "NAI5924804",
+  "cityName": "전라남도",
+  "terminalNm": "신평,익금"
+ },
+ {
+  "terminalId": "NAI5924805",
+  "cityName": "반계.마점",
+  "terminalNm": "반계.마점"
+ },
+ {
+  "terminalId": "NAI5924806",
+  "cityName": "전라남도",
+  "terminalNm": "신평"
  },
  {
   "terminalId": "NAI5924807",
@@ -1620,9 +7990,734 @@
   "terminalNm": "전남인재개발원"
  },
  {
+  "terminalId": "NAI5924901",
+  "cityName": "전라남도",
+  "terminalNm": "계라"
+ },
+ {
+  "terminalId": "NAI5924902",
+  "cityName": "전라남도",
+  "terminalNm": "덕서.계라"
+ },
+ {
+  "terminalId": "NAI5925001",
+  "cityName": "전라남도",
+  "terminalNm": "석천(전남)"
+ },
+ {
+  "terminalId": "NAI5925002",
+  "cityName": "전라남도",
+  "terminalNm": "옥전입구"
+ },
+ {
+  "terminalId": "NAI5925003",
+  "cityName": "전라남도",
+  "terminalNm": "옥전"
+ },
+ {
+  "terminalId": "NAI5925101",
+  "cityName": "전라남도",
+  "terminalNm": "표장"
+ },
+ {
+  "terminalId": "NAI5925102",
+  "cityName": "전라남도",
+  "terminalNm": "송학(전남)"
+ },
+ {
+  "terminalId": "NAI5925103",
+  "cityName": "전라남도",
+  "terminalNm": "도암신기"
+ },
+ {
+  "terminalId": "NAI5925104",
+  "cityName": "전라남도",
+  "terminalNm": "망호"
+ },
+ {
+  "terminalId": "NAI5925105",
+  "cityName": "전라남도",
+  "terminalNm": "도암신기마을"
+ },
+ {
+  "terminalId": "NAI5925201",
+  "cityName": "전라남도",
+  "terminalNm": "삼인"
+ },
+ {
+  "terminalId": "NAI5925202",
+  "cityName": "전라남도",
+  "terminalNm": "신전(전남)"
+ },
+ {
+  "terminalId": "NAI5925203",
+  "cityName": "전라남도",
+  "terminalNm": "신전초등"
+ },
+ {
+  "terminalId": "NAI5925204",
+  "cityName": "전라남도",
+  "terminalNm": "백용"
+ },
+ {
+  "terminalId": "NAI5925205",
+  "cityName": "전라남도",
+  "terminalNm": "신수양"
+ },
+ {
+  "terminalId": "NAI5925206",
+  "cityName": "전라남도",
+  "terminalNm": "수양마을"
+ },
+ {
+  "terminalId": "NAI5925301",
+  "cityName": "전라남도",
+  "terminalNm": "신흥(강진)"
+ },
+ {
+  "terminalId": "NAI5925302",
+  "cityName": "전라남도",
+  "terminalNm": "백화입구"
+ },
+ {
+  "terminalId": "NAI5925303",
+  "cityName": "전라남도",
+  "terminalNm": "어관입구"
+ },
+ {
+  "terminalId": "NAI5925304",
+  "cityName": "전라남도",
+  "terminalNm": "영수"
+ },
+ {
+  "terminalId": "NAI5925305",
+  "cityName": "전라남도",
+  "terminalNm": "어관회관"
+ },
+ {
+  "terminalId": "NAI5925306",
+  "cityName": "전라남도",
+  "terminalNm": "백화"
+ },
+ {
+  "terminalId": "NAI5925307",
+  "cityName": "전라남도",
+  "terminalNm": "작천용정"
+ },
+ {
+  "terminalId": "NAI5925308",
+  "cityName": "전라남도",
+  "terminalNm": "도용정입구"
+ },
+ {
+  "terminalId": "NAI5925401",
+  "cityName": "전라남도",
+  "terminalNm": "사초리어관"
+ },
+ {
+  "terminalId": "NAI5925402",
+  "cityName": "전라남도",
+  "terminalNm": "벌정"
+ },
+ {
+  "terminalId": "NAI5925403",
+  "cityName": "전라남도",
+  "terminalNm": "대벌"
+ },
+ {
+  "terminalId": "NAI5925404",
+  "cityName": "전라남도",
+  "terminalNm": "논정"
+ },
+ {
+  "terminalId": "NAI5925405",
+  "cityName": "전라남도",
+  "terminalNm": "사초리송천"
+ },
+ {
+  "terminalId": "NAI5925406",
+  "cityName": "전라남도",
+  "terminalNm": "사초.신"
+ },
+ {
+  "terminalId": "NAI5925407",
+  "cityName": "전라남도",
+  "terminalNm": "사초리용정"
+ },
+ {
+  "terminalId": "NAI5925501",
+  "cityName": "전라남도",
+  "terminalNm": "삼신"
+ },
+ {
+  "terminalId": "NAI5925502",
+  "cityName": "전라남도",
+  "terminalNm": "하신(강진)"
+ },
+ {
+  "terminalId": "NAI5925503",
+  "cityName": "전라남도",
+  "terminalNm": "연화(강진)"
+ },
+ {
+  "terminalId": "NAI5925504",
+  "cityName": "전라남도",
+  "terminalNm": "송산(강진)"
+ },
+ {
+  "terminalId": "NAI5925601",
+  "cityName": "전라남도",
+  "terminalNm": "관덕"
+ },
+ {
+  "terminalId": "NAI5925701",
+  "cityName": "전라남도",
+  "terminalNm": "중산(전남)"
+ },
+ {
+  "terminalId": "NAI5925702",
+  "cityName": "전라남도",
+  "terminalNm": "장항(전남)"
+ },
+ {
+  "terminalId": "NAI5925703",
+  "cityName": "전라남도",
+  "terminalNm": "덕천.양산"
+ },
+ {
+  "terminalId": "NAI5925704",
+  "cityName": "전라남도",
+  "terminalNm": "중산"
+ },
+ {
+  "terminalId": "NAI5925801",
+  "cityName": "전라남도",
+  "terminalNm": "월궁"
+ },
+ {
+  "terminalId": "NAI5925802",
+  "cityName": "전라남도",
+  "terminalNm": "계동"
+ },
+ {
+  "terminalId": "NAI5925803",
+  "cityName": "전라남도",
+  "terminalNm": "명주리송천"
+ },
+ {
+  "terminalId": "NAI5925804",
+  "cityName": "전라남도",
+  "terminalNm": "목암"
+ },
+ {
+  "terminalId": "NAI5925805",
+  "cityName": "전라남도",
+  "terminalNm": "명주리"
+ },
+ {
+  "terminalId": "NAI5925901",
+  "cityName": "전라남도",
+  "terminalNm": "한림(전남)"
+ },
+ {
+  "terminalId": "NAI5925902",
+  "cityName": "전라남도",
+  "terminalNm": "만복"
+ },
+ {
+  "terminalId": "NAI5926101",
+  "cityName": "전라남도",
+  "terminalNm": "칠량"
+ },
+ {
+  "terminalId": "NAI5926102",
+  "cityName": "전라남도",
+  "terminalNm": "신암"
+ },
+ {
+  "terminalId": "NAI5926103",
+  "cityName": "전라남도",
+  "terminalNm": "단월"
+ },
+ {
+  "terminalId": "NAI5926104",
+  "cityName": "전라남도",
+  "terminalNm": "명주리삼흥"
+ },
+ {
+  "terminalId": "NAI5926105",
+  "cityName": "전라남도",
+  "terminalNm": "영풍회관"
+ },
+ {
+  "terminalId": "NAI5926106",
+  "cityName": "전라남도",
+  "terminalNm": "운산"
+ },
+ {
+  "terminalId": "NAI5926201",
+  "cityName": "전라남도",
+  "terminalNm": "장계리"
+ },
+ {
+  "terminalId": "NAI5926202",
+  "cityName": "전라남도",
+  "terminalNm": "명주리중흥"
+ },
+ {
+  "terminalId": "NAI5926301",
+  "cityName": "전라남도",
+  "terminalNm": "강진 청자축제장"
+ },
+ {
+  "terminalId": "NAI5926304",
+  "cityName": "전라남도",
+  "terminalNm": "하저"
+ },
+ {
+  "terminalId": "NAI5926305",
+  "cityName": "전라남도",
+  "terminalNm": "상저"
+ },
+ {
+  "terminalId": "NAI5926306",
+  "cityName": "전라남도",
+  "terminalNm": "당전"
+ },
+ {
+  "terminalId": "NAI5926307",
+  "cityName": "전라남도",
+  "terminalNm": "달마사"
+ },
+ {
+  "terminalId": "NAI5926308",
+  "cityName": "전라남도",
+  "terminalNm": "강진 가우도"
+ },
+ {
+  "terminalId": "NAI5926401",
+  "cityName": "전라남도",
+  "terminalNm": "난산"
+ },
+ {
+  "terminalId": "NAI5926402",
+  "cityName": "전라남도",
+  "terminalNm": "항동(강진)"
+ },
+ {
+  "terminalId": "NAI5926403",
+  "cityName": "전라남도",
+  "terminalNm": "운곡"
+ },
+ {
+  "terminalId": "NAI5926404",
+  "cityName": "전라남도",
+  "terminalNm": "청용(강진)"
+ },
+ {
+  "terminalId": "NAI5926405",
+  "cityName": "전라남도",
+  "terminalNm": "대구(강진)"
+ },
+ {
+  "terminalId": "NAI5926406",
+  "cityName": "전라남도",
+  "terminalNm": "청룡"
+ },
+ {
+  "terminalId": "NAI5926407",
+  "cityName": "전라남도",
+  "terminalNm": "계치"
+ },
+ {
+  "terminalId": "NAI5926408",
+  "cityName": "전라남도",
+  "terminalNm": "송지(강진)"
+ },
+ {
+  "terminalId": "NAI5926409",
+  "cityName": "전라남도",
+  "terminalNm": "상분"
+ },
+ {
+  "terminalId": "NAI5926410",
+  "cityName": "전라남도",
+  "terminalNm": "대구항"
+ },
+ {
+  "terminalId": "NAI5926601",
+  "cityName": "전라남도",
+  "terminalNm": "남호"
+ },
+ {
+  "terminalId": "NAI5926602",
+  "cityName": "전라남도",
+  "terminalNm": "구곡"
+ },
+ {
+  "terminalId": "NAI5926603",
+  "cityName": "전라남도",
+  "terminalNm": "대구/심야"
+ },
+ {
+  "terminalId": "NAI5926604",
+  "cityName": "전라남도",
+  "terminalNm": "백사"
+ },
+ {
+  "terminalId": "NAI5926701",
+  "cityName": "전라남도",
+  "terminalNm": "수인"
+ },
+ {
+  "terminalId": "NAI5926801",
+  "cityName": "전라남도",
+  "terminalNm": "숙마"
+ },
+ {
+  "terminalId": "NAI5926803",
+  "cityName": "전라남도",
+  "terminalNm": "서중"
+ },
+ {
+  "terminalId": "NAI5926804",
+  "cityName": "전라남도",
+  "terminalNm": "마량삼거"
+ },
+ {
+  "terminalId": "NAI5926805",
+  "cityName": "전라남도",
+  "terminalNm": "마량연동"
+ },
+ {
+  "terminalId": "NAI5926806",
+  "cityName": "전라남도",
+  "terminalNm": "마량영동"
+ },
+ {
+  "terminalId": "NAI5926807",
+  "cityName": "전라남도",
+  "terminalNm": "신마량"
+ },
+ {
+  "terminalId": "NAI5926808",
+  "cityName": "전라남도",
+  "terminalNm": "마량신리"
+ },
+ {
+  "terminalId": "NAI5926809",
+  "cityName": "전라남도",
+  "terminalNm": "고금군내"
+ },
+ {
   "terminalId": "NAI5926901",
   "cityName": "전라남도",
   "terminalNm": "마량"
+ },
+ {
+  "terminalId": "NAI5930002",
+  "cityName": "전라남도",
+  "terminalNm": "용문(장흥)"
+ },
+ {
+  "terminalId": "NAI5930005",
+  "cityName": "전라남도",
+  "terminalNm": "보림사"
+ },
+ {
+  "terminalId": "NAI5930006",
+  "cityName": "전라남도",
+  "terminalNm": "암천"
+ },
+ {
+  "terminalId": "NAI5930007",
+  "cityName": "전라남도",
+  "terminalNm": "대천"
+ },
+ {
+  "terminalId": "NAI5930101",
+  "cityName": "전라남도",
+  "terminalNm": "유치"
+ },
+ {
+  "terminalId": "NAI5930102",
+  "cityName": "전라남도",
+  "terminalNm": "인암"
+ },
+ {
+  "terminalId": "NAI5930103",
+  "cityName": "전라남도",
+  "terminalNm": "휴양림"
+ },
+ {
+  "terminalId": "NAI5930104",
+  "cityName": "전라남도",
+  "terminalNm": "마정"
+ },
+ {
+  "terminalId": "NAI5930105",
+  "cityName": "전라남도",
+  "terminalNm": "반월"
+ },
+ {
+  "terminalId": "NAI5930106",
+  "cityName": "전라남도",
+  "terminalNm": "원반월"
+ },
+ {
+  "terminalId": "NAI5930107",
+  "cityName": "전라남도",
+  "terminalNm": "밤재"
+ },
+ {
+  "terminalId": "NAI5930108",
+  "cityName": "전라남도",
+  "terminalNm": "장주"
+ },
+ {
+  "terminalId": "NAI5930109",
+  "cityName": "전라남도",
+  "terminalNm": "조양"
+ },
+ {
+  "terminalId": "NAI5930112",
+  "cityName": "전라남도",
+  "terminalNm": "늑룡"
+ },
+ {
+  "terminalId": "NAI5930113",
+  "cityName": "전라남도",
+  "terminalNm": "원마정"
+ },
+ {
+  "terminalId": "NAI5930114",
+  "cityName": "전라남도",
+  "terminalNm": "유치2"
+ },
+ {
+  "terminalId": "NAI5930115",
+  "cityName": "전라남도",
+  "terminalNm": "인암2"
+ },
+ {
+  "terminalId": "NAI5930203",
+  "cityName": "전라남도",
+  "terminalNm": "성자"
+ },
+ {
+  "terminalId": "NAI5930301",
+  "cityName": "전라남도",
+  "terminalNm": "봉림"
+ },
+ {
+  "terminalId": "NAI5930302",
+  "cityName": "전라남도",
+  "terminalNm": "봉림금호직행"
+ },
+ {
+  "terminalId": "NAI5930303",
+  "cityName": "전라남도",
+  "terminalNm": "제산"
+ },
+ {
+  "terminalId": "NAI5930304",
+  "cityName": "전라남도",
+  "terminalNm": "경림"
+ },
+ {
+  "terminalId": "NAI5930305",
+  "cityName": "전라남도",
+  "terminalNm": "작산"
+ },
+ {
+  "terminalId": "NAI5930306",
+  "cityName": "전라남도",
+  "terminalNm": "봉림2"
+ },
+ {
+  "terminalId": "NAI5930401",
+  "cityName": "전라남도",
+  "terminalNm": "병동"
+ },
+ {
+  "terminalId": "NAI5930402",
+  "cityName": "전라남도",
+  "terminalNm": "임리"
+ },
+ {
+  "terminalId": "NAI5930403",
+  "cityName": "전라남도",
+  "terminalNm": "삼정"
+ },
+ {
+  "terminalId": "NAI5930404",
+  "cityName": "전라남도",
+  "terminalNm": "두봉"
+ },
+ {
+  "terminalId": "NAI5930405",
+  "cityName": "전라남도",
+  "terminalNm": "원두봉"
+ },
+ {
+  "terminalId": "NAI5930406",
+  "cityName": "전라남도",
+  "terminalNm": "부정"
+ },
+ {
+  "terminalId": "NAI5930407",
+  "cityName": "전라남도",
+  "terminalNm": "어곡"
+ },
+ {
+  "terminalId": "NAI5930408",
+  "cityName": "전라남도",
+  "terminalNm": "복흥"
+ },
+ {
+  "terminalId": "NAI5930501",
+  "cityName": "전라남도",
+  "terminalNm": "관호"
+ },
+ {
+  "terminalId": "NAI5930502",
+  "cityName": "전라남도",
+  "terminalNm": "양곡"
+ },
+ {
+  "terminalId": "NAI5930503",
+  "cityName": "전라남도",
+  "terminalNm": "진곡"
+ },
+ {
+  "terminalId": "NAI5930505",
+  "cityName": "전라남도",
+  "terminalNm": "상밤실"
+ },
+ {
+  "terminalId": "NAI5930506",
+  "cityName": "전라남도",
+  "terminalNm": "하장곡"
+ },
+ {
+  "terminalId": "NAI5930507",
+  "cityName": "전라남도",
+  "terminalNm": "상장곡"
+ },
+ {
+  "terminalId": "NAI5930601",
+  "cityName": "전라남도",
+  "terminalNm": "장평(전남)"
+ },
+ {
+  "terminalId": "NAI5930602",
+  "cityName": "전라남도",
+  "terminalNm": "용산"
+ },
+ {
+  "terminalId": "NAI5930603",
+  "cityName": "전라남도",
+  "terminalNm": "용산(직)"
+ },
+ {
+  "terminalId": "NAI5930604",
+  "cityName": "강원도",
+  "terminalNm": "장평금호직행"
+ },
+ {
+  "terminalId": "NAI5930605",
+  "cityName": "전라남도",
+  "terminalNm": "용산금호직행"
+ },
+ {
+  "terminalId": "NAI5930606",
+  "cityName": "전라남도",
+  "terminalNm": "양촌"
+ },
+ {
+  "terminalId": "NAI5930607",
+  "cityName": "전라남도",
+  "terminalNm": "장평용산"
+ },
+ {
+  "terminalId": "NAI5930608",
+  "cityName": "전라남도",
+  "terminalNm": "선정"
+ },
+ {
+  "terminalId": "NAI5930609",
+  "cityName": "전라남도",
+  "terminalNm": "광평"
+ },
+ {
+  "terminalId": "NAI5930610",
+  "cityName": "전라남도",
+  "terminalNm": "종정"
+ },
+ {
+  "terminalId": "NAI5930630",
+  "cityName": "강원도",
+  "terminalNm": "장평(직)"
+ },
+ {
+  "terminalId": "NAI5930701",
+  "cityName": "전라남도",
+  "terminalNm": "배산"
+ },
+ {
+  "terminalId": "NAI5930702",
+  "cityName": "전라남도",
+  "terminalNm": "배산금호직행"
+ },
+ {
+  "terminalId": "NAI5930703",
+  "cityName": "전라남도",
+  "terminalNm": "배산2"
+ },
+ {
+  "terminalId": "NAI5930704",
+  "cityName": "전라남도",
+  "terminalNm": "북교"
+ },
+ {
+  "terminalId": "NAI5930705",
+  "cityName": "전라남도",
+  "terminalNm": "율리"
+ },
+ {
+  "terminalId": "NAI5930706",
+  "cityName": "전라남도",
+  "terminalNm": "배산3"
+ },
+ {
+  "terminalId": "NAI5930801",
+  "cityName": "전라남도",
+  "terminalNm": "하산"
+ },
+ {
+  "terminalId": "NAI5930802",
+  "cityName": "전라남도",
+  "terminalNm": "반산"
+ },
+ {
+  "terminalId": "NAI5930803",
+  "cityName": "전라남도",
+  "terminalNm": "북동"
+ },
+ {
+  "terminalId": "NAI5930804",
+  "cityName": "전라남도",
+  "terminalNm": "방이"
+ },
+ {
+  "terminalId": "NAI5930805",
+  "cityName": "전라남도",
+  "terminalNm": "상방이"
+ },
+ {
+  "terminalId": "NAI5931501",
+  "cityName": "전라남도",
+  "terminalNm": "해동"
  },
  {
   "terminalId": "NAI5932401",
@@ -1630,9 +8725,549 @@
   "terminalNm": "장흥"
  },
  {
+  "terminalId": "NAI5932402",
+  "cityName": "전라남도",
+  "terminalNm": "장흥(완)"
+ },
+ {
+  "terminalId": "NAI5932403",
+  "cityName": "전라남도",
+  "terminalNm": "장흥금호직행"
+ },
+ {
+  "terminalId": "NAI5933101",
+  "cityName": "전라남도",
+  "terminalNm": "장흥시장통"
+ },
+ {
+  "terminalId": "NAI5933501",
+  "cityName": "전라남도",
+  "terminalNm": "영전"
+ },
+ {
+  "terminalId": "NAI5933801",
+  "cityName": "전라남도",
+  "terminalNm": "운정(장흥)"
+ },
+ {
+  "terminalId": "NAI5933802",
+  "cityName": "전라남도",
+  "terminalNm": "미륵(장흥)"
+ },
+ {
+  "terminalId": "NAI5933803",
+  "cityName": "전라남도",
+  "terminalNm": "기산"
+ },
+ {
+  "terminalId": "NAI5933804",
+  "cityName": "전라남도",
+  "terminalNm": "안양"
+ },
+ {
+  "terminalId": "NAI5933901",
+  "cityName": "전라남도",
+  "terminalNm": "학송"
+ },
+ {
+  "terminalId": "NAI5933902",
+  "cityName": "전라남도",
+  "terminalNm": "수락"
+ },
+ {
+  "terminalId": "NAI5933903",
+  "cityName": "전라남도",
+  "terminalNm": "해수욕"
+ },
+ {
+  "terminalId": "NAI5933904",
+  "cityName": "전라남도",
+  "terminalNm": "옥섬"
+ },
+ {
+  "terminalId": "NAI5934001",
+  "cityName": "전라북도",
+  "terminalNm": "율산"
+ },
+ {
+  "terminalId": "NAI5934101",
+  "cityName": "전라남도",
+  "terminalNm": "풍암"
+ },
+ {
+  "terminalId": "NAI5934103",
+  "cityName": "전라남도",
+  "terminalNm": "심동"
+ },
+ {
+  "terminalId": "NAI5934201",
+  "cityName": "전라남도",
+  "terminalNm": "용산(장흥)"
+ },
+ {
+  "terminalId": "NAI5934202",
+  "cityName": "전라남도",
+  "terminalNm": "계산"
+ },
+ {
+  "terminalId": "NAI5934203",
+  "cityName": "전라남도",
+  "terminalNm": "모산"
+ },
+ {
+  "terminalId": "NAI5934204",
+  "cityName": "전라남도",
+  "terminalNm": "용산2"
+ },
+ {
+  "terminalId": "NAI5934301",
+  "cityName": "전라남도",
+  "terminalNm": "농어두"
+ },
+ {
+  "terminalId": "NAI5934302",
+  "cityName": "전라남도",
+  "terminalNm": "두암"
+ },
+ {
+  "terminalId": "NAI5934303",
+  "cityName": "전라남도",
+  "terminalNm": "상발"
+ },
+ {
+  "terminalId": "NAI5934304",
+  "cityName": "전라남도",
+  "terminalNm": "풍길"
+ },
+ {
+  "terminalId": "NAI5934401",
+  "cityName": "전라남도",
+  "terminalNm": "청전"
+ },
+ {
+  "terminalId": "NAI5934402",
+  "cityName": "전라남도",
+  "terminalNm": "관지"
+ },
+ {
+  "terminalId": "NAI5934403",
+  "cityName": "전라남도",
+  "terminalNm": "상금"
+ },
+ {
+  "terminalId": "NAI5934404",
+  "cityName": "전라남도",
+  "terminalNm": "척산"
+ },
+ {
+  "terminalId": "NAI5934405",
+  "cityName": "전라남도",
+  "terminalNm": "송전"
+ },
+ {
+  "terminalId": "NAI5934406",
+  "cityName": "전라남도",
+  "terminalNm": "정장"
+ },
+ {
+  "terminalId": "NAI5934407",
+  "cityName": "전라남도",
+  "terminalNm": "포곡"
+ },
+ {
+  "terminalId": "NAI5934501",
+  "cityName": "전라남도",
+  "terminalNm": "재송(전남)"
+ },
+ {
+  "terminalId": "NAI5934502",
+  "cityName": "전라남도",
+  "terminalNm": "어서"
+ },
+ {
+  "terminalId": "NAI5934503",
+  "cityName": "전라남도",
+  "terminalNm": "월림"
+ },
+ {
+  "terminalId": "NAI5934504",
+  "cityName": "전라남도",
+  "terminalNm": "오동"
+ },
+ {
+  "terminalId": "NAI5934505",
+  "cityName": "전라남도",
+  "terminalNm": "묵촌"
+ },
+ {
+  "terminalId": "NAI5934506",
+  "cityName": "전라남도",
+  "terminalNm": "월림2"
+ },
+ {
   "terminalId": "NAI5935101",
   "cityName": "전라남도",
   "terminalNm": "관산"
+ },
+ {
+  "terminalId": "NAI5935102",
+  "cityName": "전라남도",
+  "terminalNm": "관산관내"
+ },
+ {
+  "terminalId": "NAI5935104",
+  "cityName": "전라남도",
+  "terminalNm": "남도대"
+ },
+ {
+  "terminalId": "NAI5935105",
+  "cityName": "전라남도",
+  "terminalNm": "원기"
+ },
+ {
+  "terminalId": "NAI5935106",
+  "cityName": "전라남도",
+  "terminalNm": "관산금호직행"
+ },
+ {
+  "terminalId": "NAI5935107",
+  "cityName": "전라남도",
+  "terminalNm": "남송입구"
+ },
+ {
+  "terminalId": "NAI5935108",
+  "cityName": "전라남도",
+  "terminalNm": "천관산"
+ },
+ {
+  "terminalId": "NAI5935109",
+  "cityName": "전라남도",
+  "terminalNm": "남송"
+ },
+ {
+  "terminalId": "NAI5935110",
+  "cityName": "전라남도",
+  "terminalNm": "관산2"
+ },
+ {
+  "terminalId": "NAI5935201",
+  "cityName": "전라남도",
+  "terminalNm": "연지"
+ },
+ {
+  "terminalId": "NAI5935202",
+  "cityName": "전라남도",
+  "terminalNm": "오산(대덕)"
+ },
+ {
+  "terminalId": "NAI5935301",
+  "cityName": "전라남도",
+  "terminalNm": "산외동"
+ },
+ {
+  "terminalId": "NAI5935302",
+  "cityName": "전라남도",
+  "terminalNm": "관흥"
+ },
+ {
+  "terminalId": "NAI5935303",
+  "cityName": "전라남도",
+  "terminalNm": "수동(장흥)"
+ },
+ {
+  "terminalId": "NAI5935305",
+  "cityName": "전라남도",
+  "terminalNm": "상촌"
+ },
+ {
+  "terminalId": "NAI5935306",
+  "cityName": "전라남도",
+  "terminalNm": "수동2"
+ },
+ {
+  "terminalId": "NAI5935307",
+  "cityName": "전라남도",
+  "terminalNm": "관흥2"
+ },
+ {
+  "terminalId": "NAI5935401",
+  "cityName": "전라남도",
+  "terminalNm": "호동(관산)"
+ },
+ {
+  "terminalId": "NAI5935402",
+  "cityName": "전라남도",
+  "terminalNm": "방촌"
+ },
+ {
+  "terminalId": "NAI5935403",
+  "cityName": "전라남도",
+  "terminalNm": "저곡"
+ },
+ {
+  "terminalId": "NAI5935404",
+  "cityName": "전라남도",
+  "terminalNm": "송촌"
+ },
+ {
+  "terminalId": "NAI5935501",
+  "cityName": "전라남도",
+  "terminalNm": "하발"
+ },
+ {
+  "terminalId": "NAI5935502",
+  "cityName": "전라남도",
+  "terminalNm": "죽청1"
+ },
+ {
+  "terminalId": "NAI5935503",
+  "cityName": "전라남도",
+  "terminalNm": "죽청2"
+ },
+ {
+  "terminalId": "NAI5935601",
+  "cityName": "전라남도",
+  "terminalNm": "지정"
+ },
+ {
+  "terminalId": "NAI5935602",
+  "cityName": "전라남도",
+  "terminalNm": "지정1"
+ },
+ {
+  "terminalId": "NAI5935603",
+  "cityName": "전라남도",
+  "terminalNm": "고마1"
+ },
+ {
+  "terminalId": "NAI5935604",
+  "cityName": "전라남도",
+  "terminalNm": "고마3"
+ },
+ {
+  "terminalId": "NAI5935605",
+  "cityName": "전라남도",
+  "terminalNm": "동두"
+ },
+ {
+  "terminalId": "NAI5935606",
+  "cityName": "전라남도",
+  "terminalNm": "장환"
+ },
+ {
+  "terminalId": "NAI5935607",
+  "cityName": "전라남도",
+  "terminalNm": "사금"
+ },
+ {
+  "terminalId": "NAI5935701",
+  "cityName": "전라남도",
+  "terminalNm": "삼산(장흥)"
+ },
+ {
+  "terminalId": "NAI5935801",
+  "cityName": "전라남도",
+  "terminalNm": "신상"
+ },
+ {
+  "terminalId": "NAI5935802",
+  "cityName": "전라남도",
+  "terminalNm": "대리"
+ },
+ {
+  "terminalId": "NAI5935901",
+  "cityName": "전라남도",
+  "terminalNm": "노력도"
+ },
+ {
+  "terminalId": "NAI5935902",
+  "cityName": "전라남도",
+  "terminalNm": "노력항"
+ },
+ {
+  "terminalId": "NAI5936001",
+  "cityName": "전라남도",
+  "terminalNm": "회진"
+ },
+ {
+  "terminalId": "NAI5936002",
+  "cityName": "전라남도",
+  "terminalNm": "북리"
+ },
+ {
+  "terminalId": "NAI5936003",
+  "cityName": "전라남도",
+  "terminalNm": "산저"
+ },
+ {
+  "terminalId": "NAI5936004",
+  "cityName": "전라남도",
+  "terminalNm": "선자"
+ },
+ {
+  "terminalId": "NAI5936005",
+  "cityName": "전라남도",
+  "terminalNm": "회진(직)"
+ },
+ {
+  "terminalId": "NAI5936007",
+  "cityName": "전라남도",
+  "terminalNm": "회진2"
+ },
+ {
+  "terminalId": "NAI5936008",
+  "cityName": "전라남도",
+  "terminalNm": "산저2"
+ },
+ {
+  "terminalId": "NAI5936101",
+  "cityName": "전라남도",
+  "terminalNm": "진목(전남)"
+ },
+ {
+  "terminalId": "NAI5936102",
+  "cityName": "전라남도",
+  "terminalNm": "삭금"
+ },
+ {
+  "terminalId": "NAI5936103",
+  "cityName": "전라남도",
+  "terminalNm": "안삭금"
+ },
+ {
+  "terminalId": "NAI5936104",
+  "cityName": "전라남도",
+  "terminalNm": "갯나들"
+ },
+ {
+  "terminalId": "NAI5936201",
+  "cityName": "전라남도",
+  "terminalNm": "구평"
+ },
+ {
+  "terminalId": "NAI5936401",
+  "cityName": "전라남도",
+  "terminalNm": "평촌(장흥)"
+ },
+ {
+  "terminalId": "NAI5936402",
+  "cityName": "전라남도",
+  "terminalNm": "가학"
+ },
+ {
+  "terminalId": "NAI5936501",
+  "cityName": "전라남도",
+  "terminalNm": "대덕"
+ },
+ {
+  "terminalId": "NAI5936502",
+  "cityName": "전라남도",
+  "terminalNm": "도청(전남)"
+ },
+ {
+  "terminalId": "NAI5936503",
+  "cityName": "전라남도",
+  "terminalNm": "월정"
+ },
+ {
+  "terminalId": "NAI5936504",
+  "cityName": "전라남도",
+  "terminalNm": "초당"
+ },
+ {
+  "terminalId": "NAI5936505",
+  "cityName": "전라남도",
+  "terminalNm": "대덕(직)"
+ },
+ {
+  "terminalId": "NAI5936506",
+  "cityName": "전라남도",
+  "terminalNm": "대덕금호직행"
+ },
+ {
+  "terminalId": "NAI5936507",
+  "cityName": "전라남도",
+  "terminalNm": "대덕2"
+ },
+ {
+  "terminalId": "NAI5936508",
+  "cityName": "전라남도",
+  "terminalNm": "월정2"
+ },
+ {
+  "terminalId": "NAI5936601",
+  "cityName": "전라남도",
+  "terminalNm": "신리(전남)"
+ },
+ {
+  "terminalId": "NAI5936602",
+  "cityName": "전라남도",
+  "terminalNm": "사업장"
+ },
+ {
+  "terminalId": "NAI5936603",
+  "cityName": "전라남도",
+  "terminalNm": "이신"
+ },
+ {
+  "terminalId": "NAI5936604",
+  "cityName": "전라남도",
+  "terminalNm": "내저"
+ },
+ {
+  "terminalId": "NAI5936605",
+  "cityName": "전라남도",
+  "terminalNm": "옹암"
+ },
+ {
+  "terminalId": "NAI5936607",
+  "cityName": "전라남도",
+  "terminalNm": "하분"
+ },
+ {
+  "terminalId": "NAI5936608",
+  "cityName": "전라남도",
+  "terminalNm": "양하"
+ },
+ {
+  "terminalId": "NAI5936609",
+  "cityName": "전라남도",
+  "terminalNm": "잠두"
+ },
+ {
+  "terminalId": "NAI5936610",
+  "cityName": "전라남도",
+  "terminalNm": "덕촌"
+ },
+ {
+  "terminalId": "NAI5936611",
+  "cityName": "전라남도",
+  "terminalNm": "잠두입구"
+ },
+ {
+  "terminalId": "NAI5940001",
+  "cityName": "전라남도",
+  "terminalNm": "문덕"
+ },
+ {
+  "terminalId": "NAI5940201",
+  "cityName": "전라남도",
+  "terminalNm": "진산"
+ },
+ {
+  "terminalId": "NAI5940501",
+  "cityName": "전라남도",
+  "terminalNm": "복내"
+ },
+ {
+  "terminalId": "NAI5941201",
+  "cityName": "전라남도",
+  "terminalNm": "수남"
+ },
+ {
+  "terminalId": "NAI5941901",
+  "cityName": "전라남도",
+  "terminalNm": "호산(전남)"
  },
  {
   "terminalId": "NAI5942301",
@@ -1640,9 +9275,84 @@
   "terminalNm": "벌교"
  },
  {
+  "terminalId": "NAI5942302",
+  "cityName": "전라남도",
+  "terminalNm": "벌교(완)"
+ },
+ {
+  "terminalId": "NAI5942303",
+  "cityName": "전라남도",
+  "terminalNm": "벌교(신항)"
+ },
+ {
+  "terminalId": "NAI5942401",
+  "cityName": "전라남도",
+  "terminalNm": "고벌교"
+ },
+ {
+  "terminalId": "NAI5943601",
+  "cityName": "전라남도",
+  "terminalNm": "예당"
+ },
+ {
+  "terminalId": "NAI5944001",
+  "cityName": "전라남도",
+  "terminalNm": "조성"
+ },
+ {
+  "terminalId": "NAI5944501",
+  "cityName": "전라남도",
+  "terminalNm": "금호"
+ },
+ {
+  "terminalId": "NAI5944801",
+  "cityName": "전라남도",
+  "terminalNm": "보성 녹차밭"
+ },
+ {
+  "terminalId": "NAI5944802",
+  "cityName": "전라남도",
+  "terminalNm": "녹차밭(직통)"
+ },
+ {
+  "terminalId": "NAI5945001",
+  "cityName": "전라남도",
+  "terminalNm": "제암산휴양림"
+ },
+ {
+  "terminalId": "NAI5945002",
+  "cityName": "전남",
+  "terminalNm": "웅치면사무소"
+ },
+ {
+  "terminalId": "NAI5945301",
+  "cityName": "전라남도",
+  "terminalNm": "부평"
+ },
+ {
+  "terminalId": "NAI5945501",
+  "cityName": "전라남도",
+  "terminalNm": "보성북문"
+ },
+ {
+  "terminalId": "NAI5945502",
+  "cityName": "전라남도",
+  "terminalNm": "을지"
+ },
+ {
+  "terminalId": "NAI5945503",
+  "cityName": "전라남도",
+  "terminalNm": "보성북문(직통)"
+ },
+ {
   "terminalId": "NAI5945801",
   "cityName": "전라남도",
   "terminalNm": "보성"
+ },
+ {
+  "terminalId": "NAI5945802",
+  "cityName": "전라남도",
+  "terminalNm": "보성(직통)"
  },
  {
   "terminalId": "NAI5947101",
@@ -1650,9 +9360,624 @@
   "terminalNm": "율포(전남)"
  },
  {
+  "terminalId": "NAI5947102",
+  "cityName": "전라남도",
+  "terminalNm": "율포(직통)"
+ },
+ {
+  "terminalId": "NAI5947501",
+  "cityName": "전라남도",
+  "terminalNm": "군학"
+ },
+ {
+  "terminalId": "NAI5947502",
+  "cityName": "전라남도",
+  "terminalNm": "전일"
+ },
+ {
+  "terminalId": "NAI5950001",
+  "cityName": "전라남도",
+  "terminalNm": "마륜"
+ },
+ {
+  "terminalId": "NAI5950101",
+  "cityName": "전라남도",
+  "terminalNm": "계매"
+ },
+ {
+  "terminalId": "NAI5950102",
+  "cityName": "전라남도",
+  "terminalNm": "동강"
+ },
+ {
+  "terminalId": "NAI5950201",
+  "cityName": "전라남도",
+  "terminalNm": "매곡(고흥)"
+ },
+ {
+  "terminalId": "NAI5950202",
+  "cityName": "전라남도",
+  "terminalNm": "한천"
+ },
+ {
+  "terminalId": "NAI5950203",
+  "cityName": "전라남도",
+  "terminalNm": "쌍암"
+ },
+ {
+  "terminalId": "NAI5950204",
+  "cityName": "전라남도",
+  "terminalNm": "한천모산화순"
+ },
+ {
+  "terminalId": "NAI5950205",
+  "cityName": "전라남도",
+  "terminalNm": "한천모산광주"
+ },
+ {
+  "terminalId": "NAI5950206",
+  "cityName": "전라남도",
+  "terminalNm": "한천-화순"
+ },
+ {
+  "terminalId": "NAI5950207",
+  "cityName": "전라남도",
+  "terminalNm": "한천-광주"
+ },
+ {
+  "terminalId": "NAI5950208",
+  "cityName": "전라남도",
+  "terminalNm": "한천가암화순"
+ },
+ {
+  "terminalId": "NAI5950209",
+  "cityName": "전라남도",
+  "terminalNm": "한천가암광주"
+ },
+ {
+  "terminalId": "NAI5950210",
+  "cityName": "전라남도",
+  "terminalNm": "매곡"
+ },
+ {
+  "terminalId": "NAI5950401",
+  "cityName": "전라남도",
+  "terminalNm": "평촌(고흥)"
+ },
+ {
+  "terminalId": "NAI5950501",
+  "cityName": "전라남도",
+  "terminalNm": "운교(고흥)"
+ },
+ {
+  "terminalId": "NAI5950502",
+  "cityName": "전라남도",
+  "terminalNm": "탄포"
+ },
+ {
+  "terminalId": "NAI5950503",
+  "cityName": "전라남도",
+  "terminalNm": "침교"
+ },
+ {
+  "terminalId": "NAI5950701",
+  "cityName": "전라남도",
+  "terminalNm": "서호"
+ },
+ {
+  "terminalId": "NAI5950702",
+  "cityName": "전라남도",
+  "terminalNm": "대서"
+ },
+ {
+  "terminalId": "NAI5950901",
+  "cityName": "전라남도",
+  "terminalNm": "노송(고흥)"
+ },
+ {
+  "terminalId": "NAI5950902",
+  "cityName": "전라남도",
+  "terminalNm": "남양"
+ },
+ {
+  "terminalId": "NAI5950903",
+  "cityName": "전라남도",
+  "terminalNm": "옥천(전남)"
+ },
+ {
+  "terminalId": "NAI5950904",
+  "cityName": "전라남도",
+  "terminalNm": "주교(전남)"
+ },
+ {
+  "terminalId": "NAI5951001",
+  "cityName": "전라남도",
+  "terminalNm": "연등"
+ },
+ {
+  "terminalId": "NAI5951002",
+  "cityName": "전라남도",
+  "terminalNm": "화덕"
+ },
+ {
+  "terminalId": "NAI5951003",
+  "cityName": "전라남도",
+  "terminalNm": "외호"
+ },
+ {
   "terminalId": "NAI5951101",
   "cityName": "전라남도",
   "terminalNm": "과역"
+ },
+ {
+  "terminalId": "NAI5951102",
+  "cityName": "전라남도",
+  "terminalNm": "과역(완)"
+ },
+ {
+  "terminalId": "NAI5951301",
+  "cityName": "전라남도",
+  "terminalNm": "성두"
+ },
+ {
+  "terminalId": "NAI5951302",
+  "cityName": "전라남도",
+  "terminalNm": "연강(연비)"
+ },
+ {
+  "terminalId": "NAI5951303",
+  "cityName": "전라남도",
+  "terminalNm": "예회"
+ },
+ {
+  "terminalId": "NAI5951304",
+  "cityName": "전라남도",
+  "terminalNm": "내당"
+ },
+ {
+  "terminalId": "NAI5951401",
+  "cityName": "전라남도",
+  "terminalNm": "풍류"
+ },
+ {
+  "terminalId": "NAI5951402",
+  "cityName": "전라남도",
+  "terminalNm": "월하"
+ },
+ {
+  "terminalId": "NAI5951403",
+  "cityName": "전라남도",
+  "terminalNm": "두곡"
+ },
+ {
+  "terminalId": "NAI5951501",
+  "cityName": "전라남도",
+  "terminalNm": "운대"
+ },
+ {
+  "terminalId": "NAI5951502",
+  "cityName": "전라남도",
+  "terminalNm": "수도암"
+ },
+ {
+  "terminalId": "NAI5951601",
+  "cityName": "전라남도",
+  "terminalNm": "봉남(백호)"
+ },
+ {
+  "terminalId": "NAI5951701",
+  "cityName": "전라남도",
+  "terminalNm": "대춘"
+ },
+ {
+  "terminalId": "NAI5951801",
+  "cityName": "전라남도",
+  "terminalNm": "여호"
+ },
+ {
+  "terminalId": "NAI5951802",
+  "cityName": "전라남도",
+  "terminalNm": "강산"
+ },
+ {
+  "terminalId": "NAI5951901",
+  "cityName": "전라남도",
+  "terminalNm": "점암(고흥)"
+ },
+ {
+  "terminalId": "NAI5951902",
+  "cityName": "전라남도",
+  "terminalNm": "천학"
+ },
+ {
+  "terminalId": "NAI5951903",
+  "cityName": "전라남도",
+  "terminalNm": "장남"
+ },
+ {
+  "terminalId": "NAI5951904",
+  "cityName": "전라남도",
+  "terminalNm": "시목(전남)"
+ },
+ {
+  "terminalId": "NAI5952001",
+  "cityName": "전라남도",
+  "terminalNm": "만호"
+ },
+ {
+  "terminalId": "NAI5952002",
+  "cityName": "전라남도",
+  "terminalNm": "능정"
+ },
+ {
+  "terminalId": "NAI5952003",
+  "cityName": "전라남도",
+  "terminalNm": "양화"
+ },
+ {
+  "terminalId": "NAI5952004",
+  "cityName": "전라남도",
+  "terminalNm": "양사"
+ },
+ {
+  "terminalId": "NAI5952005",
+  "cityName": "전라남도",
+  "terminalNm": "양사.원주도"
+ },
+ {
+  "terminalId": "NAI5952101",
+  "cityName": "전라남도",
+  "terminalNm": "남열리"
+ },
+ {
+  "terminalId": "NAI5952102",
+  "cityName": "전라남도",
+  "terminalNm": "간천"
+ },
+ {
+  "terminalId": "NAI5952103",
+  "cityName": "전라남도",
+  "terminalNm": "우두"
+ },
+ {
+  "terminalId": "NAI5952105",
+  "cityName": "전라남도",
+  "terminalNm": "우암.양화"
+ },
+ {
+  "terminalId": "NAI5952151",
+  "cityName": "전라남도",
+  "terminalNm": "남열리,용암"
+ },
+ {
+  "terminalId": "NAI5952152",
+  "cityName": "전라남도",
+  "terminalNm": "간천,양사"
+ },
+ {
+  "terminalId": "NAI5952153",
+  "cityName": "전라남도",
+  "terminalNm": "상남,오산"
+ },
+ {
+  "terminalId": "NAI5952154",
+  "cityName": "전라남도",
+  "terminalNm": "여호,방내"
+ },
+ {
+  "terminalId": "NAI5952155",
+  "cityName": "전라남도",
+  "terminalNm": "우두,신성"
+ },
+ {
+  "terminalId": "NAI5952156",
+  "cityName": "전라남도",
+  "terminalNm": "쌍암,매곡"
+ },
+ {
+  "terminalId": "NAI5952157",
+  "cityName": "전라남도",
+  "terminalNm": "한천,택촌"
+ },
+ {
+  "terminalId": "NAI5952158",
+  "cityName": "전라남도",
+  "terminalNm": "만호,자연동"
+ },
+ {
+  "terminalId": "NAI5952159",
+  "cityName": "전라남도",
+  "terminalNm": "주교,화담"
+ },
+ {
+  "terminalId": "NAI5952160",
+  "cityName": "전라남도",
+  "terminalNm": "강산,한동"
+ },
+ {
+  "terminalId": "NAI5952161",
+  "cityName": "전라남도",
+  "terminalNm": "신흥,예동"
+ },
+ {
+  "terminalId": "NAI5952162",
+  "cityName": "전라남도",
+  "terminalNm": "구곡,심포"
+ },
+ {
+  "terminalId": "NAI5952163",
+  "cityName": "전라남도",
+  "terminalNm": "장수,평촌"
+ },
+ {
+  "terminalId": "NAI5952164",
+  "cityName": "전라남도",
+  "terminalNm": "송산,남촌"
+ },
+ {
+  "terminalId": "NAI5952165",
+  "cityName": "전라남도",
+  "terminalNm": "상포,동산동"
+ },
+ {
+  "terminalId": "NAI5952166",
+  "cityName": "전라남도",
+  "terminalNm": "탄포,침교"
+ },
+ {
+  "terminalId": "NAI5952167",
+  "cityName": "전라남도",
+  "terminalNm": "외호,내백"
+ },
+ {
+  "terminalId": "NAI5952168",
+  "cityName": "전라남도",
+  "terminalNm": "시목,옥천"
+ },
+ {
+  "terminalId": "NAI5952201",
+  "cityName": "전라남도",
+  "terminalNm": "동촌"
+ },
+ {
+  "terminalId": "NAI5952202",
+  "cityName": "전라남도",
+  "terminalNm": "만화"
+ },
+ {
+  "terminalId": "NAI5952203",
+  "cityName": "전라남도",
+  "terminalNm": "동산동"
+ },
+ {
+  "terminalId": "NAI5952204",
+  "cityName": "전라남도",
+  "terminalNm": "상포"
+ },
+ {
+  "terminalId": "NAI5952205",
+  "cityName": "전라남도",
+  "terminalNm": "중흥"
+ },
+ {
+  "terminalId": "NAI5952206",
+  "cityName": "전라남도",
+  "terminalNm": "산동"
+ },
+ {
+  "terminalId": "NAI5952301",
+  "cityName": "전라남도",
+  "terminalNm": "상오"
+ },
+ {
+  "terminalId": "NAI5952302",
+  "cityName": "전라남도",
+  "terminalNm": "하오"
+ },
+ {
+  "terminalId": "NAI5952303",
+  "cityName": "전라남도",
+  "terminalNm": "취도"
+ },
+ {
+  "terminalId": "NAI5952304",
+  "cityName": "전라남도",
+  "terminalNm": "옥강"
+ },
+ {
+  "terminalId": "NAI5952305",
+  "cityName": "전라남도",
+  "terminalNm": "신오"
+ },
+ {
+  "terminalId": "NAI5952306",
+  "cityName": "전라남도",
+  "terminalNm": "정암"
+ },
+ {
+  "terminalId": "NAI5952401",
+  "cityName": "전라남도",
+  "terminalNm": "포두"
+ },
+ {
+  "terminalId": "NAI5952402",
+  "cityName": "전라남도",
+  "terminalNm": "봉덕"
+ },
+ {
+  "terminalId": "NAI5952403",
+  "cityName": "전라남도",
+  "terminalNm": "백수"
+ },
+ {
+  "terminalId": "NAI5952404",
+  "cityName": "전라남도",
+  "terminalNm": "척치"
+ },
+ {
+  "terminalId": "NAI5952405",
+  "cityName": "전라남도",
+  "terminalNm": "금탑사"
+ },
+ {
+  "terminalId": "NAI5952406",
+  "cityName": "전라남도",
+  "terminalNm": "금사(전남)"
+ },
+ {
+  "terminalId": "NAI5952407",
+  "cityName": "전라남도",
+  "terminalNm": "봉덕2구"
+ },
+ {
+  "terminalId": "NAI5952501",
+  "cityName": "전라남도",
+  "terminalNm": "고당"
+ },
+ {
+  "terminalId": "NAI5952502",
+  "cityName": "전라남도",
+  "terminalNm": "황산"
+ },
+ {
+  "terminalId": "NAI5952503",
+  "cityName": "전라남도",
+  "terminalNm": "신호"
+ },
+ {
+  "terminalId": "NAI5952601",
+  "cityName": "전라남도",
+  "terminalNm": "차동"
+ },
+ {
+  "terminalId": "NAI5952602",
+  "cityName": "전라남도",
+  "terminalNm": "미후"
+ },
+ {
+  "terminalId": "NAI5952603",
+  "cityName": "전라남도",
+  "terminalNm": "내산(전남)"
+ },
+ {
+  "terminalId": "NAI5952604",
+  "cityName": "전라남도",
+  "terminalNm": "세동"
+ },
+ {
+  "terminalId": "NAI5952701",
+  "cityName": "전라남도",
+  "terminalNm": "익금"
+ },
+ {
+  "terminalId": "NAI5952702",
+  "cityName": "전라남도",
+  "terminalNm": "남성"
+ },
+ {
+  "terminalId": "NAI5952801",
+  "cityName": "전라남도",
+  "terminalNm": "내발"
+ },
+ {
+  "terminalId": "NAI5952802",
+  "cityName": "전라남도",
+  "terminalNm": "석수포"
+ },
+ {
+  "terminalId": "NAI5952901",
+  "cityName": "전라남도",
+  "terminalNm": "도화"
+ },
+ {
+  "terminalId": "NAI5952902",
+  "cityName": "전라남도",
+  "terminalNm": "사덕"
+ },
+ {
+  "terminalId": "NAI5952903",
+  "cityName": "전라남도",
+  "terminalNm": "하도"
+ },
+ {
+  "terminalId": "NAI5953001",
+  "cityName": "전라남도",
+  "terminalNm": "원도동"
+ },
+ {
+  "terminalId": "NAI5953002",
+  "cityName": "전라남도",
+  "terminalNm": "화옥"
+ },
+ {
+  "terminalId": "NAI5953003",
+  "cityName": "전라남도",
+  "terminalNm": "가화"
+ },
+ {
+  "terminalId": "NAI5953004",
+  "cityName": "전라남도",
+  "terminalNm": "여의촌"
+ },
+ {
+  "terminalId": "NAI5953005",
+  "cityName": "전라남도",
+  "terminalNm": "황촌"
+ },
+ {
+  "terminalId": "NAI5953101",
+  "cityName": "전라남도",
+  "terminalNm": "구암"
+ },
+ {
+  "terminalId": "NAI5953102",
+  "cityName": "전라남도",
+  "terminalNm": "가인리"
+ },
+ {
+  "terminalId": "NAI5953103",
+  "cityName": "전라남도",
+  "terminalNm": "단장(전남)"
+ },
+ {
+  "terminalId": "NAI5953104",
+  "cityName": "전라남도",
+  "terminalNm": "지호"
+ },
+ {
+  "terminalId": "NAI5953105",
+  "cityName": "전라남도",
+  "terminalNm": "구암-화순"
+ },
+ {
+  "terminalId": "NAI5953107",
+  "cityName": "전라남도",
+  "terminalNm": "가인동"
+ },
+ {
+  "terminalId": "NAI5953201",
+  "cityName": "전라남도",
+  "terminalNm": "고소"
+ },
+ {
+  "terminalId": "NAI5953401",
+  "cityName": "전라남도",
+  "terminalNm": "수덕"
+ },
+ {
+  "terminalId": "NAI5953701",
+  "cityName": "전라남도",
+  "terminalNm": "우산"
+ },
+ {
+  "terminalId": "NAI5953702",
+  "cityName": "전라남도",
+  "terminalNm": "우산입구"
+ },
+ {
+  "terminalId": "NAI5953703",
+  "cityName": "전라남도",
+  "terminalNm": "우산2"
  },
  {
   "terminalId": "NAI5954001",
@@ -1660,43 +9985,18 @@
   "terminalNm": "고흥"
  },
  {
-  "terminalId": "NAI5955501",
+  "terminalId": "NAI5954002",
   "cityName": "전라남도",
-  "terminalNm": "녹동"
+  "terminalNm": "고흥(완)"
  },
  {
-  "terminalId": "NAI5956001",
+  "terminalId": "NAI5954003",
   "cityName": "전라남도",
-  "terminalNm": "녹동신항"
+  "terminalNm": "고흥(신항)"
  },
  {
-  "terminalId": "NAI5956101",
+  "terminalId": "NAI5954501",
   "cityName": "전라남도",
-  "terminalNm": "소록도"
- },
- {
-  "terminalId": "NAI5956901",
-  "cityName": "전라남도",
-  "terminalNm": "나로도"
- },
- {
-  "terminalId": "NAI5963501",
-  "cityName": "전라남도",
-  "terminalNm": "여천"
- },
- {
-  "terminalId": "NAI5971501",
-  "cityName": "전라남도",
-  "terminalNm": "여수"
- },
- {
-  "terminalId": "NAI6193701",
-  "cityName": "광주광역시",
-  "terminalNm": "광주(유·스퀘어)"
- },
- {
-  "terminalId": "NAI6314601",
-  "cityName": "제주특별자치도",
-  "terminalNm": "제주종합"
+  "terminalNm": "고흥만"
  }
 ]
