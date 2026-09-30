@@ -570,6 +570,11 @@
   "terminalNm": "남청주"
  },
  {
+  "terminalId": "NAI2878501",
+  "cityName": "충청북도",
+  "terminalNm": "청주 평촌동"
+ },
+ {
   "terminalId": "NAI2890801",
   "cityName": "충청북도",
   "terminalNm": "속리산"
