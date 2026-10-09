@@ -126,6 +126,12 @@ def build_intro(cat_label, dep_nm, arr_nm, stats):
     return " ".join(parts)
 
 
+def wrap_side(body):
+    """본문을 사이드바 광고(.tool-sidebar + wooa-sidebar.js) 그리드로 감싼다."""
+    return ('<div class="page-with-sidebar" style="padding:0 20px 40px;">\n<div style="min-width:0">\n'
+            + body + '</div>\n<aside class="tool-sidebar"></aside>\n</div>\n')
+
+
 def footer_html(root):
     return f"""{COUPANG_HTML}{COUPANG_DISCLOSURE_INLINE}<footer class="footer" data-root="{root}"></footer>
 
@@ -221,7 +227,7 @@ def gen_route_page(cat_label, cat_slug, route, book_label, book_url):
 </div>
 """
     head = page_head(title, desc, keywords, canonical, "../../", "")
-    return head + "<body>\n\n" + HEADER_TMPL.format(root="../../") + "\n" + body + footer_html("../../")
+    return head + "<body>\n\n" + HEADER_TMPL.format(root="../../") + "\n" + wrap_side(body) + footer_html("../../")
 
 
 def gen_terminal_page(cat_label, cat_slug, term_nm, term_id, routes_from, book_label, book_url):
@@ -260,7 +266,7 @@ def gen_terminal_page(cat_label, cat_slug, term_nm, term_id, routes_from, book_l
 </div>
 """
     head = page_head(title, desc, f"{term_nm} {cat_label}, {term_nm} {cat_label}시간표", canonical, "../../", "")
-    return head + "<body>\n\n" + HEADER_TMPL.format(root="../../") + "\n" + body + footer_html("../../")
+    return head + "<body>\n\n" + HEADER_TMPL.format(root="../../") + "\n" + wrap_side(body) + footer_html("../../")
 
 
 def gen_category_index(cat_label, cat_slug, terminals_with_routes, book_label, book_url):
@@ -304,7 +310,7 @@ function goTerminal(){{
 </script>
 """
     head = page_head(title, desc, f"전국 {cat_label} 시간표, {cat_label} 요금", canonical, "../", "")
-    return head + "<body>\n\n" + HEADER_TMPL.format(root="../") + "\n" + body + footer_html("../")
+    return head + "<body>\n\n" + HEADER_TMPL.format(root="../") + "\n" + wrap_side(body) + footer_html("../")
 
 
 def process_category(cat_label, cat_slug, routes_file):
