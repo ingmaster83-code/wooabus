@@ -22,9 +22,13 @@ jobs:
 
       - name: 버스 — 기존 노선 갱신 + 신규 노선 탐색
         run: python scripts/fetch_express_bus.py --daily
+        env:
+          DATA_GO_KR_API_KEY: ${{ secrets.DATA_GO_KR_API_KEY }}
 
       - name: 기차 — 기존 노선 갱신 + 신규 노선 탐색
         run: python scripts/fetch_train.py --daily
+        env:
+          DATA_GO_KR_API_KEY: ${{ secrets.DATA_GO_KR_API_KEY }}
 
       - name: 페이지 재생성
         run: |
